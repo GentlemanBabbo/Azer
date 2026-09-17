@@ -8,7 +8,7 @@
 					<attribute id="Name" type="22" value="Azer Female" />
 					<attribute id="Guid" type="31" value="2127bb39-2875-4708-9047-0c5f16e3bf93" />
 					<attribute id="DefaultParent" type="31" value="" />
-					<attribute id="CharacterVisual" type="31" value="" />
+					<attribute id="CharacterVisual" type="31" value="1b049e2b-e488-4545-99c8-dd16fa0b79f3" />
 				</node>
 				<node id="EquipmentRace">
 					<attribute id="Name" type="22" value="Azer Male" />
