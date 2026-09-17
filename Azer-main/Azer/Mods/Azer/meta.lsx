@@ -7,29 +7,23 @@
       <children>
         <node id="Dependencies" />
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSString" value="Community" />
-          <!-- Author of the mod in BG3MM -->
+          <attribute id="Author" type="LSString" value="GentlemanBabbo" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="An extensible template for a new BG3 race." />
-          <!-- Description of the mod in BG3MM -->
-          <attribute id="Folder" type="LSString" value="Community_Race_Template" />
-          <!-- Name of the folder containing your meta.lsx -->
+          <attribute id="Description" type="LSString" value="Azer Playable Race" />
+          <attribute id="Folder" type="LSString" value="Azer" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="Community Race Template" />
-          <!-- Name of the mod in BG3MM -->
+          <attribute id="Name" type="FixedString" value="Azer Playable Race" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="910e5d23-c21a-4835-8904-06b36364fdae" />
-          <!-- Regenerate this UUID before releasing the mod! -->
-          <attribute id="Version64" type="int64" value="36028797018963968" />
-          <!-- This version is 1.0.0.0. You can obtain new version numbers from the Multitool Version Calculator. -->
-          <children>
+          <attribute id="UUID" type="FixedString" value="027c9502-d7e5-4a72-82c6-5e3df578d85d" />
+\          <attribute id="Version64" type="int64" value="36028797018963968" />
+\          <children>
             <node id="PublishVersion">
               <attribute id="Version64" type="int64" value="36028797018963968" />
             </node>
