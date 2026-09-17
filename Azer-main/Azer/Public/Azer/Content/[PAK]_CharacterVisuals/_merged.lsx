@@ -5,8 +5,8 @@
 		<node id="CharacterVisualBank">
 			<children>
 				<node id="Resource"> <!-- Race Female Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" /> <!-- Connects to the merged file entry's ID field for the body's mesh -->
+					<attribute id="BaseVisual" type="FixedString" value="d5875d16-d0a2-4cef-a7d8-3af9f3f1e77a" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BodySetVisual" type="FixedString" value="802210a7-4fbc-4496-b9dd-1ff42a35a5eb" /> <!-- Connects to the merged file entry's ID field for the body's mesh -->
 					<attribute id="ID" type="FixedString" value="1b049e2b-e488-4545-99c8-dd16fa0b79f3" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
 					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
