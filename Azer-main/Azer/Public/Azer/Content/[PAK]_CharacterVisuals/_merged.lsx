@@ -455,7 +455,7 @@
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="5bd07e0f-bfac-568b-840c-9c5a50146648" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the head you want to be the default when loading the race and body type. -->
+							<attribute id="VisualResource" type="FixedString" value="25644bac-b9ee-400d-8955-139311fe507b" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the head you want to be the default when loading the race and body type. -->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
