@@ -20,7 +20,7 @@
 									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!-- Elemental -->
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="" /><!-- Azer -->
+									<attribute id="Object" type="guid" value="2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7" /><!-- Azer -->
 								</node>
 							</children>
 						</node>
@@ -44,7 +44,7 @@
 									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!-- Elemental -->
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="" /><!-- Azer -->
+									<attribute id="Object" type="guid" value="2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7" /><!-- Azer -->
 								</node>
 							</children>
 						</node>
