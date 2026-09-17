@@ -20,13 +20,13 @@
 	</Layers>
 	<Textures>
     <!--Male-->
-		<Texture Name="">
+		<Texture Name="f5cf8b65517f4ee889896ac51a93ad21">
 			<Layer Name="Albedo" Source=".DDS" />
 			<Layer Name="Normal" Source=".DDS" />
 			<Layer Name="Physical" Source=".DDS" />
 		</Texture>
     <!--Female-->
-		<Texture Name="">
+		<Texture Name="1ccb0065ad324b169ac87ba50a2bccc0">
 			<Layer Name="Albedo" Source=".DDS" />
 			<Layer Name="Normal" Source=".DDS" />
 			<Layer Name="Physical" Source=".DDS" />
