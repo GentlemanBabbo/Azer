@@ -169,8 +169,8 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
+					<attribute id="BaseVisual" type="FixedString" value="cbf70afc-eaf6-431d-878f-c35b73130ae1" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BodySetVisual" type="FixedString" value="281227b2-403a-4d6b-88a0-9c6c2db845e5" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="a9aebf94-4523-4b07-a256-b06c5cff409d" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
