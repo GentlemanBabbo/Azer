@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
-	<region id="CharacterVisualBank"> <!-- This is the file that tells the game everything it needs to know about the visuals for your custom race. -->
+	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
 			<children>
 				<node id="Resource"> <!-- Race Female Standard -->
 					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" /> <!-- Connects to the merged file entry's ID field for the body's mesh -->
-					<attribute id="ID" type="FixedString" value="c6e16e66-2313-4a49-b0e7-1e38e7f25987" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
-					<attribute id="Name" type="LSString" value="Race_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
+					<attribute id="ID" type="FixedString" value="1b049e2b-e488-4545-99c8-dd16fa0b79f3" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
+					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
 					<children>
 						<node id="MaterialOverrides">
@@ -144,7 +144,7 @@
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="675271af-039a-38fa-eee2-1f406c94bfa0" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the head you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the head you want to be the default when loading the race and body type.-->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -159,7 +159,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="6bcb9954-7418-d234-2509-009d4892039e" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -171,8 +171,8 @@
 				<node id="Resource"> <!-- Race Male Standard -->
 					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
-					<attribute id="ID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
-					<attribute id="Name" type="LSString" value="Race_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
+					<attribute id="ID" type="FixedString" value="a9aebf94-4523-4b07-a256-b06c5cff409d" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
+					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
 					<children>
 						<node id="MaterialOverrides">
