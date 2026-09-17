@@ -16,7 +16,7 @@
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!-- Elemental -->
 								</node>
 							</children>
 						</node>
@@ -36,7 +36,7 @@
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!-- Elemental -->
 								</node>
 							</children>
 						</node>
