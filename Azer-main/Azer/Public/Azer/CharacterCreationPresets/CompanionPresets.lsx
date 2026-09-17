@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="CompanionPresets">
+		<node id="root">
+			<children>
+				<node id="CompanionPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> 
+          <attribute id="BodyType" type="uint8" value="1"/> 
+          <attribute id="CloseUpA" type="LSString" value="DWR_F_Camera_Closeup_A"/> 
+          <attribute id="CloseUpB" type="LSString" value="DWR_F_Camera_Closeup_B"/> 
+          <attribute id="Overview" type="LSString" value="DWR_F_Camera_Overview_A"/>
+					<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" />
+					<attribute id="RootTemplate" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="0d53d36b-e3fd-4c23-aa1b-3c5d3c48eddd" />
+					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
+					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
+				</node>
+				<node id="CompanionPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
+					<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" />
+					<attribute id="RootTemplate" type="guid" value="" />
+					<attribute id="UUID" type="guid" value="17b98825-6259-4af7-8a61-98a35d50afeb" />
+					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
+					<attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
