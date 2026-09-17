@@ -1,5 +1,15 @@
 <!--------------------- Azer Passives --------------------->
 
+new entry "HeroAzerFemale"
+type "Character"
+using "_Hero"
+data "Weight" "135"
+
+new entry "HeroAzerMale"
+type "Character"
+using "_Hero"
+data "Weight" "135"
+
 new entry "Passives_Basic_Azer"
 type "PassiveData"
 data "DisplayName" ""
@@ -9,7 +19,7 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
-new entry "Dwarf_DwarvenCombatTraining"
+new entry "Azer_DwarvenCombatTraining"
 type "PassiveData"
 data "DisplayName" ";2"
 data "Description" ";1"
