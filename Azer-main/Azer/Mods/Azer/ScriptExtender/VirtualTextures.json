@@ -1,12 +1,12 @@
 {
   "Mappings": [
       {
-        "GTexName": "",
+        "GTexName": "f5cf8b65517f4ee889896ac51a93ad21",
         "GTS": "Public/Azer/Assets/VirtualTextures/Azer.gts"
-      },
+      }<!--Male-->,
       {
-        "GTexName": "",
+        "GTexName": "1ccb0065ad324b169ac87ba50a2bccc0",
         "GTS": "Public/Azer/Assets/VirtualTextures/Azer.gts"
-      } 
+      }<!--Female--> 
   ]
 }
