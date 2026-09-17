@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="1" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="EquipmentRaces">
+		<node id="root">
+			<children>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="22" value="Azer Female" />
+					<attribute id="Guid" type="31" value="" />
+					<attribute id="DefaultParent" type="31" value="" />
+					<attribute id="CharacterVisual" type="31" value="" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="22" value="Azer Male" />
+					<attribute id="Guid" type="31" value="" />
+					<attribute id="DefaultParent" type="31" value="" />
+					<attribute id="CharacterVisual" type="31" value="" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
