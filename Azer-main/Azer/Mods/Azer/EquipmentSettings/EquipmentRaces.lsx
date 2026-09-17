@@ -6,13 +6,13 @@
 			<children>
 				<node id="EquipmentRace">
 					<attribute id="Name" type="22" value="Azer Female" />
-					<attribute id="Guid" type="31" value="" />
+					<attribute id="Guid" type="31" value="2127bb39-2875-4708-9047-0c5f16e3bf93" />
 					<attribute id="DefaultParent" type="31" value="" />
 					<attribute id="CharacterVisual" type="31" value="" />
 				</node>
 				<node id="EquipmentRace">
 					<attribute id="Name" type="22" value="Azer Male" />
-					<attribute id="Guid" type="31" value="" />
+					<attribute id="Guid" type="31" value="a1718297-d93f-475d-a495-4c2d729f2517" />
 					<attribute id="DefaultParent" type="31" value="" />
 					<attribute id="CharacterVisual" type="31" value="" />
 				</node>
