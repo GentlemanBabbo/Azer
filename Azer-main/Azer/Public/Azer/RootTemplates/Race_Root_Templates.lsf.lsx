@@ -5,6 +5,7 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects"> <!-- Female -->
+	<attribute id="DeathEffect" type="guid" value="a5b14c9a-d27e-473c-a27c-adcae4f1d6cb" /><!-- UniqueELEMFire -->
 					<attribute id="MapKey" type="FixedString" value="78b1381d-b1d8-4bdc-8c9a-5ac74fc623bf" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
@@ -25,6 +26,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Male -->
+	<attribute id="DeathEffect" type="guid" value="a5b14c9a-d27e-473c-a27c-adcae4f1d6cb" /><!-- UniqueELEMFire -->
 					<attribute id="MapKey" type="FixedString" value="e883741c-d5f2-484f-8441-c734c6745cac" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
