@@ -11,7 +11,7 @@
 					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="7754a8fe-27f4-467d-8807-0964d6b9156f" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
-					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />					
+					<attribute id="Icon" type="FixedString" value="0f089ef3-2587-0603-8479-3c9b0679f9b8-_(Icon_Dwarf_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroAzerFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options. -->
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="1b049e2b-e488-4545-99c8-dd16fa0b79f3" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -37,7 +37,7 @@
 					<attribute id="EquipmentRace" type="guid" value="a1718297-d93f-475d-a495-4c2d729f2517" />															
 					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />					
+					<attribute id="Icon" type="FixedString" value="6351d5de-c072-aae3-a060-354b3af92e08-_(Icon_Dwarf_Male)" />
 					<attribute id="ParentTemplateId" type="FixedString" value="dcded019-b845-43a0-b91c-b853646218a1" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="Stats" type="FixedString" value="HeroAzerMale" />					
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options. -->
