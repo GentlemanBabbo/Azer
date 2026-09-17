@@ -3,7 +3,7 @@
 	<version major="4" minor="0" revision="8" build="2" lslib_meta="v1,bswap_guids" />
 	<region id="MaterialPresetBank">
 		<node id="MaterialPresetBank">
-			<children>
+			<children> <!--Will replace UUIDs today-->
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="eaad53e8-43d2-2f8f-1b47-b465db505468" />
 					<attribute id="Localized" type="bool" value="False" />
