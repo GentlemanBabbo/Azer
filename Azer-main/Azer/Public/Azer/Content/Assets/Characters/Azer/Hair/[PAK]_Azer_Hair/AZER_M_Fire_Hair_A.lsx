@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="2" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.10382268 1.5502251 0.27350402" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.10399802 1.1277235 -0.13749847" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="198a72bd-362b-8878-f9c3-13048a2dfc43" />
+					<attribute id="HairType" type="uint8" value="1" />
+					<attribute id="ID" type="FixedString" value="192818d5-0a86-41fc-9b9a-04d78c1c3c16" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="AZER_M_Fire_Hair_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="16ae4578-0214-9b3a-6627-c1c9be9272b3" />
+					<attribute id="SkeletonResource" type="FixedString" value="3f21573b-ea69-5ef3-c018-9f2d4e1df8d6" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Horns" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Azer/[PAK]_Azer_Hair/AZER_M_Fire_Hair_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Azer/[PAK]_Azer_Hair/AZER_M_Fire_Hair_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+              <attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_Fire_Hair_A.AZER_M_Fire_Hair_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
