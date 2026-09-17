@@ -452,25 +452,30 @@
 								</node>
 							</children>
 						</node>
-						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
+						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="25644bac-b9ee-400d-8955-139311fe507b" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the head you want to be the default when loading the race and body type. -->
+							<attribute id="VisualResource" type="FixedString" value="25644bac-b9ee-400d-8955-139311fe507b" />
+						</node>
+						<node id="Slots"> 
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="1dc403de-a3dd-4f9a-8213-2d6ceb883c82" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="6236e77f-6127-5de9-d390-72b0ed12d1fd" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the private parts you want to be the default when loading the race and body type. -->
+							<attribute id="VisualResource" type="FixedString" value="6236e77f-6127-5de9-d390-72b0ed12d1fd" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
-							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the modesty leaf (lower) you want to be the default when loading the race and body type. -->
+							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type. -->
+							<attribute id="VisualResource" type="FixedString" value="192818d5-0a86-41fc-9b9a-04d78c1c3c16" />
 						</node>
 					</children>
 				</node>
