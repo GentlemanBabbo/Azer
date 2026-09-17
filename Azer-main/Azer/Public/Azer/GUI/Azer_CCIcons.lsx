@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="TextureAtlasInfo"> <!-- I like to have this region at the top so I don't have to scroll all the way to the bottom to see it. -->
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize"> <!-- CC icons should be 150x150! -->
+                    <attribute id="Height" type="int32" value="150"/>
+                    <attribute id="Width" type="int32" value="150"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Public/Azer/Assets/Textures/Icons/Azer_CCIcons.DDS"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="UUID" type="FixedString" value="c68ee47b-6a7a-4ab3-87e4-8cdeab4d5ba1"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
+                </node>
+                <node id="TextureAtlasTextureSize"> <!-- These are the dimensions for the atlases I've included. If you go with a different size, make sure you change this to reflect that. -->
+                    <attribute id="Height" type="int32" value="751"/>
+                    <attribute id="Width" type="int32" value="1500"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <!-- By the way, when you save your atlas image, I recommend using Paint.Net and saving using the R8G8B8A8 (sRGB, DX 10+) setting, and don't generate mip maps. For some reason, using other programs/settings can sometimes make the atlas ivisible if you run the game through DXT 11. -->
+    <region id="IconUVList">
+        <node id="root">
+            <children> <!-- I have this set up for five rows of 10 icons each since that is what I've started using in my CC mods. I like to have one atlas for the fem icons and a separate atlas for the masc icons. -->
+            <!-- If an atlas fills up, then you can simply make another (just make sure it has it's own Icons.lsx and another entry in the UI _merged)-->
+            <!-- I used the sheets calculator linked in this BG3-Modders-Multitool issue to calculate the coordinates I used (I made a copy of the document that I could edit): https://github.com/ShinyHobo/BG3-Modders-Multitool/issues/218 -->
+            <!--Row 1-->
+                <node id="IconUV"> 1
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0"/>     <!--Left Boundary-->
+                    <attribute id="U2" type="float" value="0.1"/>   <!--Right Boundary-->
+                    <attribute id="V1" type="float" value="0"/>     <!--Top Boundary-->
+                    <attribute id="V2" type="float" value="0.2"/>   <!--Bottom Boundary-->
+                </node>
+                <node id="IconUV"> 2
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 3
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.2"/>
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 4
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 5
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 6
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 7
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 8
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 9
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV"> 10
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1"/>
+                    <attribute id="V1" type="float" value="0"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+            <!--Row 2-->
+                <node id="IconUV"> 11
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0"/>		
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 12
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 13
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.2"/>		
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 14
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 15
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 16
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 17
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 18
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 19
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+                <node id="IconUV"> 20
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1"/>	    
+                    <attribute id="V1" type="float" value="0.2"/>
+                    <attribute id="V2" type="float" value="0.4"/>
+                </node>
+            <!--Row 3-->
+                <node id="IconUV"> 21
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 22
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 23
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.2"/>
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 24
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 25
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 26
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 27
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>	
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 28
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 29
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+                <node id="IconUV"> 30
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1"/>
+                    <attribute id="V1" type="float" value="0.4"/>
+                    <attribute id="V2" type="float" value="0.6"/>
+                </node>
+            <!--Row 4-->
+                <node id="IconUV"> 31
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 32
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 33
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.2"/>
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 34
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 35
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.4"/>
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 36
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 37
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>	    
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 38
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 39
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+                <node id="IconUV"> 40
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1"/>
+                    <attribute id="V1" type="float" value="0.6"/>
+                    <attribute id="V2" type="float" value="0.8"/>
+                </node>
+            <!--Row 5-->
+                <node id="IconUV"> 41
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0"/>
+                    <attribute id="U2" type="float" value="0.1"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 42
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.1"/>
+                    <attribute id="U2" type="float" value="0.2"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 43
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.2"/>		
+                    <attribute id="U2" type="float" value="0.3"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 44
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.3"/>
+                    <attribute id="U2" type="float" value="0.4"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 45
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.4"/>		
+                    <attribute id="U2" type="float" value="0.5"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 46
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.5"/>
+                    <attribute id="U2" type="float" value="0.6"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 47
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.6"/>
+                    <attribute id="U2" type="float" value="0.7"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 48
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.7"/>
+                    <attribute id="U2" type="float" value="0.8"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 49
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+                <node id="IconUV"> 50
+                    <attribute id="MapKey" type="FixedString" value="0_Slot_UUID"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1"/>
+                    <attribute id="V1" type="float" value="0.8"/>
+                    <attribute id="V2" type="float" value="1"/>
+                </node>
+		    </children>
+        </node>
+    </region>
+</save>
