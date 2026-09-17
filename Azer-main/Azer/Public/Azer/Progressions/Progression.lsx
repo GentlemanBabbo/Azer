@@ -7,8 +7,8 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Azer" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
-                  <attribute id="PassivesAdded" type="LSString" value="Passives_Basic_Azer;Azer_DwarvenCombatTraining" /> passives from stats folder here
+				  <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
+                  <attribute id="PassivesAdded" type="LSString" value="Passives_Basic_Azer;Azer_DwarvenCombatTraining;Passive_AzerResilience" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(69c984a5-cf9a-43f7-b407-95686e823187,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="a5ce3620-66ee-4b9f-9c90-9dd6eb4c0fb0" /> Always use this one for races.lsx, says this progression node is for Main Race
