@@ -10,7 +10,7 @@
 	
 	<Paths>
 		<SourceTextures>Conversion\Textures</SourceTextures>
-		<VirtualTextures>Azer\Public\Azer\Assets\VirtualTextures</VirtualTextures>
+		<VirtualTextures>Azer-main\Azer\Public\Azer\Assets\VirtualTextures</VirtualTextures>
 	</Paths>
 	
 	<Layers>
@@ -40,10 +40,5 @@
 			<Layer Name="Physical" Source="AZER_F_NKD_Body_A_HMVY.DDS" />
 		</Texture>
 		<!--Head-->
-		<!--<Texture Name="5555d7d161fd44fda5d9762d46d7e04c">
-			<Layer Name="Albedo" Source=".DDS" />
-			<Layer Name="Normal" Source=".DDS" />
-			<Layer Name="Physical" Source=".DDS" />-->
-		</Texture>
 	</Textures>
 </TileSet>

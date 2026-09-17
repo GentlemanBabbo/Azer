@@ -7,13 +7,13 @@
 				<node id="EquipmentRace">
 					<attribute id="Name" type="22" value="Azer Female" />
 					<attribute id="Guid" type="31" value="2127bb39-2875-4708-9047-0c5f16e3bf93" />
-					<attribute id="DefaultParent" type="31" value="" />
+					<attribute id="DefaultParent" type="31" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
 					<attribute id="CharacterVisual" type="31" value="1b049e2b-e488-4545-99c8-dd16fa0b79f3" />
 				</node>
 				<node id="EquipmentRace">
 					<attribute id="Name" type="22" value="Azer Male" />
 					<attribute id="Guid" type="31" value="a1718297-d93f-475d-a495-4c2d729f2517" />
-					<attribute id="DefaultParent" type="31" value="" />
+					<attribute id="DefaultParent" type="31" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
 					<attribute id="CharacterVisual" type="31" value="a9aebf94-4523-4b07-a256-b06c5cff409d" />
 				</node>
 			</children>
