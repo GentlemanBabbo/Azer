@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList> <!-- This is the file that defines the localization, aka the actual text that shows up in game. -->
+
+	<!--Base race loca-->
+	<content contentuid="hdf502bafg2939g4569g820bg200792707f93" version="1">Custom Race</content> <!-- The Name of the custom race. Regenerate this handle before releasing the mod! -->
+	<content contentuid="h8c7f32e9ga38ag4a4dg95f5g84300a7a48a8" version="1">This custom race is brimming with potential.</content> <!-- The Description of the custom race. Regenerate this handle before releasing the mod! -->
+	
+	<!--Subraces loca-->
+
+	<!--Passives loca-->
+
+</contentList>

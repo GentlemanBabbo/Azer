@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates"> <!-- The file that sets up the Root Templates for each race/subrace/bodytype combination. -->
+		<node id="Templates">
+			<children>
+				<node id="GameObjects"> <!-- Female -->
+					<attribute id="MapKey" type="FixedString" value="7f52aa3a-40cf-4f75-b190-e773726a8939" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="Name" type="LSString" value="Race_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
+					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="e87dd6f0-22f4-4cd5-914f-adddd2595941" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c6e16e66-2313-4a49-b0e7-1e38e7f25987" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="Race" type="guid" value="3328d981-bf97-4e50-8961-fef8cd80c67e" /> <!-- The Unique Race UUID from races.lsx. -->
+					<children>
+						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects"> <!-- Male -->
+					<attribute id="MapKey" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="Name" type="LSString" value="Race_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
+					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="Race" type="guid" value="3328d981-bf97-4e50-8961-fef8cd80c67e" /> <!-- The Unique Race UUID from races.lsx. -->
+					<children>
+						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
