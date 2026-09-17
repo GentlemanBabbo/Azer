@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+		<!--Male Azer Heads-->
+             <node id="CharacterCreationAppearanceVisual"> Azer M - A
+				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					      <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					      <attribute id="IconIdOverride" type="FixedString" value=""/>
+          			<attribute id="RaceUUID" type="guid" value=""/>
+					      <attribute id="SlotName" type="FixedString" value="Head"/>
+				      	<attribute id="UUID" type="guid" value="6c03d88f-4b81-4b7c-b75f-90a79082944c"/>
+				      	<attribute id="VisualResource" type="guid" value=""/>
+				     </node>
+		<!--Female Azer Heads-->
+               <node id="CharacterCreationAppearanceVisual"> Azer F - A
+				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					      <attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					      <attribute id="IconIdOverride" type="FixedString" value=""/>
+          			<attribute id="RaceUUID" type="guid" value=""/>
+					      <attribute id="SlotName" type="FixedString" value="Head"/>
+				      	<attribute id="UUID" type="guid" value="2d2b6836-9e0c-4f7d-bbc6-092e470ded5a"/>
+				      	<attribute id="VisualResource" type="guid" value=""/>
+				     </node>
+
+		<!--Beards-->
+
+
+		<!--Hair-->
+				<!--male-->
+
+
+        <!--female-->
+
+
+          
+    <!--Genitals-->
+        <!--Fake Genitals-->
+                <node id="CharacterCreationAppearanceVisual"> M
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value=""/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="dd007ef2-78b4-45b6-9506-8d4d8039df32"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> F
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultForBodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+                    <attribute id="RaceUUID" type="guid" value=""/>
+                    <attribute id="SlotName" type="FixedString" value="Private Parts"/>
+                    <attribute id="UUID" type="guid" value="50c3b23a-08d2-40ab-b01a-e72e4c1d64f1"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
+                        </node>
+                    </children>
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
