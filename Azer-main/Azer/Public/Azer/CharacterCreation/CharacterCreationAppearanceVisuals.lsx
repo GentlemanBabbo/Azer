@@ -65,7 +65,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
           			<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
-                    <attribute id="UUID" type="guid" value="dd007ef2-78b4-45b6-9506-8d4d8039df32"/>
+                    <attribute id="UUID" type="guid" value="3c98cbf5-217e-4db9-b471-282c88e1e661"/>
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <children>
                         <node id="Tags">
@@ -80,7 +80,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
           			<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
-                    <attribute id="UUID" type="guid" value="50c3b23a-08d2-40ab-b01a-e72e4c1d64f1"/>
+                    <attribute id="UUID" type="guid" value="131fd05e-648b-4c04-887f-7a7d31ee77a9"/>
                     <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <children>
                         <node id="Tags">
