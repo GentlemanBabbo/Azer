@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="16be0cf5-f4e7-4f55-be34-bea377ac50bb" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Name" type="LSString" value="Azer_Female_Daisy" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="78b1381d-b1d8-4bdc-8c9a-5ac74fc623bf" />
+					<attribute id="Icon" type="FixedString" value="9702283b-b072-9e09-e64f-d0bee5b8626d-EQP_Daisy_(Icon_HalfOrcs_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f6ac7c22-dca8-491c-96ab-531d17701353" />
+					<attribute id="Race" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="e0f69f20-bd18-4cb2-9ae1-0cd65aabfd93" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Name" type="LSString" value="Azer_Male_Daisy" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e883741c-d5f2-484f-8441-c734c6745cac" />
+					<attribute id="Icon" type="FixedString" value="a4faeb04-33a7-ddee-ff77-ebf460eaf904-EQP_Daisy_(Icon_HalfOrcs_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="49114643-2557-4b25-bb67-20aa456b214a" />
+					<attribute id="Race" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
