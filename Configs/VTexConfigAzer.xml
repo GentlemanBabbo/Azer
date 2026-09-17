@@ -20,16 +20,30 @@
 	</Layers>
 	<Textures>
     <!--Male-->
+		<!--Body-->
 		<Texture Name="f5cf8b65517f4ee889896ac51a93ad21">
-			<Layer Name="Albedo" Source=".DDS" />
-			<Layer Name="Normal" Source=".DDS" />
-			<Layer Name="Physical" Source=".DDS" />
+			<Layer Name="Albedo" Source="AZER_M_NKD_Body_A_Albedo.DDS" />
+			<Layer Name="Normal" Source="AZER_M_NKD_Body_A_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_M_NKD_Body_A_Physical.DDS" />
+		</Texture>
+		<!--Head-->
+		<Texture Name="a8c04e93b83540e3ac129996ba241ed2">
+			<Layer Name="Albedo" Source="AZER_M_NKD_Head_A_Albedo.DDS" />
+			<Layer Name="Normal" Source="AZER_M_NKD_Head_A_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_M_NKD_Head_A_Physical.DDS" />
 		</Texture>
     <!--Female-->
+		<!--Body-->
 		<Texture Name="1ccb0065ad324b169ac87ba50a2bccc0">
+			<Layer Name="Albedo" Source="AZER_F_NKD_Body_A_CLEA.DDS" />
+			<Layer Name="Normal" Source="AZER_F_NKD_Body_A_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_F_NKD_Body_A_HMVY.DDS" />
+		</Texture>
+		<!--Head-->
+		<!--<Texture Name="5555d7d161fd44fda5d9762d46d7e04c">
 			<Layer Name="Albedo" Source=".DDS" />
 			<Layer Name="Normal" Source=".DDS" />
-			<Layer Name="Physical" Source=".DDS" />
+			<Layer Name="Physical" Source=".DDS" />-->
 		</Texture>
 	</Textures>
 </TileSet>

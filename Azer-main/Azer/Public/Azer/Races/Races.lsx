@@ -5,8 +5,8 @@
     <node id="root">
       <children>
         <node id="Race">
-            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="h553b4ae44d8046b8a1fb255239ed0de139a9" version="1" /> <!-- Display name for the race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="h0360395803fa45efa3671816759c6038efag" version="1" /> <!-- Description for the race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type, shows up when inspecting character sheet. Changing this to something else (e.g. Undead, Construct, etc.) has been known to cause bugs, so adjust at your own risk. -->
             <attribute id="Name" type="FixedString" value="Azer" /> <!-- Internal name for race, doesn't affect anything in-game. -->
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid Parent ID, this connects the entry to the humanoid race entry in the vanilla Races file.-->

@@ -6,8 +6,8 @@
 			<children>
 			<!--Azer Male Body-->
 				<node id="Resource">
-					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="0e359b85-27ee-47a4-bc06-1aa6d68dcadb" />
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="3428c9e0-de61-cc06-2476-4c56b84d473d" />
+					<attribute id="ID" type="FixedString" value="dd641e39-d65e-4c82-b5fa-2fb22d76f6e5" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="AZER_M_NKD_BODY_COLORABLE" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body_GM.lsf" />
@@ -254,12 +254,12 @@
 							<attribute id="Value" type="float" value="0.2" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="NonSkinMetalness" />
-							<attribute id="Value" type="float" value="1" />
+							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0" />
@@ -2172,7 +2172,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="0e359b85-27ee-47a4-bc06-1aa6d68dcadb" />
+							<attribute id="MaterialID" type="FixedString" value="dd641e39-d65e-4c82-b5fa-2fb22d76f6e5" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Body_A.Azer_M_NKD_Body_A_Mesh.0" />
 						</node>
 					</children>

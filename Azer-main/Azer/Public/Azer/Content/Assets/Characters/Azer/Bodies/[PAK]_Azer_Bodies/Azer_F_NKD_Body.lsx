@@ -556,19 +556,6 @@
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="f4c4853f-b167-49be-9706-91bf07970eed" />
-					<attribute id="Name" type="LSString" value="AZER_F_NKD_BODY_BM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Azer/[PAK]_Azer_Body/AZER_F_NKD_BODY_BM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="AZER_F_NKD_BODY_BM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
-				</node>
 			</children>
 		</node>
 	</region>
