@@ -4,12 +4,20 @@
     <region id="DefaultValues">
         <node id="root">
             <children>
+                <!--Azer Race-->
                 <node id="DefaultValue">
                     <attribute id="Add" type="LSString" value="Strength;Constitution"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
                     <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/>
                     <attribute id="UUID" type="guid" value="52202ea0-8d4e-4e87-ab40-8c2cda41e591"/>
+                </node>
+                <!--Enkindler Class-->
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Intimidation;Survival"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
+                    <attribute id="UUID" type="guid" value="61a3d42c-a510-4a27-8129-ad1a6f36d49c"/>
                 </node>
             </children>
         </node>
