@@ -193,6 +193,7 @@
                 </node>	
 		            <node id="Progression"> Smithy Lvl 1
                     <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Anvil,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Name" type="LSString" value="Smithy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -289,6 +290,7 @@
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 1
                     <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Gemstone,2,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Name" type="LSString" value="Crystal Knight"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
