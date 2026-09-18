@@ -196,7 +196,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(Anvil,1,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Name" type="LSString" value="Smithy"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="AnvilUnlocked"/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="495f4a70-e94d-447d-beaa-4cc3d80a2b24"/>
                 </node>
@@ -293,7 +293,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(Gemstone,2,0)"/> Adds resource, proficiency, etc.
                     <attribute id="Name" type="LSString" value="Crystal Knight"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="GemstoneUnlocked"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="798c69db-55e1-4f97-be77-50ecd203d054"/>
