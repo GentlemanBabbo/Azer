@@ -6,18 +6,18 @@
             <children>
                 <!--Azer Race LevelMapValues-->
                 <node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="1d10"/>
-                    <attribute id="Level2" type="LSString" value="1d10"/>
-                    <attribute id="Level3" type="LSString" value="1d10"/>
-                    <attribute id="Level4" type="LSString" value="1d10"/>
-                    <attribute id="Level5" type="LSString" value="1d12"/>
-                    <attribute id="Level6" type="LSString" value="1d12"/>
-                    <attribute id="Level7" type="LSString" value="1d12"/>
-                    <attribute id="Level8" type="LSString" value="1d12"/>
-                    <attribute id="Level9" type="LSString" value="2d8"/>
-                    <attribute id="Level10" type="LSString" value="2d8"/>
-                    <attribute id="Level11" type="LSString" value="2d8"/>
-                    <attribute id="Level12" type="LSString" value="2d8"/>
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level2" type="LSString" value="1d4"/>
+                    <attribute id="Level3" type="LSString" value="1d4"/>
+                    <attribute id="Level4" type="LSString" value="1d4"/>
+                    <attribute id="Level5" type="LSString" value="1d6"/>
+                    <attribute id="Level6" type="LSString" value="1d6"/>
+                    <attribute id="Level7" type="LSString" value="1d6"/>
+                    <attribute id="Level8" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d10"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Level11" type="LSString" value="1d10"/>
+                    <attribute id="Level12" type="LSString" value="1d10"/>
                     <attribute id="Name" type="FixedString" value="Returntosenderfiredamage"/>
                     <attribute id="UUID" type="guid" value="7d47b74f-96c4-4bac-9023-8329f913c244"/>
                 </node>
