@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="ClassDescription"> Main Class
-                    <attribute id="BaseHp" type="int32" value="12"/> Hit Die
+                    <attribute id="BaseHp" type="int32" value="10"/> Hit Die
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> Copy this off of another base game class (Im using the wizard's creation post)
                     <attribute id="Description" type="TranslatedString" handle="" version="1"/> Link to the .loca file
