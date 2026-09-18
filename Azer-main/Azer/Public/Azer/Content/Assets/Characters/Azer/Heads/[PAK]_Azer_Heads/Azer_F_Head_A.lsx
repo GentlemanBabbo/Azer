@@ -2305,7 +2305,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="29526015-97b9-440b-9f7f-a967c9c89e5e" />
+							<attribute id="MaterialID" type="FixedString" value="b057e36e-6839-4e1f-b2a2-d21f80b638a0" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
