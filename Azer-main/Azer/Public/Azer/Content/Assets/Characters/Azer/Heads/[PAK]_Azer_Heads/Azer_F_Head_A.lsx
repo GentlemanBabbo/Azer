@@ -21,69 +21,50 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="wrinkle_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_outer_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_09" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_06" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_cheek_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="wrinkle_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="gesture_base" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_nasal_r_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="HeadEnd_M_endBone" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_smileline3_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_brow_b_r" />
+							<attribute id="MapKey" type="FixedString" value="beard_upper_lip2_l" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="tongue_r_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_09" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="adams_apple" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_chin_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_helix_a_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -103,21 +84,114 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="chin_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="tongue_r_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_brow_a_l" />
+							<attribute id="MapKey" type="FixedString" value="eye_l_outer_corner" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_nasal_l_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_lower_lip1_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_upper_lip_m" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_under" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Scapula_L" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Spine2_M" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_lower_lip_m" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_middle_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Dummy_Root" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_smileline1_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_wing_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_tip" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_nostril_a_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -137,9 +211,34 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_tragus_a_r" />
+							<attribute id="MapKey" type="FixedString" value="smilelines_l_02" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Neck_M" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_chin_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_bridge_a_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -159,69 +258,106 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_nasal_r_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_10" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_lowerlid_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_lowerlid_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lower_teeth" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_upper_lip1_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_smileline3_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_12" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_r_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_bridge_a_l" />
+							<attribute id="MapKey" type="FixedString" value="upperlip_05" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_r_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_philtrum_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="chin_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_08" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_l_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_base" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_upper_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_r_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="wrinkle_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_helix_b_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -241,9 +377,50 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_helix_b_r" />
+							<attribute id="MapKey" type="FixedString" value="lowerlip_11" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_upperlid_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_l_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Head_M" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_ear_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_lobe_a_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -263,33 +440,74 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_r_04" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_upperlid_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_12" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_smileline2_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_nostril_a_l" />
+							<attribute id="MapKey" type="FixedString" value="jaw" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_00" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Scapula_R" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_cheek_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_philtrum_m" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l_upperlid_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_bridge" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_brow_a_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -309,63 +527,34 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_lower_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_06" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_jaw_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_upper_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_jaw_base_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upper_teeth" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_lowerlid_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_10" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_labiomental_m" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_helix_a_r" />
+							<attribute id="MapKey" type="FixedString" value="gullet" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_lowerlid_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="brow_l_04" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_septum_a_m" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -385,339 +574,82 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="gesture_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_upperlid_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="tongue_l_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_smileline1_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_lower_lip1_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_r_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_nasal_l_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_08" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_07" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_lower_lip2_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_outer_corner" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="tongue_l_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_tragus_a_l" />
+							<attribute id="MapKey" type="FixedString" value="lowerlip_05" />
 							<children>
 								<node id="MapValue">
-									<children>
-										<node id="BoneGroup">
-											<children>
-												<node id="Object">
-													<children>
-														<node id="IKBone">
-															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
-															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
-															<attribute id="IKBoneType" type="int32" value="0" />
-														</node>
-													</children>
-												</node>
-											</children>
-										</node>
-									</children>
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_wing_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_lowerlid_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_upperlid_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_labiomental_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_jaw_base_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_r_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_lower_lip2_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_upper_lip1_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_l_04" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_l_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_upperlid_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_04" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_lobe_b_r" />
+							<attribute id="MapKey" type="FixedString" value="brow_r_04" />
 							<children>
 								<node id="MapValue">
-									<children>
-										<node id="BoneGroup">
-											<children>
-												<node id="Object">
-													<children>
-														<node id="IKBone">
-															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
-															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
-															<attribute id="IKBoneType" type="int32" value="0" />
-														</node>
-													</children>
-												</node>
-											</children>
-										</node>
-									</children>
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Root_M" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_r_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_00" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_labiomental_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_l_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_jaw_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_brow_b_l" />
+							<attribute id="MapKey" type="FixedString" value="upperlip_04" />
 							<children>
 								<node id="MapValue">
-									<children>
-										<node id="BoneGroup">
-											<children>
-												<node id="Object">
-													<children>
-														<node id="IKBone">
-															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
-															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
-															<attribute id="IKBoneType" type="int32" value="0" />
-														</node>
-													</children>
-												</node>
-											</children>
-										</node>
-									</children>
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Spine1_M" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_middle_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_jaw_m" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_base" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="wrinkle_base" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_11" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_l_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_07" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_smileline2_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_lower_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_lobe_b_l" />
+							<attribute id="MapKey" type="FixedString" value="beard_upper_lip2_r" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_philtrum_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l_lowerlid_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_outer_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Chest_M" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_ear_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_lobe_a_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -739,19 +671,16 @@
 						<node id="Bones">
 							<attribute id="MapKey" type="FixedString" value="brow_m" />
 							<children>
-								<node id="MapValue" />
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_ear_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_lobe_a_r" />
+							<attribute id="MapKey" type="FixedString" value="piercing_lobe_b_l" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -771,57 +700,122 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Chest_M" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_outer_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_lowerlid_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_philtrum_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_upper_lip2_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_04" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_r_04" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_05" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_septum_a_m" />
+							<attribute id="MapKey" type="FixedString" value="upperlip_02" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_lower_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_smileline2_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_07" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="brow_l_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_11" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="wrinkle_base" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_jaw_m" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_base" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_middle_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Spine1_M" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_jaw_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_brow_b_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -841,27 +835,58 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="brow_l_04" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_lowerlid_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="gullet" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_brow_a_r" />
+							<attribute id="MapKey" type="FixedString" value="brow_l_01" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_labiomental_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_00" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="brow_r_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Root_M" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_lobe_b_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -881,63 +906,106 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_bridge" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_upperlid_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_philtrum_m" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_cheek_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Scapula_R" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_00" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="jaw" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_ear_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_lobe_a_l" />
+							<attribute id="MapKey" type="FixedString" value="lowerlip_04" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_upperlid_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="brow_l_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_l_04" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_upper_lip1_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_lower_lip2_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="brow_r_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_jaw_base_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_labiomental_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_upperlid_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_lowerlid_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_wing_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_tragus_a_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -957,33 +1025,114 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Head_M" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_l_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r_upperlid_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_11" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_helix_b_l" />
+							<attribute id="MapKey" type="FixedString" value="tongue_l_01" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_outer_corner" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_lower_lip2_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_07" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_08" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_nasal_l_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_r_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_lower_lip1_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_smileline1_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="tongue_l_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l_upperlid_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="gesture_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_labiomental_m" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_helix_a_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -1003,87 +1152,74 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="wrinkle_03" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_r_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_upper_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_base" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_l_01" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_08" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="chin_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_philtrum_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_r_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="upperlip_05" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_chin_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_bridge_a_r" />
+							<attribute id="MapKey" type="FixedString" value="lowerlip_10" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l_lowerlid_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upper_teeth" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_jaw_base_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_upper_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_jaw_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_06" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_lower_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_smileline2_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -1103,21 +1239,10 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Neck_M" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="smilelines_l_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_nostril_a_r" />
+							<attribute id="MapKey" type="FixedString" value="piercing_nostril_a_l" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -1137,93 +1262,34 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_tip" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_wing_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_smileline1_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Dummy_Root" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="cheek_middle_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_lower_lip_m" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Spine2_M" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="Scapula_L" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_under" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_upper_lip_m" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_lower_lip1_l" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="nose_nasal_l_02" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="eye_l_outer_corner" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_chin_r" />
-							<children>
-								<node id="MapValue" />
-							</children>
-						</node>
-						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="piercing_helix_a_l" />
+							<attribute id="MapKey" type="FixedString" value="lowerlip_12" />
 							<children>
 								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l_upperlid_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="smilelines_r_04" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_helix_b_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
 									<children>
 										<node id="BoneGroup">
 											<children>
@@ -1243,27 +1309,271 @@
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="adams_apple" />
+							<attribute id="MapKey" type="FixedString" value="piercing_bridge_a_l" />
 							<children>
-								<node id="MapValue" />
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+									<children>
+										<node id="BoneGroup">
+											<children>
+												<node id="Object">
+													<children>
+														<node id="IKBone">
+															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
+															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
+															<attribute id="IKBoneType" type="int32" value="0" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="lowerlip_09" />
+							<attribute id="MapKey" type="FixedString" value="brow_r_01" />
 							<children>
-								<node id="MapValue" />
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="tongue_r_01" />
+							<attribute id="MapKey" type="FixedString" value="upperlip_12" />
 							<children>
-								<node id="MapValue" />
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
 							</children>
 						</node>
 						<node id="Bones">
-							<attribute id="MapKey" type="FixedString" value="beard_upper_lip2_l" />
+							<attribute id="MapKey" type="FixedString" value="beard_smileline3_l" />
 							<children>
-								<node id="MapValue" />
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_upper_lip1_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lower_teeth" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_l_lowerlid_03" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="eye_r_lowerlid_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_10" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_nasal_r_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_tragus_a_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+									<children>
+										<node id="BoneGroup">
+											<children>
+												<node id="Object">
+													<children>
+														<node id="IKBone">
+															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
+															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
+															<attribute id="IKBoneType" type="int32" value="0" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_brow_a_l" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+									<children>
+										<node id="BoneGroup">
+											<children>
+												<node id="Object">
+													<children>
+														<node id="IKBone">
+															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
+															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
+															<attribute id="IKBoneType" type="int32" value="0" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="tongue_r_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="chin_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_smileline3_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="piercing_brow_b_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+									<children>
+										<node id="BoneGroup">
+											<children>
+												<node id="Object">
+													<children>
+														<node id="IKBone">
+															<attribute id="IKBoneCachedName" type="FixedString" value="UPPER_FACE_GROUP" />
+															<attribute id="IKBoneName" type="FixedString" value="66fc2bb8-0179-4add-b036-9e721ce9591d" />
+															<attribute id="IKBoneType" type="int32" value="0" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="HeadEnd_M_endBone" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="nose_nasal_r_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="gesture_base" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="wrinkle_02" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="beard_cheek_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="lowerlip_06" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="upperlip_09" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="cheek_outer_r" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
+							</children>
+						</node>
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="wrinkle_01" />
+							<children>
+								<node id="MapValue">
+									<attribute id="SoundObjectActivationRange" type="float" value="-6.2593955E+18" />
+								</node>
 							</children>
 						</node>
 					</children>
@@ -1948,8 +2258,8 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="9b042f43-a7d6-49f0-95e2-a57523a4b180" />
-					<attribute id="BoundsMax" type="fvec3" value="0.11703115 1.4775263 0.124597035" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.11703188 1.139217 -0.12248378" />
+					<attribute id="BoundsMax" type="fvec3" value="0.106891 1.4775263 0.124597035" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.106891 1.1392108 -0.12955804" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />

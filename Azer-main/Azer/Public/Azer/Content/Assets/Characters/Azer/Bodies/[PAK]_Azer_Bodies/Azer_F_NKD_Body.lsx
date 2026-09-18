@@ -2156,9 +2156,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_BODY_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_BODY_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -2169,7 +2169,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
 							<attribute id="MaterialID" type="FixedString" value="1e6332f9-971b-4514-b9ca-c4a76cc02391" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_BODY_A.AZER_F_NKD_BODY_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Body_A.AZER_F_NKD_Body_A_Mesh.0" />
 						</node>
 					</children>
 				</node>
