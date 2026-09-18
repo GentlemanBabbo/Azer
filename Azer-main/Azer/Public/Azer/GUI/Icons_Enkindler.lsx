@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml version="1.0" encoding="UTF-8"?>
 <save>
     <version major="4" minor="0" revision="9" build="322"/>
     <region id="IconUVList">
@@ -716,7 +716,7 @@
                 </node>
                 <node id="TextureAtlasPath">
                     <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Enkindler.DDS"/> the file path to the .DDS image
-                    <attribute id="UUID" type="FixedString" value=""/> the UUID inside the _merged.lsx file for this image
+                    <attribute id="UUID" type="FixedString" value="ca6d858c-dcfe-4c09-98c7-d4168f79b3fc"/> the UUID inside the _merged.lsx file for this image
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int32" value="1280"/> the height of the .DDS image
@@ -725,4 +725,4 @@
             </children>
         </node>
     </region>
-</save>
+</save>-->
