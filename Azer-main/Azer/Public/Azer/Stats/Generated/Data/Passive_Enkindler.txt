@@ -1,1 +1,18 @@
-Placeholder
+<!--Enkindler Passives-->
+
+<!--Resources-->
+new entry "AnvilUnlocked"
+type "PassiveData"
+data "DisplayName" ";1"
+data "Description" ";1"
+data "Properties" "IsHidden"
+data "Icon" "PassiveFeature_MartialAdept"
+data "Boosts" "ActionResource(Anvil,1,0)
+
+new entry "GemstoneUnlocked"
+type "PassiveData"
+data "DisplayName" ";1"
+data "Description" ";1"
+data "Properties" "IsHidden"
+data "Icon" "PassiveFeature_MartialAdept"
+data "Boosts" "ActionResource(Gemstone,2,0)
