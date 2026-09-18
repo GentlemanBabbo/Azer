@@ -10,14 +10,14 @@
 					<attribute id="ID" type="FixedString" value="0ad063ff-0c30-4488-907f-9bd83a12c3e6" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Azer_M_Head_A_Base" />
+					<attribute id="Name" type="LSString" value="Azer_M_NKD_Head_A_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/Azer_M_NKD_Head_A_Base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/AZER_M_NKD_Head_A_Base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Heads/Azer_M_NKD_Head_A_Base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Heads/AZER_M_NKD_Head_A_Base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="Bones">
@@ -2819,7 +2819,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="25644bac-b9ee-400d-8955-139311fe507b" />
+					<attribute id="ID" type="FixedString" value="d9c26003-3705-419e-b22f-b5efd3c8f675" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="AZER_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
