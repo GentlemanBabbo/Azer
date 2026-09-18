@@ -14,7 +14,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="0bffe73c-7dec-42e2-960e-5c954ff09ce6"/>
 					          <children>
                         <node id="SubClasses">
                             <children>
@@ -42,7 +42,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="a594d543-06a6-4b07-b330-a74243599002"/>
 					          <children>
                         <node id="SubClasses">
                             <children>
@@ -69,7 +69,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
 		                <attribute id="Selectors" type="LSString" value="" />
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="403b37f7-f1aa-4e0d-aadd-52095af30bbb"/>
                 </node>
                 <node id="Progression"> Mainclass Level 3
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -81,7 +81,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="85a1dcb6-2d93-46b3-9fae-f275864d3bfd"/>
                 </node>
                 <node id="Progression"> Mainclass Level 4
                     <attribute id="AllowImprovement" type="bool" value="true"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -93,7 +93,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
 		                <attribute id="Selectors" type="LSString" value="" />
 				          	<attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1487718c-4e58-4a06-aa17-d66d225f70e6"/>
                 </node>				
                 <node id="Progression"> Mainclass Level 5
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -105,7 +105,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="59891f23-76c8-428a-aae6-828130411166"/>
                 </node>		
                 <node id="Progression"> Mainclass Level 6
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -117,7 +117,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d37cb362-b569-4567-b11e-7ec75ebb08d6"/>
                 </node>	
                 <node id="Progression"> Mainclass Level 7
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -129,7 +129,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f89a1ff0-3c8e-429f-8079-a1feff4fa20f"/>
                 </node>	
                 <node id="Progression"> Mainclass Level 8
                     <attribute id="AllowImprovement" type="bool" value="true"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -141,7 +141,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
 		                <attribute id="Selectors" type="LSString" value="" />
 				          	<attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="6419b074-f55f-4f80-a7aa-5b3ed78c2040"/>
                 </node>	
                 <node id="Progression"> Mainclass Level 9
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -153,7 +153,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d0378beb-7873-4fc9-805a-c3bc4666f349"/>
                 </node>	
                 <node id="Progression"> Mainclass Level 10
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -165,7 +165,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 				          	<attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="69a7ac46-a8ef-44f2-9f5e-ec7831116a2b"/>
                 </node>	
                 <node id="Progression"> Mainclass Level 11
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -177,7 +177,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					          <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9585c76a-ad5e-479b-b47d-b15ee549470c"/>
                 </node>	
                 <node id="Progression"> Mainclass Level 12
                     <attribute id="AllowImprovement" type="bool" value="true"/> Whether your class get a feat at his level. Does not work for level 1.
@@ -189,7 +189,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 				          	<attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7de9bfff-f9b3-4ece-99f2-ce4f3247fa48"/>
                 </node>	
 		            <node id="Progression"> Smithy Lvl 1
                     <attribute id="Level" type="uint8" value="1"/>
@@ -197,7 +197,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="495f4a70-e94d-447d-beaa-4cc3d80a2b24"/>
                 </node>
 			        	<node id="Progression"> Smithy Lvl 2
                     <attribute id="Level" type="uint8" value="2"/>
@@ -205,7 +205,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="920e55e1-e7ca-4330-b815-47423b070e3a"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 3
                     <attribute id="Level" type="uint8" value="3"/>
@@ -213,7 +213,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7a208dc4-6b58-4daf-86db-99fa9283a73d"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 4
                     <attribute id="Level" type="uint8" value="4"/>
@@ -221,7 +221,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="cc387cad-7104-46bc-abb9-d67a2cd3fcc3"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 5
                     <attribute id="Level" type="uint8" value="5"/>
@@ -229,7 +229,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f5531102-fb77-47ab-89fc-5eecc1660bdb"/>
                 </node>
 			        	<node id="Progression"> Smithy Lvl 6
                     <attribute id="Level" type="uint8" value="6"/>
@@ -237,7 +237,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="f2e11e4d-ac37-418d-9ef5-636da03dc888"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 7
                     <attribute id="Level" type="uint8" value="7"/>
@@ -245,7 +245,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="7d7226b3-8764-495a-bea7-18ad4da08ab0"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 8
                     <attribute id="Level" type="uint8" value="8"/>
@@ -253,7 +253,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="e946d264-8ea0-410c-829f-5a03de541f3b"/>
                 </node>
 			        	<node id="Progression"> Smithy Lvl 9
                     <attribute id="Level" type="uint8" value="9"/>
@@ -261,7 +261,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="79c188a4-4ec1-40b8-ae3f-dc4174bcdff8"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 10
                     <attribute id="Level" type="uint8" value="10"/>
@@ -269,7 +269,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9bb1ca32-4ba5-4f50-9dd9-d21787ac2d96"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 11
                     <attribute id="Level" type="uint8" value="11"/>
@@ -277,7 +277,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9d828667-82cd-4c6b-b127-93e1cf825f46"/>
                 </node>
 				        <node id="Progression"> Smithy Lvl 12
                     <attribute id="Level" type="uint8" value="12"/>
@@ -285,7 +285,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="2619e926-0d17-4877-bfd2-2dc7d6f4cefb"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 1
                     <attribute id="Level" type="uint8" value="1"/>
@@ -294,7 +294,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="798c69db-55e1-4f97-be77-50ecd203d054"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 2
                     <attribute id="Level" type="uint8" value="2"/>
@@ -302,7 +302,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="8f4caa92-1ca1-4992-8de3-722a807291c5"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 3
                     <attribute id="Level" type="uint8" value="3"/>
@@ -311,7 +311,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="576fdd81-8bb9-4995-a965-002fba0a3f6c"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 4
                     <attribute id="Level" type="uint8" value="4"/>
@@ -319,7 +319,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="af0b4361-2081-4eac-9d80-f9dd2ae927a3"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 5
                     <attribute id="Level" type="uint8" value="5"/>
@@ -328,7 +328,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d70fe8ab-70fe-482d-aba0-8f276affd0ad"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 6
                     <attribute id="Level" type="uint8" value="6"/>
@@ -336,7 +336,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="8d6d0208-b055-4509-9071-196bc2176692"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 7
                     <attribute id="Level" type="uint8" value="7"/>
@@ -344,7 +344,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="d48ca58d-f6c3-496c-8a7b-82d4e4f62e0a"/>
                 </node>
 			        	<node id="Progression"> Crystal Knight Lvl 8
                     <attribute id="Level" type="uint8" value="8"/>
@@ -353,7 +353,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="9c3c443e-5eb7-4948-90c5-88ea3d5bed2d"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 9
                     <attribute id="Level" type="uint8" value="9"/>
@@ -361,7 +361,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c33de4db-4b31-4ebe-94f4-df7c0b2e6e98"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 10
                     <attribute id="Level" type="uint8" value="10"/>
@@ -369,7 +369,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="465e5894-fa2c-4686-b1cd-5cbdc4e27ad0"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 11
                     <attribute id="Level" type="uint8" value="11"/>
@@ -377,7 +377,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="484b663f-c55e-4a93-88d0-cae55b59b6ff"/>
                 </node>
 				        <node id="Progression"> Crystal Knight Lvl 12
                     <attribute id="Level" type="uint8" value="12"/>
@@ -385,7 +385,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="dff2814d-5de5-47f4-9917-20ced1bc5722"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 1
                     <attribute id="Level" type="uint8" value="1"/>
@@ -395,7 +395,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="06fd6e6e-0d56-4e7c-b3a6-da14550b3508"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 2
                     <attribute id="Level" type="uint8" value="2"/>
@@ -403,7 +403,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="b36c35f4-3eef-4c73-8e9c-944d3df51f0b"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 3
                     <attribute id="Level" type="uint8" value="3"/>
@@ -412,7 +412,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="1c393407-c3d3-44d4-9e7c-47b051053140"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 4
                     <attribute id="Level" type="uint8" value="4"/>
@@ -420,7 +420,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c1fd45eb-3ccf-419e-8fa1-e8e2170af13d"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 5
                     <attribute id="Level" type="uint8" value="5"/>
@@ -429,7 +429,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="87d7d0f0-2d76-4261-a030-ddc5d4616eac"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 6
                     <attribute id="Level" type="uint8" value="6"/>
@@ -437,7 +437,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="99ae576c-9945-4b3e-a6a5-2c7c8a344be9"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 7
                     <attribute id="Level" type="uint8" value="7"/>
@@ -445,7 +445,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="fce0ce4b-59ea-4810-90b0-aa9d8748ab4b"/>
                 </node>
 			        	<node id="Progression"> Conduit Lvl 8
                     <attribute id="Level" type="uint8" value="8"/>
@@ -453,7 +453,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="aac38447-f0bc-4897-b8f2-5171a36bb3d9"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 9
                     <attribute id="Level" type="uint8" value="9"/>
@@ -461,7 +461,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="952e292e-ebac-4bce-891b-01b8490031c1"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 10
                     <attribute id="Level" type="uint8" value="10"/>
@@ -469,7 +469,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="c3211f3a-876f-45de-b260-fb94a903b7b7"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 11
                     <attribute id="Level" type="uint8" value="11"/>
@@ -477,7 +477,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="81214d41-4a54-4f0f-9dbd-d5b95e20b15d"/>
                 </node>
 				        <node id="Progression"> Conduit Lvl 12
                     <attribute id="Level" type="uint8" value="12"/>
@@ -485,7 +485,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="639c048b-e2b3-4407-8512-c12cf9213fdf"/>
                 </node>
             </children>
         </node>
