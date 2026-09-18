@@ -13,7 +13,7 @@
                     <attribute id="HpPerLevel" type="int32" value="7"/> Half Hit Die + 1
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/> Have this as false if you don't need to prepare them
-                    <attribute id="Name" type="FixedString" value="Juggernaut"/> The name of your class
+                    <attribute id="Name" type="FixedString" value="Enkindler"/> The name of your class
                     <attribute id="PrimaryAbility" type="uint8" value="1"/> 4 is for int. order goes from Str, Dex, Con, Int, Wis, and Cha.
                     <attribute id="ProgressionTableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> This UUID links the Class to a specific progression table inside Progressions.lsx
                     <attribute id="SoundClassType" type="FixedString" value="Barbarian"/> Pick a class that your class would be the most similar to
