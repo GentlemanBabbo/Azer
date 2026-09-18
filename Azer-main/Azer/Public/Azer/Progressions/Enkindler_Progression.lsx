@@ -19,13 +19,13 @@
                         <node id="SubClasses">
                             <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
-                                    <attribute id="Object" type="guid" value=""/> same UUID as the one for your subclass in ClassDescriptions.lsx
+                                    <attribute id="Object" type="guid" value="a0019e67-0ad5-434b-ac18-a81e949b2792"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
-                                    <attribute id="Object" type="guid" value=""/> same UUID as the one for your subclass in ClassDescriptions.lsx
+                                    <attribute id="Object" type="guid" value="46edbb6d-ad17-4e11-a686-324194b03796"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
-                                    <attribute id="Object" type="guid" value=""/> same UUID as the one for your subclass in ClassDescriptions.lsx
+                                    <attribute id="Object" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
                             </children>
                         </node>
@@ -47,13 +47,13 @@
                         <node id="SubClasses">
                             <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
-                                    <attribute id="Object" type="guid" value=""/> same UUID as the one for your subclass in ClassDescriptions.lsx
+                                    <attribute id="Object" type="guid" value="a0019e67-0ad5-434b-ac18-a81e949b2792"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
-                                    <attribute id="Object" type="guid" value=""/> same UUID as the one for your subclass in ClassDescriptions.lsx
+                                    <attribute id="Object" type="guid" value="46edbb6d-ad17-4e11-a686-324194b03796"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
-                                    <attribute id="Object" type="guid" value=""/> same UUID as the one for your subclass in ClassDescriptions.lsx
+                                    <attribute id="Object" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
                             </children>
                         </node>
