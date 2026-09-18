@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-
+<!--Azer Race-->
 	<!--Base race loca-->
 	<content contentuid="h553b4ae44d8046b8a1fb255239ed0de139a9" version="1">Azer</content> <!-- The Name of the custom race. Regenerate this handle before releasing the mod! -->
 	<content contentuid="h0360395803fa45efa3671816759c6038efag" version="1">Denizens of the elemental plane of fire, the Azer are forged bodies out of primordial steel. They exist for centuries, creating communities among themselves and revering the art of blacksmithing above all else. You are one of the rare Azer to find their way out to the material planes; what you seek of these lands is up to you.</content> <!-- The Description of the custom race. Regenerate this handle before releasing the mod! -->
@@ -25,14 +25,14 @@
 	<content contentuid="" version="1"></content>
 	<!--Hair loca-->
 	<content contentuid="h0d19bb865e62415c8948e6d7619bc8f1881a" version="1">Akuma</content>
-	<!--Spells loca-->
+	<!--Race Spells loca-->
 	<content contentuid="h489922daa4f64d35bf4671b212e015749b27" version="1">Fireblood</content>
 	<content contentuid="heed604064c8949dc8760bfae4a3867753642" version="1">Cleanse your blood by bringing yourself to a boil. Your body erupts in flames, removing Poison and Diseases and igniting you.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
-	<!--Passives loca-->
+	<!--Race Passives loca-->
 	<content contentuid="h41c5a8ed0e494657a820ad924fcf443737ed" version="1">Light in the Darkness</content>	
 	<content contentuid="h0bb762dffc904b2191c0dc03a5305cb35a62" version="1">You are able to see 12 meters into the dark due to your illuminated body.</content>
 	<content contentuid="hb4b2e4c99f5a41c19f977b7e532f49cee35g" version="1">Burning for Battle</content>
@@ -44,5 +44,88 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
 	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>		
+	<content contentuid="" version="1"></content>
+<!--Enkindler Class-->
+	<!--Class Descriptions-->
+	<!--Main Class-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<!--Subclass 1-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!--Subclass 2-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<!--Subclass 3-->	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!--Class Resources-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!--Class Passives-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<!--Class Interrupts-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!--Class Boosts-->
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!--Class Spells-->
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
 </contentList>
