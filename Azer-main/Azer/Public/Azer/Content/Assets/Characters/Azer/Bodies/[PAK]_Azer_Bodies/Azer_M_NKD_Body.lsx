@@ -536,7 +536,7 @@
 					<attribute id="ID" type="FixedString" value="4ac1717b-1e4f-42ce-8131-7ac268602656" />
 					<attribute id="Name" type="LSString" value="AZER_M_NKD_BODY_GM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Azer/[PAK]_Azer_Body/AZER_M_NKD_BODY_GM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_M_NKD_BODY_GM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="AZER_M_NKD_BODY_GM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -549,7 +549,7 @@
 					<attribute id="ID" type="FixedString" value="57119a55-4da1-444e-8673-4589e2bacf52" />
 					<attribute id="Name" type="LSString" value="AZER_M_NKD_BODY_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Azer/[PAK]_Azer_Body/AZER_M_NKD_BODY_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_M_NKD_BODY_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="AZER_M_NKD_BODY_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -562,7 +562,7 @@
 					<attribute id="ID" type="FixedString" value="43bf6ce3-b821-46a3-af42-33083d590c5a" />
 					<attribute id="Name" type="LSString" value="AZER_M_NKD_BODY_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Azer/[PAK]_Azer_Body/AZER_M_NKD_BODY_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_M_NKD_BODY_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="AZER_M_NKD_BODY_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -2160,9 +2160,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Azer/[PAK]_Azer_Body/AZER_M_NKD_Body_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_M_NKD_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Azer/[PAK]_Azer_Body/AZER_M_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Body/AZER_M_NKD_Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="AnimationWaterfall">
