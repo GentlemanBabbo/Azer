@@ -4,9 +4,31 @@
     <region id="PassiveLists">
         <node id="root">
             <children>
+                <!--Azer Race Passives-->
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value=""/> the passive list
+                    <attribute id="Passives" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="5874afa2-5eb1-4483-ae2a-42e749d8fca2"/>
+                </node>
+                <!--Enkindler Class Passives-->
+                <node id="PassiveList"> Smithy
+                    <attribute id="Passives" type="LSString" value="AnvilUnlocked"/>
+                    <attribute id="UUID" type="guid" value="fb375f24-13ae-4b3b-91e8-94cff1538911"/>
+                </node>
+                <node id="PassiveList"> Gemstone Knight
+                    <attribute id="Passives" type="LSString" value="GemstoneUnlocked"/>
+                    <attribute id="UUID" type="guid" value="84ebf20c-e2e2-4704-9e95-6651bfcb0c52"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="c5f4b639-f9c3-48d4-a0a1-4b64fb1774a8"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="3a11726e-c629-4319-ac61-c05b48d04e75"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="2e929bcd-295d-49f9-8a2b-8422b63e498a"/>
                 </node>
             </children>
         </node>
