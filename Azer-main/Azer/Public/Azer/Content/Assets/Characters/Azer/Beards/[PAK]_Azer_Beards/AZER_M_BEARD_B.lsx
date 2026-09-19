@@ -17,7 +17,7 @@
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_M_BEARD_A" />
+					<attribute id="Name" type="LSString" value="AZER_M_BEARD_B" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
