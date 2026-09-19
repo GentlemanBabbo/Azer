@@ -302,11 +302,11 @@
 					<attribute id="Height" type="int32" value="1024" />
 					<attribute id="ID" type="FixedString" value="f2ad62cb-7134-4766-a199-817a0857b5db" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Azer_AO_Region" />
+					<attribute id="Name" type="LSString" value="AZER_AO_Region" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Eyes/AZER_AO_Region.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="BAATEZU_AO_REGION" />
+					<attribute id="Template" type="FixedString" value="AZER_AO_Region" />
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="1024" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725357" />
