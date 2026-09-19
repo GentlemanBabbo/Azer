@@ -25,9 +25,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Hair" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Hair/AZER_M_NKD_Hair_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Hair/AZER_M_NKD_Hair_B.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Hair/AZER_M_NKD_Hair_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Hair/AZER_M_NKD_Hair_B.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757860" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -37,14 +37,14 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="14371095-5064-c0e5-7193-61192a0eee1d" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_A.AZER_M_NKD_Hair_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_B.AZER_M_NKD_Hair_B_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_A.AZER_M_NKD_Hair_A_VFX.1" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_B.AZER_M_NKD_Hair_B_VFX.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
