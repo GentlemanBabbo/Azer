@@ -11,16 +11,17 @@
 					<attribute id="BoundsMax" type="fvec3" value="0.22663805 1.3410108 0.01410294" />
 					<attribute id="BoundsMin" type="fvec3" value="-0.22663805 1.0776681 -0.22255236" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
-					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="e29b5434-fa09-7456-a085-4dbc50d82702" />
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="9c58186f-cada-4dc4-b226-c8d11d83b33f" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="AZER_M_NKD_Beard_D" />
-					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="3e6dba32-dbab-5666-2720-0e2f999a753b" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Beards/AZER_M_NKD_Beard_D.GR2" />
