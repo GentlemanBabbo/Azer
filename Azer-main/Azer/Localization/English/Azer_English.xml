@@ -50,10 +50,14 @@
 	<!--Race Passives loca-->
 	<content contentuid="h41c5a8ed0e494657a820ad924fcf443737ed" version="1">Light in the Darkness</content>	
 	<content contentuid="h0bb762dffc904b2191c0dc03a5305cb35a62" version="1">You are able to see 12 meters into the dark due to your illuminated body.</content>
+	<content contentuid="hb4d25dd23c784a1287a0bd4c146174507cfe" version="1">Dense</content>
+	<content contentuid="hcad9697802034473b7672f323023129e4a64" version="1">Your metallic frame is impossibly heavy. You are one weight class heavier than most creatures.</content>	
 	<content contentuid="hb4b2e4c99f5a41c19f977b7e532f49cee35g" version="1">Burning for Battle</content>
-	<content contentuid="h973ec38f2b3e4235a602599c95aface97613" version="1">You are proficient with Battleaxes, Handaxes, LightHammers, and Warhammers</content>
+	<content contentuid="h973ec38f2b3e4235a602599c95aface97613" version="1">You are proficient with Javelins, LightHammers, and Warhammers</content>
+	<content contentuid="h81176a0937cc44a2bf2a5ff412e1036e6652" version="1">Cold Vulnerability</content>
+	<content contentuid="h007d6814d2e94f098a9b8a1feb988ac6g5b6" version="1">You are vulnerable to Cold damage.</content>	
 	<content contentuid="hccb8b6724c7047719a6aab6691cc4381de4a" version="1">Molten Core</content>
-	<content contentuid="hf3b14a0d69764c8f88d49ad9e9c5e4741d47" version="1">The rage of the elemental plane burns within your core. You are resistant to Fire damage</content>
+	<content contentuid="hf3b14a0d69764c8f88d49ad9e9c5e4741d47" version="1">The rage of the elemental plane burns within your core. As a fire elemental, you are resistant to Fire damage and immune to all forms of burning. You are also immune to diseases.</content>
 	<content contentuid="haeea8afd976149b09bdf88bdc43c50a3g4b8" version="1">Forged in Flame</content>
 	<content contentuid="h82810c27035340cd97325f4618f3d6b9e4bc" version="1">Your true form has become exposed; you are immune to lava surfaces. Your comfortability in heat is so great, that lava surfaces heal you.</content>
 	<content contentuid="" version="1"></content>
