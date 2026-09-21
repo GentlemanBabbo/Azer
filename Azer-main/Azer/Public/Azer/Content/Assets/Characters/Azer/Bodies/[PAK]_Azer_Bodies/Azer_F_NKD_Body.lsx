@@ -1801,9 +1801,9 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.8193633 1.2877276 0.18374613" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.8193598 -0.00588852 -0.25855032" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="5e3d7e01-ea5e-c120-3b3f-b6015bdec925" />
+					<attribute id="BoundsMax" type="fvec3" value="0.73945946 1.2246696 0.15394492" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.73945946 -0.005046795 -0.17223091" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="11e45752-2461-7620-717d-75c527e448f0" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="802210a7-4fbc-4496-b9dd-1ff42a35a5eb" />
@@ -1812,10 +1812,10 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="aefea06b-163c-6dfc-2993-9cf8ee9895f1" />
+					<attribute id="SkeletonResource" type="FixedString" value="0e2e85b3-320c-c27a-d9b2-bd853759dab6" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="4b92327f-0dee-ee91-60e3-c764920db879" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A.Dummy_Root.0" />
