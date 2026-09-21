@@ -290,6 +290,16 @@
 						<attribute id="UUID" type="guid" value="84063660-b924-4da2-a5a0-50f610a2cd26"/>
 						<attribute id="VisualResource" type="guid" value="5595f06f-69c3-47b3-8247-b4e094a65cb9"/>
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_B
+						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+						<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+			            <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
+						<attribute id="SlotName" type="FixedString" value="Hair"/>
+						<attribute id="UUID" type="guid" value="5ab5154d-f99f-4cb1-96ac-df55c616570c"/>
+						<attribute id="VisualResource" type="guid" value="dae66927-e5a7-4cd1-b432-01873cbb009c"/>
+				</node>
         <!--Horns-->
 		<!--male-->
 				<node id="CharacterCreationAppearanceVisual"> Azer_M_Horns_A
