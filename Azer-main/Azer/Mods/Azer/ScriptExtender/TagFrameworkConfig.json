@@ -1,10 +1,10 @@
 {
   "FileVersion": 1,
   "Tags": [
-    {
-      "modGuids": ["c866554d-0696-4aea-a52a-819930f2c408"],
-      "Tag": "AZER_2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7",
-      "ReallyTag": "ReallyAzer_3c881972-fd84-4ffd-a528-1f5bf89bcd63",
+    { "Type": "Race",
+      "modGuids": ["15654b71-6919-402f-9df9-1afcf673a943"],
+      "Tag": "2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7",
+      "ReallyTag": "3c881972-fd84-4ffd-a528-1f5bf89bcd63",
       "TagsToExclude": ["BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f"],
       "RaceMetaTags": ["Rare"]
     }

@@ -35,10 +35,15 @@
     <!--Female-->
 		<!--Body-->
 		<Texture Name="1ccb0065ad324b169ac87ba50a2bccc0">
-			<Layer Name="Albedo" Source="AZER_F_NKD_Body_A_CLEA.DDS" />
+			<Layer Name="Albedo" Source="AZER_F_NKD_Body_A_Albedo.DDS" />
 			<Layer Name="Normal" Source="AZER_F_NKD_Body_A_NM.DDS" />
-			<Layer Name="Physical" Source="AZER_F_NKD_Body_A_HMVY.DDS" />
+			<Layer Name="Physical" Source="AZER_F_NKD_Body_A_Physical.DDS" />
 		</Texture>
 		<!--Head-->
+		<Texture Name="968897257c7949e2ae2f7b405500292b">
+			<Layer Name="Albedo" Source="AZER_F_NKD_Head_A_Albedo.DDS" />
+			<Layer Name="Normal" Source="AZER_F_NKD_Head_A_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_F_NKD_Head_A_Physical.DDS" />
+		</Texture>
 	</Textures>
 </TileSet>

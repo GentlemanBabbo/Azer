@@ -5,7 +5,7 @@
 		<node id="CharacterVisualBank">
 			<children>
 				<node id="Resource"> <!-- Race Female Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="7f96a865-11e1-8ad2-16dc-9a66621fbf75" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="d5875d16-d0a2-4cef-a7d8-3af9f3f1e77a" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="802210a7-4fbc-4496-b9dd-1ff42a35a5eb" /> <!-- Connects to the merged file entry's ID field for the body's mesh -->
 					<attribute id="ID" type="FixedString" value="1b049e2b-e488-4545-99c8-dd16fa0b79f3" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
 					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
@@ -61,7 +61,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="7d5e0e71-bbe7-487b-93f9-b040dfc7fb44" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
