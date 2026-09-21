@@ -61,7 +61,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="5595f06f-69c3-47b3-8247-b4e094a65cb9" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
