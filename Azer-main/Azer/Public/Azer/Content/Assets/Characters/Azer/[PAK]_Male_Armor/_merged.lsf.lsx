@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.5685814 1.3039043 0.3180606" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.49419704 -0.0083164545 -0.28196022" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="75cfc413-c0ff-4417-8961-4cdfcff9d045" />
+					<attribute id="MaterialType" type="uint8" value="43" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_Barbarian_A_Body" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Barbarian_A_Body.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Barbarian_A_Body.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="20" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="False" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.03 0.03 0.03" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="300" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Skirt_Cloth_Mesh.3" />
+						</node>
+						<node id="ClothProxyMapping">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Skirt_Cloth_Mesh.3" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqNVttS6kAQ3F9BEQHhIFg+E4gi4BMvVlByfsD/f87pnp5JFtCqo7W9nclumJ3rTtI0DdMkPbT4kP4YG2MmH2c4wXyPNcJeavDXSzd46gMv+S1m4TKt0wnI9eKvqUgHICX/g/10h+8M8e0xBiXUMPSRttS3aYgT8Efjj2mG8QT+mOaYZ7Z3brK5PREXNuY2yJ6BRXqBxi+YVy0XK7BLyCdi2WJp8rJ9y3OWQEo+bO/BMd6++vwB/LC14rJP0Vq1hxFWXUGbLcbKJbQq+cqlfHuberZSkg4lv0nfWH8DWw7AB8ZpGXLamnxgM3GH/3fMe8wj58QtcIt5Yetpt6aZ2tMiHfGUo05XXp10bOcSv7eYIvb97EuzOWOmSN0ZN+kNfIPxBsnGTrYyXxDf3FPyGveV2M/oW5ueazzzi6W9Le19Yc9rn3M5I03xHxkxMTuc8F/h7T7VYFsManvC/sp+hW+XziuXE2mzjWHTjMzCQ9i0j68OLXKVjzP7nRmepphHLfJrsWZo+cq9ygtlBL03xOinkftRPHx3Z96LnBqaJu84wx5fraHjEeMTrAabYnymv4Z1y7l3im81zdFy5Wgeryyv9ZvUjZqPoI++3MXzwT2ueJOvldGKTMWzIkES5f5vsfqT/LvdK4xKUqSfK8xlLbrOmsg4VbBVijqWo3y6tTWMR0q0nn7Pa5Q8pd9SBZMHc5/KU/Ja+JEoiWTMBCIjamOZqKwUX5oO1C10WKcv99SXeeHBYyb/XflukvUF/VYeUdJB/lVkysuKCvLKc0SnqC2STiatLcIqzJ9mob1HbNR2+lA2UZ3p6s8gDVyTqE47l0gvaSVNlJV5nioTFeGhJ7XqMo76Lzyqa49zRbgsJpQNpbmsmts5sntzVpOjUi29wqgKfWUVKeKqaOtVV6N+q2yy88lsqZPqROcWrlptmde0A+XiWqldsonq+fUuxaq8ucsiLY83VbywSYdRCU9ehSO/ImtOF9kUvVg9pesgE+vX6uBdl5+l627O/c/exzvJ+UrdB9Q71E2EkuhEOUZPz/tF9Pq194voOC/eQS7vA+XZ3YC86zjnqG5VeiwUWdd4dy4W/Nwjd+3brgoFz2tUznPJzuzz5DeosJViQPK8WsrO6v6Bl91fqNtUfoO6vFOtslvWIZPHfemnG1TZ3qPOb1PdPSpuHZeVX75QH8l7WeT+de8jVhnvJHXb6/OOv/Zciv6Y3wR0UuV15Phbmwv/AJGE+Fc=" />
+													<attribute id="Name" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Loincloth_Mesh.0" />
+													<attribute id="NbClosestVertices" type="int32" value="1485" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqNVl1PFEEQbAREQA2fxkQE9rjduyNgICAQFZ/Zu/MfaBB8MIT//zxWd03PzB48mMnW1Pb0zlf31GwlA+lLTypgFbkyR7X3Ye/hIe9JCE8t6l+LYxOtISzJorzHsyTzqBUX5ZW8RP1C9sy2JwuwvUPZQMsC6jm0Cb7ekwf5hqL97MNvB9778iHiDjCEHfkru3ju5Q+eB1ju5Avqa3z3G+VOLtHXHOzX8l2WYbmF5Qo+lyjncmH8K8o9fK5Qf0a5Qsu5nMJyImfAC8Nb9BDCMnAFZRn9Km7LlvWv9QreNoHr4CFsyhqY4jbqDdjWZFXeoryxlg2wVbAQxtLKTzxjuQHeyDjiOFp/oR7LCLXyUYE/I3K3iY8xIo8J3aJxUT6N/lO8NUJsYKtTFMkZ6+eRPfQ7X2WsbSzFEBz70d4+gw3qabLwvbVZTaylkR+GOucG8+UqGhvL862J2dsUFp+n2p1XRY73LYs180MYRM9KDuxRT19jd73eJ0d5lO4+cKWcZ5MiMpUyFv+LU8zs0M7ZQIZgQ9RuGWKkIerDyOlDCz2HyBKd0yyOzH8kx+ZxjLEyH8dWfTsqoqk+NVppYTbSn3xQaAWVxPetSmqQ9z2rRIVd4cx1FSEcGtc1KicrLdpPjhR7OLARyXoxB1btlK3Ka/gqvsGjtlP79pOcoN6Vj9ARPelneM475/026gMVQ8/+hVBDqC3UATG1mlWDbZQVsAXwLVODTaEaUB+oA+t4NpIabIFTA6kMb+P8FbWmnmynFfnqfF0lZz9cI5Grpt7OmyZTRVWHv0VldnXNnBrLXdoDfxDX5DvYVaUXhHpLpWVmMmplNvZTRnUz0DnbsoWeOcNHUdtLteesaKF60049/4JadT7r+VOFby2fxzY+daiOZ5w5r5w+ihPJfCzPKfaseruGU6VLJS95F13ba8vhUlEru3Gzgh2kM8X8p52qlbWrmrnP+6mHgTgO4t2fTxZVkZpZRsR1g/GajVoZ2eGTOJbRJPK8lziwXBnZ3rsi1UmjqEgarzYqD2PBSA3jl7pvQ/iNrEe3+05mi9u53tJOfvSE6+ilPvM+auJNqmpfpxtqglLeca3ZlP9APU0tk5hZ5I244rnuueKVGtgX7lO2uDbSkuPIbydx9DaN2Ma5OK9ThpfcsUmno7W/BV1pvot97cRevJPzLfzcHe15+2h3YpWU27H8I51tG3R6y7dw9/bPN75j0/HhrPTvdD7+nS7a3yf/Rf2vVf9U+e8xsZVPwZqIZTRLLKPPPf8HB9wiZA==" />
+													<attribute id="Name" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Body_Mesh.2" />
+													<attribute id="NbClosestVertices" type="int32" value="1458" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1fd86065-cc5c-a23a-474b-a5e18626fa3b" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Loincloth_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1fd86065-cc5c-a23a-474b-a5e18626fa3b" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Pants_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="15220b9c-0b6c-5145-adf0-6119cfb04336" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Body_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Skirt_Cloth_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="ff6f19c8-501d-a734-9394-7e751e0faf38" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Shoulderpads_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b7416262-c6dc-6195-88da-a6ccefdb5728" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Body.AZER_M_ARM_Barbarian_A_Accessories_Mesh.5" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.26772565 0.34168425 0.19887736" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.26772565 -0.0012782475 -0.2355073" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="210cbc61-a36a-447c-b708-e93c82915cb3" />
+					<attribute id="MaterialType" type="uint8" value="43" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_Barbarian_A_Footwear" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Footwear" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Barbarian_A_Footwear.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Barbarian_A_Footwear.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="0a686b28-7c58-dd31-9149-2a6882684e9b" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Barbarian_A_Footwear.AZER_M_ARM_Barbarian_A_Footwear_Mesh.1" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="feet" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Pants" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
