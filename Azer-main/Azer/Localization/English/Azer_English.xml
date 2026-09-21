@@ -42,7 +42,7 @@
 	<content contentuid="" version="1"></content>	
 	<!--Race Spells loca-->
 	<content contentuid="h489922daa4f64d35bf4671b212e015749b27" version="1">Fireblood</content>
-	<content contentuid="heed604064c8949dc8760bfae4a3867753642" version="1">Cleanse your blood by bringing yourself to a boil. Your body erupts in flames, removing Poison and Diseases and igniting you.</content>
+	<content contentuid="heed604064c8949dc8760bfae4a3867753642" version="1">Cleanse your blood by bringing yourself to a boil. Your body erupts in flames, removing Poison and igniting you.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -60,10 +60,10 @@
 	<content contentuid="hf3b14a0d69764c8f88d49ad9e9c5e4741d47" version="1">The rage of the elemental plane burns within your core. As a fire elemental, you are resistant to Fire damage and immune to all forms of burning. You are also immune to diseases.</content>
 	<content contentuid="haeea8afd976149b09bdf88bdc43c50a3g4b8" version="1">Forged in Flame</content>
 	<content contentuid="h82810c27035340cd97325f4618f3d6b9e4bc" version="1">Your true form has become exposed; you are immune to lava surfaces. Your comfortability in heat is so great, that lava surfaces heal you.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hc882c4b8c0ec475d9f00c49e23c22854dab6" version="1">Conductive Weaponry</content>
+	<content contentuid="hedfddf74b6174aa0aeaf21234917e19c3dd8" version="1">Your weapons radiate heat from your hands, dealing additional fire damage. This effect increases in intensity as you level.</content>	
+	<content contentuid="ha97b5f5f750140a8b4104286f992f196g667" version="1">Ignite the Aggressor</content>
+	<content contentuid="h46613444f96c4f7a94e81f9a86ec4526281e" version="1">Your fiery composition is too much for attackers to withstand. Apply Burning to targets that make contact with you.</content>
 <!--Enkindler Class-->
 	<!--Class Descriptions-->
 	<!--Main Class-->

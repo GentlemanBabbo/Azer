@@ -7,7 +7,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Azer" /> just an internal name
-				          <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
+				          <attribute id="Boosts" type="LSString" value="Ability(Strength,2);ActionResource(Movement,9,0)" />
                   <attribute id="PassivesAdded" type="LSString" value="Passives_Basic_Azer;Passive_Dense;Azer_CombatTraining;Passive_AzerResilience;Passive_Azer_Cold_Vulnerability" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(69c984a5-cf9a-43f7-b407-95686e823187,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -18,8 +18,8 @@
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Azer" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Heated_Weapons" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(2dd34873-6a54-4f7f-90d6-db850daad718,,,,AlwaysPrepared)" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="a5ce3620-66ee-4b9f-9c90-9dd6eb4c0fb0" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="467f122f-30e8-46a4-b5b6-05e5d13dc68c" />  this one must be unique
@@ -28,7 +28,7 @@
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Azer" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Azer_ForgedinFlame;BurningHide_Azer" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="a5ce3620-66ee-4b9f-9c90-9dd6eb4c0fb0" /> Always use this one for races.lsx, says this progression node is for Main Race
@@ -38,7 +38,7 @@
                   <attribute id="Level" type="uint8" value="7" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Azer" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="Passive_Azer_ForgedinFlame" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="a5ce3620-66ee-4b9f-9c90-9dd6eb4c0fb0" /> Always use this one for races.lsx, says this progression node is for Main Race

@@ -6,7 +6,7 @@
             <children> 
                 <!--Azer Race Spells-->
                 <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Comment" type="LSString" value="Level 3 Spell"/> 
                     <attribute id="Spells" type="LSString" value="Shout_Fireblood"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="2dd34873-6a54-4f7f-90d6-db850daad718"/> the UUID, needs to be unique
                 </node>
