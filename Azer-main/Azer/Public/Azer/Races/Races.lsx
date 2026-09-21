@@ -15,7 +15,17 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" /> <!-- Sound made when selecting the race. -->
             <attribute id="UUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" /> <!-- Unique Race UUID, regenerate before releasing mod! -->
                 <children> <!-- Most of the colors and visuals that the race can choose from in CC, such as eye color, hair color, hairs, and beards. -->
-                    <!--Eye Colors-->
+                    <!--Tags-->
+						<node id="Tags"> <!--Race Tag-->
+							<attribute id="Object" type="guid" value="2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7" />
+						</node>
+						<node id="Tags"> <!--Planar Tag-->
+							<attribute id="Object" type="guid" value="bad00ba2-8a49-450c-8387-af47681717f1" />
+						</node>
+						<node id="Tags"> <!--Really Planar Tag-->
+							<attribute id="Object" type="guid" value="4cb02915-7ad7-4141-907e-93253c6a8644" />
+						</node>
+                    <!--Eye Colors-->                                            	                        
                         <!--Flame Blue 1-->
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3c6b283-d4ba-48e1-99fc-e45623880b33" />
@@ -99,22 +109,6 @@
                         <!--Flame Orange 3-->
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="5611997a-c98d-4f91-aa61-331df5fbf00f" />
-                        </node>
-                        <!--Flame Red 1-->
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="7cb875a4-e14b-4700-b359-7b01c275c4b0" />
-                        </node>
-                        <!--Flame Red 2-->
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="8e1aade9-cba8-4059-8416-88dda59f783c" />
-                        </node>
-                        <!--Flame Red 3-->
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="82e3fcd1-e8f8-4c73-9eb2-f653ce754b79" />
-                        </node>
-                        <!--Flame Red 4-->
-                        <node id="EyeColors">
-                            <attribute id="Object" type="guid" value="21da5cc4-34b9-4eed-98b4-322d2a1e5f6b" />
                         </node>
                         <!--Flame Pink 1-->
                         <node id="EyeColors">

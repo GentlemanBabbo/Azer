@@ -37,23 +37,6 @@
                     <attribute id="Name" type="FixedString" value="HeatedWeaponDamage"/>
                     <attribute id="UUID" type="guid" value="a184be09-1290-425f-b574-e398dd2cea34"/>
                 </node>                
-                <!--Enkindler Class LevelMapValues-->
-                <node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="1d8"/>
-                    <attribute id="Level2" type="LSString" value="1d8"/>
-                    <attribute id="Level3" type="LSString" value="1d8"/>
-                    <attribute id="Level4" type="LSString" value="1d8"/>
-                    <attribute id="Level5" type="LSString" value="1d10"/>
-                    <attribute id="Level6" type="LSString" value="1d10"/>
-                    <attribute id="Level7" type="LSString" value="1d10"/>
-                    <attribute id="Level8" type="LSString" value="1d10"/>
-                    <attribute id="Level9" type="LSString" value="2d6"/>
-                    <attribute id="Level10" type="LSString" value="2d6"/>
-                    <attribute id="Level11" type="LSString" value="2d6"/>
-                    <attribute id="Level12" type="LSString" value="2d6"/>
-                    <attribute id="Name" type="FixedString" value="FireCantripDamage"/>
-                    <attribute id="UUID" type="guid" value="8ee41be3-c983-4658-9d14-4c86b23d5222"/>
-                </node>
             </children>
         </node>
     </region>

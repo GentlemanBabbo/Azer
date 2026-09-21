@@ -18,7 +18,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - B
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="h3cba79d31aaa4670b4a86c2e5b6bb86c5dd9" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -28,7 +28,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - C
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="h7a93a6b87bcf46d1b27118ea2da3f2b1d183" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -38,7 +38,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - D
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="hc77fa0fb64854bbeafca37e69afb6da1cf42" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -48,7 +48,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - E
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="h0dac0ea2b6694a289cf698ff8710383fcfe0" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -58,7 +58,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - F
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="he6a6ef19a79e4e0db147603049d5f2529f50" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -68,7 +68,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - G
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="h3b4dac9a5f944195b9b30d218b961f263006" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -78,7 +78,7 @@
              <node id="CharacterCreationAppearanceVisual"> Azer M - H
 				      	<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					    <attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			    	    <attribute id="DisplayName" type="TranslatedString" handle="h2c49ea9b64444bc8b01069817f74d317de9g" version="1"/> 
 					    <attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/>
 					    <attribute id="SlotName" type="FixedString" value="Head"/>

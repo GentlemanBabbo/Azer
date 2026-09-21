@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="|AZER, Shapeshifted or not|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h0e58d376ebb741a39dab488dfecb585d7egg" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h0e58d376ebb741a39dab488dfecb585d7egg" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="ReallyAzer" />
 			<attribute id="UUID" type="guid" value="3c881972-fd84-4ffd-a528-1f5bf89bcd63" />

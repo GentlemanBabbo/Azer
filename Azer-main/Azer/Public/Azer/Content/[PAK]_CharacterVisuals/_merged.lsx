@@ -71,7 +71,7 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="0b3dc414-0712-5b96-4a02-603b3f323c8e" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="cbf70afc-eaf6-431d-878f-c35b73130ae1" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="281227b2-403a-4d6b-88a0-9c6c2db845e5" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="a9aebf94-4523-4b07-a256-b06c5cff409d" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->

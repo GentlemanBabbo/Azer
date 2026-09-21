@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children> 
+                <!--Enkindler Class Spells-->
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="f6f53409-8802-4790-b1d2-d4182ca15c48"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

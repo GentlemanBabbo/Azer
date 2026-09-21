@@ -8,10 +8,13 @@
 	<!--Heads loca-->
 	<!--Male-->
 	<content contentuid="haea613d9e4ee4e3c848c328c75e94b95dd2c" version="1">Maker's Fire</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h3cba79d31aaa4670b4a86c2e5b6bb86c5dd9" version="1">Flamecaller</content>
+	<content contentuid="h7a93a6b87bcf46d1b27118ea2da3f2b1d183" version="1">Blazing Crown</content>
+	<content contentuid="hc77fa0fb64854bbeafca37e69afb6da1cf42" version="1">Infernal</content>
+	<content contentuid="h0dac0ea2b6694a289cf698ff8710383fcfe0" version="1">Lava Lord</content>
+	<content contentuid="he6a6ef19a79e4e0db147603049d5f2529f50" version="1">Charred Breath</content>
+	<content contentuid="h3b4dac9a5f944195b9b30d218b961f263006" version="1">Gem Stealer</content>
+	<content contentuid="h2c49ea9b64444bc8b01069817f74d317de9g" version="1">Iron Fist</content>
 	<content contentuid="" version="1"></content>
 	<!--Female-->
 	<content contentuid="h3ea4478911194e488b6d8cd1b0f970f97d03" version="1">Beloved Embers</content>
@@ -43,8 +46,8 @@
 	<!--Race Spells loca-->
 	<content contentuid="h489922daa4f64d35bf4671b212e015749b27" version="1">Fireblood</content>
 	<content contentuid="heed604064c8949dc8760bfae4a3867753642" version="1">Cleanse your blood by bringing yourself to a boil. Your body erupts in flames, removing Poison and igniting you.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h76f2e867c1924fe285f42283df23006ec514" version="1">Ironbound Pursuit</content>
+	<content contentuid="hb4ab204f0318439a94e60d30eb728757e32b" version="1">Crash into your target with a fiery dropkick, potentially knocking them prone.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
 	<!--Race Passives loca-->
@@ -53,7 +56,7 @@
 	<content contentuid="hb4d25dd23c784a1287a0bd4c146174507cfe" version="1">Dense</content>
 	<content contentuid="hcad9697802034473b7672f323023129e4a64" version="1">Your metallic frame is impossibly heavy. You are one weight class heavier than most creatures.</content>	
 	<content contentuid="hb4b2e4c99f5a41c19f977b7e532f49cee35g" version="1">Burning for Battle</content>
-	<content contentuid="h973ec38f2b3e4235a602599c95aface97613" version="1">You are proficient with Javelins, LightHammers, and Warhammers</content>
+	<content contentuid="h973ec38f2b3e4235a602599c95aface97613" version="1">You are proficient with Javelins, Light Hammers, and Warhammers</content>
 	<content contentuid="h81176a0937cc44a2bf2a5ff412e1036e6652" version="1">Cold Vulnerability</content>
 	<content contentuid="h007d6814d2e94f098a9b8a1feb988ac6g5b6" version="1">You are vulnerable to Cold damage.</content>	
 	<content contentuid="hccb8b6724c7047719a6aab6691cc4381de4a" version="1">Molten Core</content>
@@ -64,153 +67,4 @@
 	<content contentuid="hedfddf74b6174aa0aeaf21234917e19c3dd8" version="1">Your weapons radiate heat from your hands, dealing additional fire damage. This effect increases in intensity as you level.</content>	
 	<content contentuid="ha97b5f5f750140a8b4104286f992f196g667" version="1">Ignite the Aggressor</content>
 	<content contentuid="h46613444f96c4f7a94e81f9a86ec4526281e" version="1">Your fiery composition is too much for attackers to withstand. Apply Burning to targets that make contact with you.</content>
-<!--Enkindler Class-->
-	<!--Class Descriptions-->
-	<!--Main Class-->
-	<content contentuid="" version="1">Enkindler</content>
-	<content contentuid="" version="1">Harbingers of the primordial flame, these close-quarter pyromancers wield the fires of the elemental planes as extensions of themselves. They do not channel the flames into existance as do others who manipulate the Weave do. They are the source; sentient bonfires that illuminate the world with their molten fury. Some races not of the Elemental Plane of Fire find their way into harboring the Primal Furnace; they run the risk of death, as their bodies were never meant to withstand the chaos of the Forge. The Azer, the creators of the Primal Furnace, wield the infernal properties of the Forge with ease. Their metallic bodies harbor the symbiosis of their living flame and the mystical Kindling.</content>	
-	<!--Subclass 1-->
-	<content contentuid="" version="1">Smithy</content>
-	<content contentuid="" version="1">Master blacksmiths who utilize the Kindling to craft potent artifacts for combat. These inventors forged and shaped the materials needed to craft their brass citadels. They wield enchanted Anvils that roar with every hammer strike, dominating the battlefield with the creations molded upon it. You are the creator on the battlefield; let your Anvil sing the songs of war and your mallet define the coming of the end.</content>
-	<!--Subclass 2-->
-	<content contentuid="" version="1">Gem Knight</content>
-	<content contentuid="" version="1">Techniques passed from the Azer have allowed the Enkindler to compress the flame within into Gemstones that augment their abilities. The Azer have always priortized the accumulation of Gems, and have gone to war over them as a precious resource. As a Gemstone Knight, you utilize your emblazoned crystals to augment your attacks, conjure elementals into existence, and set explosive traps for those that dare near you.</content>	
-	<!--Subclass 3-->	
-	<content contentuid="" version="1">Conduit</content>
-	<content contentuid="" version="1">The internal war to ensure mastery over your Kindling is a steep price to pay for those that are not Azer. The material, sentient and knowing, eclipses your thoughts as it stokes the desires of the Forge. Your emotions are a catalyst, breathing upon the embers as they reach fever pitch. Your anger bellows, encasing you in flames that spread across the battlefield as you march. As your mental state swells, the likelihood of chaotic crescendo increases. Friend and foe run great risks by placing themselves near you. The Azer bask in this frenetic experience; what is torment to other Enkindlers is an aphrodisiac to them. What lengths will you go to for victory, knowing all may be consumed by the unforgiving flame?</content>
-	<!--Class Resources-->
-	<content contentuid="" version="1">Anvil</content>
-	<content contentuid="" version="1">The mighty tool upon which the Smithy crafts wonders of destruction.</content>	
-	<content contentuid="" version="1">Gemstones</content>
-	<content contentuid="" version="1">Crystal infused with the living flame, utilized by the Crystal Knight.</content>
-	<!--Class Passives-->
-		<!--Base Class-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Smithy-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-		<!--Crystal Knight-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Conduit-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<!--Class Interrupts-->
-		<!--Base Class-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Smithy-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-		<!--Crystal Knight-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Conduit-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<!--Class Boosts-->
-		<!--Base Class-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Smithy-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-		<!--Crystal Knight-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Conduit-->
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<!--Class Spells-->
-		<!--Base Class-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Smithy-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-		<!--Crystal Knight-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-		<!--Conduit-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
 </contentList>
