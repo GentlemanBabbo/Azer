@@ -7,17 +7,17 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="22581ec3-44e3-4c9d-b297-bfe7cd358907" />
+					<attribute id="ID" type="FixedString" value="fedb6799-3a21-40b1-a0f1-7219a0311c0e" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Azer_F_NKD_Head_C_Base" />
+					<attribute id="Name" type="LSString" value="Azer_F_NKD_Head_I_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_C_Base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_I_Base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_C_Base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_I_Base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>	
 						<node id="Bones">
@@ -1578,19 +1578,19 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="34e16b5b-d33a-4086-8f95-b7d7c0f5905c" />
+					<attribute id="ID" type="FixedString" value="688c926f-7b41-494f-9f1d-6a1202996668" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="Azer_F_Head_C" />
+					<attribute id="Name" type="LSString" value="Azer_F_Head_I" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="22581ec3-44e3-4c9d-b297-bfe7cd358907" />
+					<attribute id="SkeletonResource" type="FixedString" value="fedb6799-3a21-40b1-a0f1-7219a0311c0e" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_C.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_I.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_C.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_I.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -1622,32 +1622,32 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c331bc96-a4c3-45c7-a55c-b596225c3bc3" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_C.AZER_F_NKD_Head_C_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_I.AZER_F_NKD_Head_I_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_C.AZER_F_NKD_Head_C_Mouth_Interior_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_I.AZER_F_NKD_Head_I_Mouth_Interior_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b057e36e-6839-4e1f-b2a2-d21f80b638a0" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_C.AZER_F_NKD_Head_C_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_I.AZER_F_NKD_Head_I_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c331bc96-a4c3-45c7-a55c-b596225c3bc3" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_C.AZER_F_NKD_Head_C_Ears_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_I.AZER_F_NKD_Head_I_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_C.AZER_F_NKD_Head_C_Eyeshadow_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_I.AZER_F_NKD_Head_I_Eyeshadow_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_C.AZER_F_NKD_Head_C_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_I.AZER_F_NKD_Head_I_Eyelashes_Mesh.5" />
 						</node>
 					</children>
 				</node>
