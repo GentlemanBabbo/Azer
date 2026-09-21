@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="|AZER|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h553b4ae44d8046b8a1fb255239ed0de139a9" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h553b4ae44d8046b8a1fb255239ed0de139a9" version="1" />
+			<attribute id="Description" type="LSString" value="|AZER, Shapeshifted or not|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h0e58d376ebb741a39dab488dfecb585d7egg" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h0e58d376ebb741a39dab488dfecb585d7egg" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Azer" />
-			<attribute id="UUID" type="guid" value="2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7" />
+			<attribute id="Name" type="FixedString" value="ReallyAzer" />
+			<attribute id="UUID" type="guid" value="e05f3eb5-a1e9-47ef-8f7c-cdb3c871d4e4" />
 			<children>
 				<node id="Categories">
 					<children>

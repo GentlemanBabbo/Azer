@@ -2,9 +2,9 @@
   "FileVersion": 1,
   "Tags": [
     { "Type": "Race",
-      "modGuids": ["15654b71-6919-402f-9df9-1afcf673a943"],
-      "Tag": "2e5eb691-a3cb-4c34-8a4b-f99ba9c492d7",
-      "ReallyTag": "3c881972-fd84-4ffd-a528-1f5bf89bcd63",
+      "modGuids": ["05d6959b-b765-4673-ab4b-de4ce91b3f13"],
+      "Tag": "6e74176d-9770-4adb-bd38-3849da103093",
+      "ReallyTag": "e05f3eb5-a1e9-47ef-8f7c-cdb3c871d4e4",
       "TagsToExclude": ["BALDURIAN_f15e9b0d-676c-4f52-9abf-365cff89ef0f"],
       "RaceMetaTags": ["Rare"]
     }

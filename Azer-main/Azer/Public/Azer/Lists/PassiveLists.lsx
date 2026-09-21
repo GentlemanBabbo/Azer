@@ -7,7 +7,7 @@
                 <!--Azer Race Passives-->
                 <node id="PassiveList">
                     <attribute id="Passives" type="LSString" value=""/>
-                    <attribute id="UUID" type="guid" value="5874afa2-5eb1-4483-ae2a-42e749d8fca2"/>
+                    <attribute id="UUID" type="guid" value="f367dbdb-b3d3-4cd4-8770-481d4aff2d9c"/>
                 </node>
             </children>
         </node>

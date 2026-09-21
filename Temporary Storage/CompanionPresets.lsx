@@ -10,7 +10,7 @@
           <attribute id="CloseUpA" type="LSString" value="DWR_F_Camera_Closeup_A"/> 
           <attribute id="CloseUpB" type="LSString" value="DWR_F_Camera_Closeup_B"/> 
           <attribute id="Overview" type="LSString" value="DWR_F_Camera_Overview_A"/>
-					<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" />
+					<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5" />
 					<attribute id="RootTemplate" type="guid" value="16be0cf5-f4e7-4f55-be34-bea377ac50bb" />
 					<attribute id="UUID" type="guid" value="0d53d36b-e3fd-4c23-aa1b-3c5d3c48eddd" />
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />
@@ -22,7 +22,7 @@
           <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
           <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
           <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
-					<attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea" />
+					<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5" />
 					<attribute id="RootTemplate" type="guid" value="e0f69f20-bd18-4cb2-9ae1-0cd65aabfd93" />
 					<attribute id="UUID" type="guid" value="17b98825-6259-4af7-8a61-98a35d50afeb" />
 					<attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42" />

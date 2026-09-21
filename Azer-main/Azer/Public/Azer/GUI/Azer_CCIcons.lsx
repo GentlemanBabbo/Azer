@@ -10,7 +10,7 @@
                 </node>
                 <node id="TextureAtlasPath">
                     <attribute id="Path" type="string" value="Public/Azer/Assets/Textures/Icons/Azer_CCIcons.DDS"/> <!-- The path to the .dds file; should match the path listed in the [PAK]_UI folder's _merged file. -->
-                    <attribute id="UUID" type="FixedString" value="c68ee47b-6a7a-4ab3-87e4-8cdeab4d5ba1"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
+                    <attribute id="UUID" type="FixedString" value="500531bc-ac9e-4cca-b42f-aff49e25e0b5"/> <!-- The .dds's UUID; should match the UUID listed in the [PAK]_UI folder's _merged file. -->
                 </node>
                 <node id="TextureAtlasTextureSize"> <!-- These are the dimensions for the atlases I've included. If you go with a different size, make sure you change this to reflect that. -->
                     <attribute id="Height" type="int32" value="751"/>

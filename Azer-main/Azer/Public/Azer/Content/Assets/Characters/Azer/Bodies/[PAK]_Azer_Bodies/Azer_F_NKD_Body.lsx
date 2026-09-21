@@ -6,7 +6,7 @@
 			<children>
 			<!--Azer Female Body-->
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="8aeca0e7-c414-4f51-b2bd-41dc4bdfa323" />
+					<attribute id="ID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
 					<attribute id="Name" type="LSString" value="AZER_WARFORGED_Skin_v1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
 					<attribute id="MaterialType" type="uint8" value="4" />
@@ -158,14 +158,14 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="6688078c-d3f1-45c2-8ca8-43b3fd388621" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="6067cc99-22d3-4906-a89c-e9243b22f397" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="MSKcloth" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="dda5dd78-f6ed-4c2e-afa9-be97c85ce762" /> // MSK MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="f753da1a-a592-4a23-8539-b688170d100d" /> // MSK MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -179,7 +179,7 @@
 							<attribute id="ParameterName" type="FixedString" value="virtualtexture" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="fd1280fa-b74b-4793-8210-bcae3c9b42d6" /> // VT UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="9bf0b495-7282-4eb1-91dc-adb806b9a494" /> // VT UUID GOES HERE
 							<attribute id="Index" type="int32" value="0" />
 						</node>
 					</children>
@@ -192,7 +192,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="GTexFileName" type="FixedString" value="1ccb0065ad324b169ac87ba50a2bccc0" />
-					<attribute id="ID" type="FixedString" value="fd1280fa-b74b-4793-8210-bcae3c9b42d6" />
+					<attribute id="ID" type="FixedString" value="9bf0b495-7282-4eb1-91dc-adb806b9a494" />
 					<attribute id="Name" type="LSString" value="AZER_F_NKD_BODY" />
 					<attribute id="Prefetch" type="bool" value="False" />
 					<attribute id="PrefetchMipLevel" type="int8" value="-1" />
@@ -209,7 +209,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="6688078c-d3f1-45c2-8ca8-43b3fd388621" />
+					<attribute id="ID" type="FixedString" value="6067cc99-22d3-4906-a89c-e9243b22f397" />
 					<attribute id="Name" type="LSString" value="AZER_F_NKD_Body_A_GM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A_GM.DDS" />
@@ -222,7 +222,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="dda5dd78-f6ed-4c2e-afa9-be97c85ce762" />
+					<attribute id="ID" type="FixedString" value="f753da1a-a592-4a23-8539-b688170d100d" />
 					<attribute id="Name" type="LSString" value="AZER_F_NKD_Body_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A_MSK.DDS" />
@@ -239,7 +239,7 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="09267054-c896-48ad-8ffa-d2f2852aedc7" />
+					<attribute id="ID" type="FixedString" value="6c8d9823-eefb-4d92-b6fb-30d9bcec1b89" />
 					<attribute id="Name" type="LSString" value="Azer_REDCAP_Base" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633012" />
@@ -258,11 +258,11 @@
 														<node id="Animation">
 															<children>
 																<node id="Object"> Multiattack Loop
-																	<attribute id="ID" type="FixedString" value="ba50e930-0bb0-415b-93cb-bfd3cd285968" />
+																	<attribute id="ID" type="FixedString" value="ce40a355-4be9-4898-8b54-5877f227fba4" />
 																	<attribute id="MapKey" type="FixedString" value="caa0d92c-5cd1-4248-9a4a-f2a8e404dac3" />
 																</node>
 																<node id="Object"> Multiattack Dash
-																	<attribute id="ID" type="FixedString" value="9e7af756-9925-41c4-a88c-922258369b5a" />
+																	<attribute id="ID" type="FixedString" value="ef8b349e-52c5-4bb9-87dc-aaafe9154a07" />
 																	<attribute id="MapKey" type="FixedString" value="e6d40932-427f-4699-a0de-66f124d905b1" />
 																</node>
 																<node id="Object">
@@ -271,11 +271,11 @@
 																	<attribute id="MapKey" type="FixedString" value="de98048e-bb06-4d6f-89d0-9f10b0ef8b69" />
 																</node>
 																<node id="Object"> Multiattack Recover
-																	<attribute id="ID" type="FixedString" value="cba67d3c-8910-43c4-ad8a-a3a851e8ed63" />
+																	<attribute id="ID" type="FixedString" value="d768dc52-208e-45c8-9b8e-5faf3e37061e" />
 																	<attribute id="MapKey" type="FixedString" value="2b6afcc6-c9c1-4dc1-9904-88bebecb892f" />
 																</node>
 																<node id="Object"> Multiattack attack
-																	<attribute id="ID" type="FixedString" value="e126860a-097a-4fd7-b16e-2849662ea62e" />
+																	<attribute id="ID" type="FixedString" value="c5ff4d73-f6c1-414c-a164-d05ed926f411" />
 																	<attribute id="MapKey" type="FixedString" value="eeca2c0a-5f81-411e-aad8-b72362322900" />
 																</node>
 																<node id="Object">
@@ -284,7 +284,7 @@
 																	<attribute id="MapKey" type="FixedString" value="b7a713aa-bc44-44e7-be65-01689599801a" />
 																</node>
 																<node id="Object"> Multiattack antic
-																	<attribute id="ID" type="FixedString" value="0aea3f4e-4368-48a9-9c4e-cc2378c5a5f0" />
+																	<attribute id="ID" type="FixedString" value="728df064-e964-4730-965a-b9a160e1cbc4" />
 																	<attribute id="MapKey" type="FixedString" value="ebd0529b-057e-491f-b124-acfed054728b" />
 																</node>
 																<!--<node id="Object">
@@ -292,7 +292,7 @@
 																	<attribute id="MapKey" type="FixedString" value="2e7fa61a-b148-4036-854c-8f51a6c80e60" />
 																</node>-->
 																<node id="Object"> Multiattack prepare
-																	<attribute id="ID" type="FixedString" value="f08b6c93-feb1-4e8f-95be-76f729118593" />
+																	<attribute id="ID" type="FixedString" value="452534b2-09f4-4f8c-b299-fa227775a2a6" />
 																	<attribute id="MapKey" type="FixedString" value="6d444cbe-28c7-4f69-9409-9b4871851d9b" />
 																</node>
 																<!--<node id="Object">
@@ -310,35 +310,35 @@
 														<node id="Animation">
 															<children>
 																<node id="Object"> Ironbound Pursuit Antic
-																	<attribute id="ID" type="FixedString" value="45111895-1d4d-4fb7-8c16-0de6c6835b3f" />
+																	<attribute id="ID" type="FixedString" value="d2093bd2-e488-443b-8ad1-887b85596f08" />
 																	<attribute id="MapKey" type="FixedString" value="2639781e-007c-456b-b404-fa04d62f3380" />
 																</node>
 																<node id="Object"> Open Wounds Recover
-																	<attribute id="ID" type="FixedString" value="bf24de5a-cfae-4c22-bd57-a614ec73de96" />
+																	<attribute id="ID" type="FixedString" value="6abe51bb-6f00-4a19-a973-70a1c9720bcb" />
 																	<attribute id="MapKey" type="FixedString" value="33176205-04c0-430d-867b-8e54d876fd00" />
 																</node>
 																<node id="Object"> Ironbound Pursuit Recover
-																	<attribute id="ID" type="FixedString" value="01dccd23-c026-4c8e-95f8-5416c38ad152" />
+																	<attribute id="ID" type="FixedString" value="e9bc343d-e6e1-4bfe-8fba-fa5a9b0596f1" />
 																	<attribute id="MapKey" type="FixedString" value="64e4bf00-6b7c-4312-a24d-a0964d940b8d" />
 																</node>
 																<node id="Object"> Open Wounds Recover
-																	<attribute id="ID" type="FixedString" value="bf24de5a-cfae-4c22-bd57-a614ec73de96" />
+																	<attribute id="ID" type="FixedString" value="6abe51bb-6f00-4a19-a973-70a1c9720bcb" />
 																	<attribute id="MapKey" type="FixedString" value="d0b99285-a55a-44e6-9e46-b30daac9569c" />
 																</node>
 																<node id="Object"> Bloodlust Recover
-																	<attribute id="ID" type="FixedString" value="42169db8-254e-4914-bc48-732c538ca079" />
+																	<attribute id="ID" type="FixedString" value="ea774bc8-1db6-4017-82ff-57df0882849e" />
 																	<attribute id="MapKey" type="FixedString" value="6c58d00e-366f-435d-ae09-eef9b2b05ac4" />
 																</node>
 																<node id="Object"> Ironbound Pursuit Prepare
-																	<attribute id="ID" type="FixedString" value="8afafc9d-659d-4c72-a899-691f615eeb67" />
+																	<attribute id="ID" type="FixedString" value="e96f87a9-516b-439f-88d0-71c2d2fbdbe9" />
 																	<attribute id="MapKey" type="FixedString" value="2a7f6717-4f2f-422b-a9c6-c877140437c5" />
 																</node>
 																<node id="Object"> Bloodlust Cast
-																	<attribute id="ID" type="FixedString" value="40233e31-5017-43ce-aa4d-ae08e77b26b7" />
+																	<attribute id="ID" type="FixedString" value="28fbb23d-4c2f-425e-9985-8b93bcdf1ecc" />
 																	<attribute id="MapKey" type="FixedString" value="29cc8ef2-e45e-4513-8f98-085d0dad7bc1" />
 																</node>
 																<node id="Object"> Ironbound Pursuit Loop
-																	<attribute id="ID" type="FixedString" value="ee1c5990-e636-41f8-8c2f-f2f84f469efc" />
+																	<attribute id="ID" type="FixedString" value="bf87a479-897d-4817-84a1-a1351f82f4b0" />
 																	<attribute id="MapKey" type="FixedString" value="4bb2b184-ead3-4afe-b28f-b1ec218d6ac5" />
 																</node>
 																<!--<node id="Object">
@@ -346,23 +346,23 @@
 																	<attribute id="MapKey" type="FixedString" value="b7a713aa-bc44-44e7-be65-01689599801a" />
 																</node>-->
 																<node id="Object"> Open Wounds Cast
-																	<attribute id="ID" type="FixedString" value="fddda415-c318-4eb1-91f5-1ce005751f12" />
+																	<attribute id="ID" type="FixedString" value="6cb20d85-0606-4eb3-8672-da149c7c54c3" />
 																	<attribute id="MapKey" type="FixedString" value="89d18db2-07fc-48de-a2c9-5ad6857cc732" />
 																</node>
 																<node id="Object"> Bloodlust Cast
-																	<attribute id="ID" type="FixedString" value="40233e31-5017-43ce-aa4d-ae08e77b26b7" />
+																	<attribute id="ID" type="FixedString" value="28fbb23d-4c2f-425e-9985-8b93bcdf1ecc" />
 																	<attribute id="MapKey" type="FixedString" value="49b4d417-5829-4674-85eb-bd44f087506e" />
 																</node>
 																<node id="Object"> Bloodlust Recover
-																	<attribute id="ID" type="FixedString" value="42169db8-254e-4914-bc48-732c538ca079" />
+																	<attribute id="ID" type="FixedString" value="ea774bc8-1db6-4017-82ff-57df0882849e" />
 																	<attribute id="MapKey" type="FixedString" value="bb428832-db99-4236-8a81-a2737b81d0cc" />
 																</node>
 																<node id="Object"> Open Wounds Cast
-																	<attribute id="ID" type="FixedString" value="fddda415-c318-4eb1-91f5-1ce005751f12" />
+																	<attribute id="ID" type="FixedString" value="6cb20d85-0606-4eb3-8672-da149c7c54c3" />
 																	<attribute id="MapKey" type="FixedString" value="1063ac71-be5e-435e-875d-78718d123a1f" />
 																</node>
 																<node id="Object"> Ironbound Pursuit Dash
-																	<attribute id="ID" type="FixedString" value="fa51c7a4-f2f5-427e-b6c0-a7c6b80d5ced" />
+																	<attribute id="ID" type="FixedString" value="e126ad8d-7100-46ad-8fba-3f5513e6634f" />
 																	<attribute id="MapKey" type="FixedString" value="1445e6a1-5644-44a2-b857-80b6b24b2ea3" />
 																</node>
 																<!--<node id="Object">
@@ -370,7 +370,7 @@
 																	<attribute id="MapKey" type="FixedString" value="2e7fa61a-b148-4036-854c-8f51a6c80e60" />
 																</node>-->
 																<node id="Object"> Ironbound Pursuit Attack
-																	<attribute id="ID" type="FixedString" value="d1c8db6b-1f96-4599-9465-6243879e0ce3" />
+																	<attribute id="ID" type="FixedString" value="bd474581-2a92-4d66-acd5-0d48ce1bfb17" />
 																	<attribute id="MapKey" type="FixedString" value="8ae42bd8-0ab8-4a9b-84ea-a021e15539f9" />
 																</node>
 																<!--<node id="Object">
@@ -403,11 +403,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.70000005" />
-					<attribute id="ID" type="FixedString" value="ee1c5990-e636-41f8-8c2f-f2f84f469efc" />
+					<attribute id="ID" type="FixedString" value="bf87a479-897d-4817-84a1-a1351f82f4b0" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SoulStitchedRedcap_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Loop" />
+					<attribute id="Name" type="LSString" value="AzerRedcap_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Loop" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -424,12 +424,12 @@
 					<attribute id="AdditiveLoopingStart" type="float" value="0" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.20000002" />
-					<attribute id="ID" type="FixedString" value="f08b6c93-feb1-4e8f-95be-76f729118593" />
+					<attribute id="ID" type="FixedString" value="452534b2-09f4-4f8c-b299-fa227775a2a6" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SoulStitchedRedcap_Rig_DFLT_CMBT_Skill_Multiattack_01_Prepare" />
+					<attribute id="Name" type="LSString" value="AzerRedcap_Rig_DFLT_CMBT_Skill_Multiattack_01_Prepare" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -464,11 +464,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1.1333334" />
-					<attribute id="ID" type="FixedString" value="42169db8-254e-4914-bc48-732c538ca079" />
+					<attribute id="ID" type="FixedString" value="ea774bc8-1db6-4017-82ff-57df0882849e" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SoulStitchedRedcap_Rig_DFLT_CMBT_Skill_Bloodlust_01_Recover" />
+					<attribute id="Name" type="LSString" value="AzerRedcap_Rig_DFLT_CMBT_Skill_Bloodlust_01_Recover" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -557,11 +557,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.6666667" />
-					<attribute id="ID" type="FixedString" value="01dccd23-c026-4c8e-95f8-5416c38ad152" />
+					<attribute id="ID" type="FixedString" value="e9bc343d-e6e1-4bfe-8fba-fa5a9b0596f1" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Recover" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Recover" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -668,11 +668,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.33333334" />
-					<attribute id="ID" type="FixedString" value="fa51c7a4-f2f5-427e-b6c0-a7c6b80d5ced" />
+					<attribute id="ID" type="FixedString" value="e126ad8d-7100-46ad-8fba-3f5513e6634f" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Dash" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Dash" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -709,11 +709,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1.9666668" />
-					<attribute id="ID" type="FixedString" value="bf24de5a-cfae-4c22-bd57-a614ec73de96" />
+					<attribute id="ID" type="FixedString" value="6abe51bb-6f00-4a19-a973-70a1c9720bcb" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_OpenWounds_01_Recover" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_OpenWounds_01_Recover" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -766,11 +766,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="2.1333334" />
-					<attribute id="ID" type="FixedString" value="d1c8db6b-1f96-4599-9465-6243879e0ce3" />
+					<attribute id="ID" type="FixedString" value="bd474581-2a92-4d66-acd5-0d48ce1bfb17" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Attack" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Attack" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -849,12 +849,12 @@
 					<attribute id="AdditiveLoopingStart" type="float" value="0" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.33333334" />
-					<attribute id="ID" type="FixedString" value="9e7af756-9925-41c4-a88c-922258369b5a" />
+					<attribute id="ID" type="FixedString" value="ef8b349e-52c5-4bb9-87dc-aaafe9154a07" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Dash" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Dash" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -899,11 +899,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1.8000001" />
-					<attribute id="ID" type="FixedString" value="fddda415-c318-4eb1-91f5-1ce005751f12" />
+					<attribute id="ID" type="FixedString" value="6cb20d85-0606-4eb3-8672-da149c7c54c3" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_OpenWounds_01_Cast" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_OpenWounds_01_Cast" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1022,11 +1022,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1.8333334" />
-					<attribute id="ID" type="FixedString" value="e126860a-097a-4fd7-b16e-2849662ea62e" />
+					<attribute id="ID" type="FixedString" value="c5ff4d73-f6c1-414c-a164-d05ed926f411" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Attack" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Attack" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1266,12 +1266,12 @@
 					<attribute id="AdditiveLoopingStart" type="float" value="0" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.40000004" />
-					<attribute id="ID" type="FixedString" value="0aea3f4e-4368-48a9-9c4e-cc2378c5a5f0" />
+					<attribute id="ID" type="FixedString" value="728df064-e964-4730-965a-b9a160e1cbc4" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Antic" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Antic" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1300,12 +1300,12 @@
 					<attribute id="AdditiveLoopingStart" type="float" value="0" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1" />
-					<attribute id="ID" type="FixedString" value="ba50e930-0bb0-415b-93cb-bfd3cd285968" />
+					<attribute id="ID" type="FixedString" value="ce40a355-4be9-4898-8b54-5877f227fba4" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Loop" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Loop" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="92e941ee-66b9-4e9b-b29f-f6e1ba2bfe33" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1320,11 +1320,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.20000002" />
-					<attribute id="ID" type="FixedString" value="8afafc9d-659d-4c72-a899-691f615eeb67" />
+					<attribute id="ID" type="FixedString" value="e96f87a9-516b-439f-88d0-71c2d2fbdbe9" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Prepare" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Prepare" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1339,11 +1339,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1.5000001" />
-					<attribute id="ID" type="FixedString" value="cba67d3c-8910-43c4-ad8a-a3a851e8ed63" />
+					<attribute id="ID" type="FixedString" value="d768dc52-208e-45c8-9b8e-5faf3e37061e" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Recover" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_Multiattack_01_Recover" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1394,11 +1394,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="2.766667" />
-					<attribute id="ID" type="FixedString" value="40233e31-5017-43ce-aa4d-ae08e77b26b7" />
+					<attribute id="ID" type="FixedString" value="28fbb23d-4c2f-425e-9985-8b93bcdf1ecc" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_Bloodlust_01_Cast" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_Bloodlust_01_Cast" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1542,11 +1542,11 @@
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="0.8333334" />
-					<attribute id="ID" type="FixedString" value="45111895-1d4d-4fb7-8c16-0de6c6835b3f" />
+					<attribute id="ID" type="FixedString" value="d2093bd2-e488-443b-8ad1-887b85596f08" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
 					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
 					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="SOULSTITCHEDREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Antic" />
+					<attribute id="Name" type="LSString" value="AzerREDCAP_Rig_DFLT_CMBT_Skill_IronboundPursuit_01_Antic" />
 					<attribute id="Offset" type="float" value="0" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="9e80ea4f-1494-3e9c-9bd0-3f9901cf658e" />
 					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
@@ -1654,7 +1654,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="d5875d16-d0a2-4cef-a7d8-3af9f3f1e77a" />
+					<attribute id="ID" type="FixedString" value="12162f03-7d8c-4d5a-a7b3-94499288ece3" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Azer_F_Base" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -1763,8 +1763,98 @@
 							<attribute id="PairElement2" type="FixedString" value="7619d5b2-2340-f6a4-5e87-b55efd995cde" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="09267054-c896-48ad-8ffa-d2f2852aedc7" />
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="d8d9e1e3-cbd6-4240-ab1e-bd3626cb5532" />
+							<attribute id="PairElement2" type="FixedString" value="645adc9b-f331-cef0-a7ad-f51c15942da8" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="8fb57960-eb92-48f5-b99d-ab36519e4d4f" />
+							<attribute id="PairElement2" type="FixedString" value="c1c89d7c-b1b9-c9d1-56f7-170f3500f997" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b927a22a-d64b-48d6-bc7c-38c5f7f6a061" />
+							<attribute id="PairElement2" type="FixedString" value="784cf97e-794b-0d9c-4cfb-cae45b979857" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="a06241d2-c432-472c-8c7d-84228d530cfa" />
+							<attribute id="PairElement2" type="FixedString" value="59436f61-d6bf-5fda-34c1-8a3dca82adba" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="fe416267-36f0-4346-90fc-4aeb7f25ec07" />
+							<attribute id="PairElement2" type="FixedString" value="b6d68abf-56f6-dcce-cf94-2daa232c34dd" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b443a7fa-b36a-4cbc-9e4b-f3167de34d1b" />
+							<attribute id="PairElement2" type="FixedString" value="ae407e65-47c5-1863-d20f-1b51f7bc7fc5" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="978ef74e-3f22-4719-a113-fa48ebe1444a" />
+							<attribute id="PairElement2" type="FixedString" value="eb373687-a6c3-1b59-ba1a-939d71efcb8c" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="8047cf29-2c79-4f12-a4bf-d965a023be63" />
+							<attribute id="PairElement2" type="FixedString" value="07d2d5f8-8a55-1565-277e-2c9a88a3ebb4" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="8047cf29-2c79-4f12-a4bf-d965a023be63" />
+							<attribute id="PairElement2" type="FixedString" value="6ae855d9-0bc0-6561-9947-7ad579a00f5c" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b40466dd-a62d-455b-b4ba-dd0d86e61cd4" />
+							<attribute id="PairElement2" type="FixedString" value="5cdd3560-16a6-7165-ecb0-188bdc2343fd" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="29dc22b5-5e22-46d8-99f9-02e348f0b0b2" />
+							<attribute id="PairElement2" type="FixedString" value="a819f594-056a-8359-5bae-3a7c5c70d0a4" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="f87d7b0e-bc56-4f22-b347-9ef63bfa5220" />
+							<attribute id="PairElement2" type="FixedString" value="625ec200-c08f-efb9-3d16-914c96960fe3" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="07234f31-c239-4a57-aeb4-868f3e1a318e" />
+							<attribute id="PairElement2" type="FixedString" value="5d898d99-305d-306e-48d8-be931099d5b0" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="1be5aa5a-e221-4f0e-a1bf-be25f5d23224" />
+							<attribute id="PairElement2" type="FixedString" value="db3e504e-6aed-a36c-553d-672e88e9bc43" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="1be5aa5a-e221-4f0e-a1bf-be25f5d23224" />
+							<attribute id="PairElement2" type="FixedString" value="f080898d-b8f6-8985-2a11-1c494fba32a6" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="cfd09a0b-efce-4c15-b7e9-fa6f35074510" />
+							<attribute id="PairElement2" type="FixedString" value="ef03bb43-2c90-8252-b03f-b8efefbe857d" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="cfd09a0b-efce-4c15-b7e9-fa6f35074510" />
+							<attribute id="PairElement2" type="FixedString" value="7c50b9f6-8231-7ad7-ac44-f330d012fda8" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="d8d9e1e3-cbd6-4240-ab1e-bd3626cb5532" />
+							<attribute id="PairElement2" type="FixedString" value="3e43f57a-0133-6235-cb38-38ad2698d368" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="1" />
+						</node>					
+						<node id="AnimationWaterfall"> <!--Redcap Dropkick AW-->
+							<attribute id="Object" type="FixedString" value="6c8d9823-eefb-4d92-b6fb-30d9bcec1b89" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="eeb3cdb4-68d8-95fc-47a3-9f30095aca1a" />
@@ -1792,7 +1882,7 @@
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="324bfb20-54e4-01c5-8a11-849c3352a6a3" />
-						</node>
+						</node>						
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 					</children>
@@ -1806,7 +1896,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="11e45752-2461-7620-717d-75c527e448f0" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="802210a7-4fbc-4496-b9dd-1ff42a35a5eb" />
+					<attribute id="ID" type="FixedString" value="dfb17ee9-16f4-4ca2-9755-556ef04184a0" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="AZER_F_NKD_BODY_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -1828,7 +1918,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="8aeca0e7-c414-4f51-b2bd-41dc4bdfa323" />
+							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Body_A.AZER_F_NKD_Body_A_Mesh.0" />
 						</node>
 					</children>

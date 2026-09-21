@@ -13,7 +13,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="e29b5434-fa09-7456-a085-4dbc50d82702" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="14db26fe-39e6-4651-af30-c7a6b9eebeae" />
+					<attribute id="ID" type="FixedString" value="429fb6bc-85a7-4be2-bdd5-c1060847bc6e" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />

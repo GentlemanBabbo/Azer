@@ -13,7 +13,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="dd1b33fb-3750-7243-685c-e0faaa928fd8" />
 					<attribute id="HairType" type="uint8" value="1" />
-					<attribute id="ID" type="FixedString" value="dae66927-e5a7-4cd1-b432-01873cbb009c" />
+					<attribute id="ID" type="FixedString" value="dd9c8256-df05-4e10-9326-bb87cb4b64f4" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="AZER_F_NKD_Hair_B" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />

@@ -9,7 +9,7 @@
                     <attribute id="Add" type="LSString" value="Intimidation;Survival"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
-                    <attribute id="UUID" type="guid" value="61a3d42c-a510-4a27-8129-ad1a6f36d49c"/>
+                    <attribute id="UUID" type="guid" value="0709a5ae-b458-43b7-956b-fa1a051a8ee1"/>
                 </node>
             </children>
         </node>

@@ -1826,7 +1826,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="a14c79e9-2c4b-47f0-8ebd-67a11261f366" />
+					<attribute id="ID" type="FixedString" value="03bcc23f-62ce-4d9a-a8a6-7c6e4fcc8cd1" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="AZER_M_Head_H" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -1868,7 +1868,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b057e36e-6839-4e1f-b2a2-d21f80b638a0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Head_H.AZER_M_NKD_Head_H_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">

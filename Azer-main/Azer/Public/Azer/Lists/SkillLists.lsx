@@ -6,7 +6,7 @@
             <children>
                 <node id="SkillList">
                     <attribute id="Skills" type="LSString" value="Arcana, Deception, Investigation, Survival, Insight, Performance, Persuasion"/> The list of skills to pick from
-                    <attribute id="UUID" type="guid" value="69c984a5-cf9a-43f7-b407-95686e823187"/> The UUID, needs to be unique
+                    <attribute id="UUID" type="guid" value="e8726c9e-6c6e-4a6d-8426-58fd67948cce"/> The UUID, needs to be unique
                 </node>		
             </children>
         </node>

@@ -10,7 +10,7 @@
 				</node>
 				<node id="TextureAtlasPath">
 					<attribute id="Path" type="LSString" value="Assets/Textures/Icons/Azer_Icons_Skills.dds" />
-					<attribute id="UUID" type="FixedString" value="b2ad453d-3566-4b92-84a7-da7731ec70c9" />
+					<attribute id="UUID" type="FixedString" value="8c4343a0-9299-4b18-9b75-6c4bd1109239" />
 				</node>
 				<node id="TextureAtlasTextureSize">
 					<attribute id="Height" type="int64" value="2048" />

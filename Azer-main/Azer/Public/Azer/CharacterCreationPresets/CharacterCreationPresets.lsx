@@ -10,9 +10,9 @@
                     <attribute id="CloseUpA" type="LSString" value="DWR_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
                     <attribute id="CloseUpB" type="LSString" value="DWR_F_Camera_Closeup_B"/> do not touch these three, cameras for in CC
                     <attribute id="Overview" type="LSString" value="DWR_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
-                    <attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value="78b1381d-b1d8-4bdc-8c9a-5ac74fc623bf"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
-                    <attribute id="UUID" type="guid" value="5e422f80-4ee3-46c6-aca6-31a29d54da8b"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+                    <attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/> <!-- Race ID from races.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="6e1b9114-1049-4795-9252-8eb865a38a99"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="UUID" type="guid" value="ca6f2535-3814-4ab1-96de-2fca05370c4f"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
                 </node>
                 <node id="CharacterCreationPreset"> <!-- Male Standard -->
@@ -21,9 +21,9 @@
                     <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
-                    <attribute id="RaceUUID" type="guid" value="a5b08de6-c95a-4a4d-9531-22ced78e0aea"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value="e883741c-d5f2-484f-8441-c734c6745cac"/> <!-- Root template from Race_Root_Templates -->
-                    <attribute id="UUID" type="guid" value="bb5a3e20-1f58-4cc5-8a79-ae5da3911008"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+                    <attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/> <!-- Race ID from races.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="b95250e7-89e0-4503-9345-d7ccf0731883"/> <!-- Root template from Race_Root_Templates -->
+                    <attribute id="UUID" type="guid" value="9b43c793-f497-4269-88b4-6988747f0f16"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
                 </node>
             </children>

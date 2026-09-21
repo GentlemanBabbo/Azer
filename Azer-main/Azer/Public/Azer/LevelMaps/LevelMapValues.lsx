@@ -19,7 +19,7 @@
                     <attribute id="Level11" type="LSString" value="1d10"/>
                     <attribute id="Level12" type="LSString" value="1d10"/>
                     <attribute id="Name" type="FixedString" value="Returntosenderfiredamage"/>
-                    <attribute id="UUID" type="guid" value="7d47b74f-96c4-4bac-9023-8329f913c244"/>
+                    <attribute id="UUID" type="guid" value="6ddd33b5-443d-41ac-b228-b83f72ba9e35"/>
                 </node>
                 <node id="LevelMapSeries">
                     <attribute id="Level1" type="LSString" value="1d4"/>
@@ -35,7 +35,7 @@
                     <attribute id="Level11" type="LSString" value="1d10"/>
                     <attribute id="Level12" type="LSString" value="1d10"/>
                     <attribute id="Name" type="FixedString" value="HeatedWeaponDamage"/>
-                    <attribute id="UUID" type="guid" value="a184be09-1290-425f-b574-e398dd2cea34"/>
+                    <attribute id="UUID" type="guid" value="51667486-1702-48d8-af33-86e659f0cca3"/>
                 </node>                
             </children>
         </node>

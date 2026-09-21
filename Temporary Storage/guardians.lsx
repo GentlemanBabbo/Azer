@@ -6,7 +6,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="" /> <!--need to find dwarf male daisy-->
-					<attribute id="BodySetVisual" type="FixedString" value="802210a7-4fbc-4496-b9dd-1ff42a35a5eb" />
+					<attribute id="BodySetVisual" type="FixedString" value="dfb17ee9-16f4-4ca2-9755-556ef04184a0" />
 					<attribute id="ID" type="FixedString" value="1ba1477f-528b-408a-9cfd-b5cd60b45964" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Azer_Male_Daisy" />
@@ -35,11 +35,11 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="d9c26003-3705-419e-b22f-b5efd3c8f675" />
+							<attribute id="VisualResource" type="FixedString" value="abcf859a-e152-454e-b750-a4e58df91347" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="5e5fa03a-2120-474d-a61d-2a714f7be2ee" />
+							<attribute id="VisualResource" type="FixedString" value="9da31fcd-64ea-40a9-8284-333da1f22d28" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -55,7 +55,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="" /> <!--need to find dwarf female daisy-->
-					<attribute id="BodySetVisual" type="FixedString" value="802210a7-4fbc-4496-b9dd-1ff42a35a5eb" />
+					<attribute id="BodySetVisual" type="FixedString" value="dfb17ee9-16f4-4ca2-9755-556ef04184a0" />
 					<attribute id="ID" type="FixedString" value="819e0a02-e8fc-46a8-b8d5-00d812b40a2c" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Azer_Female_Daisy" />
@@ -84,7 +84,7 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="279ce1b8-c4b7-4a61-89ff-3bc2d01bffed" />
+							<attribute id="VisualResource" type="FixedString" value="b7a235e4-95f2-4c92-9f4c-659977c1d14e" />
 						</node>
 						<node id="Slots">
 							<attribute id="Slot" type="FixedString" value="Hair" />
