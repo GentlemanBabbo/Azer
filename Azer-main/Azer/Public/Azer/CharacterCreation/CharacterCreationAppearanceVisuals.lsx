@@ -314,7 +314,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_A
 						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 						<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-			            <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			            <attribute id="DisplayName" type="TranslatedString" handle="hf20aa17f99894655831bce185efd25fdf405" version="1"/> 
 						<attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
 						<attribute id="SlotName" type="FixedString" value="Hair"/>
@@ -324,12 +324,22 @@
 				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_B
 						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 						<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
-			            <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			            <attribute id="DisplayName" type="TranslatedString" handle="ha8a6020a7e4f4ce79aa1fbb85f1958e84df6" version="1"/> 
 						<attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
 						<attribute id="SlotName" type="FixedString" value="Hair"/>
 						<attribute id="UUID" type="guid" value="78cf9275-8498-472a-b7c7-a592c356c354"/>
 						<attribute id="VisualResource" type="guid" value="dd9c8256-df05-4e10-9326-bb87cb4b64f4"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_C
+						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+						<attribute id="BodyType" type="uint8" value="1"/> <!--0 = Masc 1 = Fem -->
+			            <attribute id="DisplayName" type="TranslatedString" handle="h2dad72b8cb4b4db5846c4706708312e78f74" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Hair"/>
+						<attribute id="UUID" type="guid" value="22beb1b4-6b0b-4a24-8885-0e78bd23872f"/>
+						<attribute id="VisualResource" type="guid" value="2270eb82-e21c-4641-b997-22c983beac21"/>
 				</node>
         <!--Horns-->
 		<!--male-->

@@ -39,11 +39,17 @@
 			<Layer Name="Normal" Source="AZER_F_NKD_Body_A_NM.DDS" />
 			<Layer Name="Physical" Source="AZER_F_NKD_Body_A_Physical.DDS" />
 		</Texture>
-		<!--Head-->
+		<!--Head Option A-->
 		<Texture Name="968897257c7949e2ae2f7b405500292b">
 			<Layer Name="Albedo" Source="AZER_F_NKD_Head_A_Albedo.DDS" />
 			<Layer Name="Normal" Source="AZER_F_NKD_Head_A_NM.DDS" />
 			<Layer Name="Physical" Source="AZER_F_NKD_Head_A_Physical.DDS" />
+		</Texture>
+		<!--Head Option B-->
+		<Texture Name="3b1c17183e684f53a2b4055b6d69f3f0">
+			<Layer Name="Albedo" Source="AZER_DWR_F_A_CRACKED_BM.DDS" />
+			<Layer Name="Normal" Source="AZER_DWR_F_A_CRACKED_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_DWR_F_A_CRACKED_PM.DDS" />
 		</Texture>
 	</Textures>
 </TileSet>

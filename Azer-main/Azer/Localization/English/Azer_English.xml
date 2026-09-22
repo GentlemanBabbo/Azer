@@ -43,13 +43,15 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<!--Hair loca-->
+	<!--Male Hair-->
 	<content contentuid="h0d19bb865e62415c8948e6d7619bc8f1881a" version="1">Kazuya</content>
 	<content contentuid="h1dc7a84b2ad04fdd9ef5ecc373922c54d5bc" version="1">Molten Mane</content>
 	<content contentuid="h6d6dc8007dd8483998b5d7ef125b7ac61af2" version="1">Heihachi</content>
 	<content contentuid="hd5bf4b85e8f347c8bab179630d14260c81fe" version="1">Firestarter</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
+	<!--Female Hair-->
+	<content contentuid="hf20aa17f99894655831bce185efd25fdf405" version="1">Firecracker</content>
+	<content contentuid="ha8a6020a7e4f4ce79aa1fbb85f1958e84df6" version="1">Torchlight</content>	
+	<content contentuid="h2dad72b8cb4b4db5846c4706708312e78f74" version="1">Calming Sun</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
