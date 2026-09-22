@@ -1826,7 +1826,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="bdea5b91-728a-499d-87a6-a25a3bf264b4" />
+					<attribute id="ID" type="FixedString" value="3bc780d6-40e9-4548-b31f-a2a3325b7c57" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="AZER_M_Head_I" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
