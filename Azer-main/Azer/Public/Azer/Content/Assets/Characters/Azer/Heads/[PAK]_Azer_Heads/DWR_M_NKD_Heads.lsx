@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource"> DWR_M_NKD_Head_A
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1304972 1.51573 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.164103 -0.1853255" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="fb91a94d-a66c-4941-8aee-c3bc418f72fb" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_NKD_Head_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="d4978564-c94a-dcf9-65af-c02a17b82ae0" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0a4360d0-f37f-d1aa-cbb6-de3d190e6ef0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" /> 
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> DWR_M_NKD_Head_B
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1304972 1.51573 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.164103 -0.1853255" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="91bd8c5e-0344-440d-85ef-3fa68fc085c8" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_NKD_Head_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="30d2566a-fcd1-1334-d0a8-aafb0bcbb6f4" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0a4360d0-f37f-d1aa-cbb6-de3d190e6ef0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" /> 
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> DWR_M_NKD_Head_C
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1304972 1.51573 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.164103 -0.1853255" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="ff566a70-061a-4c18-b3ea-bdbc20f58e6a" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_NKD_Head_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="78936cc1-9ef5-a9a8-bcae-2afff7e8f33f" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_C.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_C.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0a4360d0-f37f-d1aa-cbb6-de3d190e6ef0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" /> 
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> DWR_M_NKD_Head_D
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1304972 1.51573 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.164103 -0.1853255" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="939f4cfa-b674-406c-9dee-553b6a41f94b" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_NKD_Head_D" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="da0cd67f-5172-cd00-b9f1-cfdde0ebb6e6" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_D.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_D.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0a4360d0-f37f-d1aa-cbb6-de3d190e6ef0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" /> 
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> DWR_M_NKD_Head_E
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1304972 1.51573 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.164103 -0.1853255" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0e8bc36c-18f9-421d-af34-bc121621ed7b" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_NKD_Head_E" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="a388f66f-7719-22b4-51f6-4e43c140f855" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_E.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_E.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0a4360d0-f37f-d1aa-cbb6-de3d190e6ef0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" /> 
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> DWR_M_NKD_Head_G
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1304972 1.51573 0.10497" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.164103 -0.1853255" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="d2cde3b1-8f9b-49e6-b719-28fd63b2880f" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DWR_M_NKD_Head_G" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="d181d75b-0179-2393-5bbd-c220bfb162e4" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_G.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Dwarves/_Male/Resources/DWR_M_NKD_Head_G.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0a4360d0-f37f-d1aa-cbb6-de3d190e6ef0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b25b99ea-ddb1-51e4-5fec-d1afb735d2d5" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="247ea95e-7b48-4609-a237-f3498af18ce6" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" /> 
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" /> <!-- Invisible Helper Material -->
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD1.10" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Scalp_Mesh_LOD2.13" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
