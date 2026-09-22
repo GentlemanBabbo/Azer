@@ -1897,6 +1897,11 @@
 							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_A.AZER_F_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="79dd23c4-c5cd-a576-550e-614a0c641fc4" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_A.AZER_F_NKD_Head_A_Scalp_Mesh.6" />
+						</node>
 					</children>
 				</node>
 			</children>
