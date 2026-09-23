@@ -360,6 +360,26 @@
 						<attribute id="UUID" type="guid" value="c5138083-57eb-44da-a612-c075ef1015ec"/>
 						<attribute id="VisualResource" type="guid" value="93354eea-04ba-4a3c-b059-aa196b1a7e1b"/>
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Hair_E
+						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+						<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			            <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Hair"/>
+						<attribute id="UUID" type="guid" value="9010ffb3-02c9-4f25-9609-82cd018cd02e"/>
+						<attribute id="VisualResource" type="guid" value="abc0c2b0-851b-409e-9dc6-653580891289"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Hair_F
+						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+						<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			            <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Hair"/>
+						<attribute id="UUID" type="guid" value="847ed6f3-008a-492e-a359-05662b23e61e"/>
+						<attribute id="VisualResource" type="guid" value="a4106fb0-a7b4-4792-8513-24352c3217c8"/>
+				</node>
         <!--female-->
 				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_A
 						<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
