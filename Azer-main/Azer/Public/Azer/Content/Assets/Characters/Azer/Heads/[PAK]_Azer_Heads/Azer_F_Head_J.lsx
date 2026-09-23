@@ -1578,7 +1578,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="b65a0693-14cb-4747-950f-b8ae17b544ed" />
+					<attribute id="ID" type="FixedString" value="22454c83-253a-419f-94f4-bb009b7d1597" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="Azer_F_Head_J" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
