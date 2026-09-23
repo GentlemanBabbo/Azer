@@ -1621,7 +1621,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c331bc96-a4c3-45c7-a55c-b596225c3bc3" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_J.AZER_F_NKD_Head_J_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -1636,7 +1636,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c331bc96-a4c3-45c7-a55c-b596225c3bc3" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_J.AZER_F_NKD_Head_J_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
