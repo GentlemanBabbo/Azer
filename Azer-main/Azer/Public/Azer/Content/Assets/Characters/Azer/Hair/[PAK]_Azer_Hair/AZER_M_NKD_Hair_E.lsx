@@ -18,7 +18,7 @@
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_M_NKD_Hair_D" />
+					<attribute id="Name" type="LSString" value="AZER_M_NKD_Hair_E" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="Radius" type="float" value="0.28965703" />
 					<attribute id="SkeletonResource" type="FixedString" value="" />
