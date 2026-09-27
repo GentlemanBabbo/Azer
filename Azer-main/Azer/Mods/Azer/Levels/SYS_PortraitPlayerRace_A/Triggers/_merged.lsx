@@ -7,7 +7,7 @@
                 <node id="GameObjects">
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
-					<attribute id="MapKey" type="FixedString" value="160e23c0-9af9-4a89-b851-fc373df19ef3" /> <!-- Regenerate this if making custom trigger. -->
+					<attribute id="MapKey" type="FixedString" value="99068e13-3760-4062-b352-458648979735" /> <!-- Regenerate this if making custom trigger. -->
 					<attribute id="Name" type="LSString" value="Icon_Azer" /> <!-- I believe this has to match the name of the GeneratePortrait value in your root templates. -->
 					<attribute id="OnlyOsirisEvents" type="bool" value="False" />
 					<attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />

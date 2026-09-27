@@ -10,7 +10,7 @@
                     <attribute id="BackgroundUUID" type="guid" value="650ca675-ac36-41f2-a861-d5d7d92adae2"/> <!-- Set your origin's background here. -->
                     <attribute id="BodyShape" type="uint8" value="0"/> <!-- 0 = Slim, 1 = Strong -->
                     <attribute id="BodyType" type="uint8" value="0"/> <!-- 0 = M, 1 = F -->
-                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Azer"/> <!-- Overrides the default class equipment, remove this line if you want default class equipment. -->
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_M_Azer"/> <!-- Overrides the default class equipment, remove this line if you want default class equipment. -->
                     <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
                     <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
                     <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
@@ -23,11 +23,11 @@
                     <attribute id="LockRace" type="bool" value="true"/> <!-- True = Locked race, False = Editable race -->
                     <attribute id="Name" type="FixedString" value="AzerEverburning"/> <!-- Internal name -->
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/> <!-- Add any passives you want here. -->
-                    <attribute id="RaceUUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> <!-- Set your origin's race here. This is a custom copy of Human race. If you don't have a need for a custom race, just put the regular race UUID here. E.g. vanilla Human is 0eb594cb-8820-4be6-a58d-8be7a1a98fba -->
+                    <attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/> <!-- Set your origin's race here. This is a custom copy of Human race. If you don't have a need for a custom race, just put the regular race UUID here. E.g. vanilla Human is 0eb594cb-8820-4be6-a58d-8be7a1a98fba -->
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> <!-- Set your origin's subrace here. (Empty here because humans don't have subraces.) -->
-                    <attribute id="ClassUUID" type="guid" value="721dfac3-92d4-41f5-b773-b7072a86232f"/> <!-- Set your origin's class here. -->
+                    <attribute id="ClassUUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> <!-- Set your origin's class here. -->
                     <attribute id="SubClassUUID" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/> <!-- Set your origin's subclass here. -->
-                    <attribute id="UUID" type="guid" value="607ea3ce-92cc-4b84-92f4-6ed68b2b4e76"/> <!-- Regenerate this! -->
+                    <attribute id="UUID" type="guid" value="d04d0f31-1dd3-4e62-a15e-632410fd5f4b"/> <!-- Regenerate this! -->
                     <attribute id="Unique" type="bool" value="false"/> <!-- True = Locked appearance, False = Editable appearance -->
                     <attribute id="VoiceTableUUID" type="guid" value="5ee56242-d07c-482e-9260-24529d1473a3"/> <!-- Set your origin's voice. This is Voice 7. If you want the voice to be pickable, set the table back to 5ee56242-d07c-482e-9260-24529d1473a3 which is the voice table for generic Tav. -->
                     <children>

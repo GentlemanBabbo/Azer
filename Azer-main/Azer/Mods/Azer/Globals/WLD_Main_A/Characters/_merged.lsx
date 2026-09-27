@@ -12,7 +12,7 @@
 					<attribute id="Flag" type="int32" value="1" /> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Azer" /> <!-- Defines the type of portrait generation on game start and level up. -->
 					<attribute id="HasPlayerApprovalRating" type="bool" value="True" />
-					<attribute id="Icon" type="FixedString" value="a0117dd7-1753-4e86-8137-6848765ecb65_(Origin_JohnLarian_Icon)" /> <!-- Must be the exact name of your icon in the metadata. -->
+					<attribute id="Icon" type="FixedString" value="a0117dd7-1753-4e86-8137-6848765ecb65_(Origin_Azer_Icon)" /> <!-- Must be the exact name of your icon in the metadata. -->
 					<attribute id="IsGlobal" type="bool" value="True" /> <!-- Probably important to keep this as True. -->
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" /> <!-- Defines the level, but your origin still spawns on the Nautiloid, so I'm not sure what it affects. -->
 					<attribute id="MapKey" type="FixedString" value="2ea05e30-fc58-4f9a-bdf8-71206231d38e" /> <!-- Regenerate this! -->
