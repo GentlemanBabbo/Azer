@@ -1,0 +1,1540 @@
+new entry "AZER_ARM_Padded_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "43daf84f-7b10-4372-91f9-5a9d520137f6"
+
+new entry "AZER_ARM_Leather_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "d5b4afef-bc5b-4abb-838b-b2756613b30e"
+
+new entry "AZER_ARM_StuddedLeather_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "af572de6-4ac2-47cd-9148-155544765bb4"
+
+new entry "AZER_ARM_Hide_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "35e304fc-78f2-400c-a5f6-eeadb2099f04"
+
+new entry "AZER_ARM_ChainShirt_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "51fee042-f6f1-42f3-8bd9-eb86898c8929"
+
+new entry "AZER_ARM_ScaleMail_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "e301272e-faef-4b7a-9d19-36f53a7d66f8"
+
+new entry "AZER_ARM_Breastplate_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "1b8cebfe-f2f6-4ab6-9ca2-3aeee9918b93"
+
+new entry "AZER_ARM_HalfPlate_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "b5f5e16f-122f-47ca-bf3d-a6dc9597448d"
+
+new entry "AZER_ARM_RingMail_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "aa712e2b-b48c-42ff-9e1d-d8df55464526"
+
+new entry "AZER_ARM_ChainMail_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "f3a7be07-ce69-4574-a80d-b0e093b99f42"
+
+new entry "AZER_ARM_Splint_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "e1f6328b-1872-49bf-9654-c8a435dc459e"
+
+new entry "AZER_ARM_Plate_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "ee3ea52f-a52c-45b6-b1d3-c60057ce00ac"
+
+new entry "AZER_ARM_Robe_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "c08631ad-f728-46c2-aac7-e9f27f930a5c"
+
+new entry "AZER_ARM_Robe_Body_1"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "d5119ed5-69db-438d-afa1-7c030ece2043"
+
+new entry "AZER_ARM_Robe_Body_2"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "8583b677-e863-425c-88ad-d873ab23953b"
+
+new entry "AZER_ARM_Cloth_Body_1"
+type "Armor"
+using "ARM_Robe_Body_1"
+data "RootTemplate" "c1ec5fe4-cfff-4fb4-80d6-2c2c066c9316"
+
+new entry "AZER_ARM_Cloth_Body_2"
+type "Armor"
+using "ARM_Robe_Body_2"
+data "RootTemplate" "29f1184e-1958-4bce-b656-71ea7b6cc548"
+
+new entry "AZER_ARM_Padded_Body_1"
+type "Armor"
+using "ARM_Padded_Body"
+data "RootTemplate" "5599ac34-487c-46af-aa9e-f06ca0af6d30"
+
+new entry "AZER_ARM_Padded_Body_2"
+type "Armor"
+using "ARM_Padded_Body"
+data "RootTemplate" "074980b5-71fc-4d06-aa65-8a6ee78489af"
+
+new entry "AZER_ARM_Leather_Body_1"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "15e995f7-6543-42a8-94f7-1b1c8276a85c"
+
+new entry "AZER_ARM_Leather_Body_2"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "ce69ee5f-c425-49a5-9d8f-8ab7927077ac"
+
+new entry "AZER_ARM_StuddedLeather_Body_1"
+type "Armor"
+using "ARM_StuddedLeather_Body"
+data "RootTemplate" "b2db38f7-7e59-4a40-b9a2-47b3f28e19c2"
+
+new entry "AZER_ARM_StuddedLeather_Body_2"
+type "Armor"
+using "ARM_StuddedLeather_Body"
+data "RootTemplate" "a7461775-0b35-4b85-8602-435e6b05ef1c"
+
+new entry "AZER_ARM_Hide_Body_1"
+type "Armor"
+using "ARM_Hide_Body"
+data "RootTemplate" "ccf7e69f-07a8-49ee-a19e-eaf3826adce4"
+
+new entry "AZER_ARM_Hide_Body_2"
+type "Armor"
+using "ARM_Hide_Body"
+data "RootTemplate" "53ce0acc-8740-4eb1-971f-00f0552196db"
+
+new entry "AZER_ARM_ChainShirt_Body_1"
+type "Armor"
+using "ARM_ChainShirt_Body"
+data "RootTemplate" "3105c362-4212-4961-a2dc-1cbe12a11b72"
+
+new entry "AZER_ARM_ChainShirt_Body_2"
+type "Armor"
+using "ARM_ChainShirt_Body"
+data "RootTemplate" "cda71e41-9dc4-4410-ba0d-34e80b4568b6"
+
+new entry "AZER_ARM_ScaleMail_Body_1"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "RootTemplate" "d030cb6d-8460-4e29-862d-9c5bf82c479f"
+
+new entry "AZER_ARM_ScaleMail_Body_2"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "RootTemplate" "498c33f5-f286-4b37-a74a-2ef5ed54d2f6"
+
+new entry "AZER_ARM_Breastplate_Body_1"
+type "Armor"
+using "ARM_Breastplate_Body"
+data "RootTemplate" "53bab398-4289-4ac0-940d-3f13099e925f"
+
+new entry "AZER_ARM_Breastplate_Body_2"
+type "Armor"
+using "ARM_Breastplate_Body"
+data "RootTemplate" "0444b54d-2318-45eb-9316-2058feae009c"
+
+new entry "AZER_ARM_HalfPlate_Body_1"
+type "Armor"
+using "ARM_HalfPlate_Body"
+data "RootTemplate" "2e1331a9-2c86-4d87-8136-a47751c7a513"
+
+new entry "AZER_ARM_HalfPlate_Body_2"
+type "Armor"
+using "ARM_HalfPlate_Body"
+data "RootTemplate" "24806e65-d151-4d38-8b97-70462bc167be"
+
+new entry "AZER_ARM_RingMail_Body_1"
+type "Armor"
+using "ARM_RingMail_Body"
+data "RootTemplate" "669cc97d-197e-4da1-bbee-2ae5c6687817"
+
+new entry "AZER_ARM_RingMail_Body_2"
+type "Armor"
+using "ARM_RingMail_Body"
+data "RootTemplate" "4a157850-efd5-49c2-a1fd-9b4672df1379"
+
+new entry "AZER_ARM_ChainMail_Body_1"
+type "Armor"
+using "ARM_ChainMail_Body"
+data "RootTemplate" "5e74353d-f506-4305-aec6-64cecf7f6925"
+
+new entry "AZER_ARM_ChainMail_Body_2"
+type "Armor"
+using "ARM_ChainMail_Body"
+data "RootTemplate" "34abf52e-b66d-42ae-bd8a-9e90737628fa"
+
+new entry "AZER_ARM_Splint_Body_1"
+type "Armor"
+using "ARM_Splint_Body"
+data "RootTemplate" "0d5e5a9c-7e21-4b6d-a018-60ceb68eeb9f"
+
+new entry "AZER_ARM_Splint_Body_2"
+type "Armor"
+using "ARM_Splint_Body"
+data "RootTemplate" "c2aa6771-50e0-41ee-bcb3-871742f2cfc7"
+
+new entry "AZER_ARM_Plate_Body_1"
+type "Armor"
+using "ARM_Plate_Body"
+data "RootTemplate" "f7bbb8d8-d05f-4fd0-b71c-597b56e1dd8f"
+
+new entry "AZER_ARM_Plate_Body_2"
+type "Armor"
+using "ARM_Plate_Body"
+data "RootTemplate" "3aa63e63-593a-4f1f-8c8c-73b6a7a73e0e"
+
+new entry "AZER_UNI_RobeOfSummer"
+type "Armor"
+using "_Armor_Magic_Robe"
+data "RootTemplate" "3ecf73fc-e475-404b-84ab-9aca582383bc"
+
+new entry "AZER_ARM_StuddedLeather_Body_Drow"
+type "Armor"
+using "ARM_StuddedLeather_Body"
+data "RootTemplate" "e7966a06-3b79-46c1-b862-2b63b60afdbe"
+
+new entry "AZER_ARM_HalfPlate_Body_Githyanki"
+type "Armor"
+using "ARM_HalfPlate_Body"
+data "RootTemplate" "5c40b0d7-f0e4-4af0-abd9-1ba0d579c83c"
+
+new entry "AZER__Foot"
+type "Armor"
+using "_Body"
+data "RootTemplate" "a0f44642-6984-43f1-b4cc-48b833b40f42"
+
+new entry "AZER_ARM_Boots_Metal"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "f4815130-436c-49e4-8133-631d3cd1f2c6"
+
+new entry "AZER_ARM_Boots_Metal_Githyanki"
+type "Armor"
+using "ARM_Boots_Metal"
+data "RootTemplate" "c3f461ed-a886-4a04-baa6-f99a3596bade"
+
+new entry "AZER_ARM_ChainShirt_Body_Shar"
+type "Armor"
+using "ARM_ChainShirt_Body"
+data "RootTemplate" "43d6191c-4982-4243-b5b5-134ea74939fd"
+
+new entry "AZER_UNI_Astarion_StarterArmor"
+type "Armor"
+using "ARM_Padded_Body"
+data "RootTemplate" "e010fbca-8901-422b-ac2a-a304cdab5e45"
+
+new entry "AZER_ARM_Leather_Body_Druid"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "541808eb-6c41-4659-ba57-b781e1902bf0"
+
+new entry "AZER_ARM_Leather_Body_Rogue"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "661f2e1e-f113-47ea-9f05-399b408ccc3a"
+
+new entry "AZER_UNI_Daisy_Plate"
+type "Armor"
+using "ARM_HalfPlate_Body"
+data "RootTemplate" "c675d981-cfb0-4ad1-9684-c671e59d1168"
+
+new entry "AZER_ARM_Gloves_Metal"
+type "Armor"
+using "_Hand"
+data "RootTemplate" "dcb192e2-86fe-4ac5-8026-0b273b40bfd0"
+
+new entry "AZER_UNI_Daisy_Gloves"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "c264d374-369d-4e01-8b3a-aa2e037bfde8"
+
+new entry "AZER_UNI_Daisy_Boots"
+type "Armor"
+using "ARM_Boots_Metal"
+data "RootTemplate" "604e397f-2502-4307-915c-9e90d4481b50"
+
+new entry "AZER_UNI_GaleRobe"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "e9a92009-4a2e-45c5-95b1-96ecf00e1415"
+
+new entry "AZER_ARM_Robe_Body_Sorcerer"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "da5a20d4-c9cc-49e1-b060-da33ec4a3a7c"
+
+new entry "AZER_ARM_Robe_Body_Sorcerer_DraconicAncestry"
+type "Armor"
+using "ARM_Robe_Body_Sorcerer"
+data "RootTemplate" "816d11a2-645f-40e7-9631-bb778b92e954"
+
+new entry "AZER_ARM_Robe_Body_Sorcerer_StormSorcery"
+type "Armor"
+using "ARM_Robe_Body_Sorcerer"
+data "RootTemplate" "f301a466-3940-4998-b871-594e71c940de"
+
+new entry "AZER_ARM_Barbarian"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "f831329d-8023-438a-b8ac-90df6370ed6a"
+
+new entry "AZER_ARM_Bard"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "33785fb3-5a16-435a-8121-d1fabb01154e"
+
+new entry "AZER_ARM_ScaleMail_Body_Paladin_Devotion"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "RootTemplate" "d20cb69b-3a18-4d70-8231-bec1b98e39e6"
+
+new entry "AZER_ARM_ScaleMail_Body_Paladin_Ancients"
+type "Armor"
+using "ARM_ScaleMail_Body_Paladin_Devotion"
+data "RootTemplate" "70490f20-64f0-4503-8a3f-f0d2cf5aa3ec"
+
+new entry "AZER_ARM_Padded_Body_Destroyed"
+type "Armor"
+using "ARM_Padded_Body"
+data "RootTemplate" "30789087-094d-4e18-9d20-412d4cc94b1b"
+
+new entry "AZER_ARM_Leather_Body_Destroyed"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "7bc35930-a9f1-43e4-a727-fbf3437ee7df"
+
+new entry "AZER_ARM_ChainShirt_Body_Destroyed"
+type "Armor"
+using "ARM_ChainShirt_Body"
+data "RootTemplate" "afd1ab53-7ec6-439b-b586-5de8ef5c662a"
+
+new entry "AZER_ARM_ScaleMail_Body_Destroyed"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "RootTemplate" "cbb3c15a-4253-479f-aa46-574762db7802"
+
+new entry "AZER_ARM_HalfPlate_Body_Githyanki_Destroyed"
+type "Armor"
+using "ARM_HalfPlate_Body_Githyanki"
+data "RootTemplate" "aa05a8c0-eac0-47d3-8d7e-aeac3ba9e25b"
+
+new entry "AZER_ARM_Robe_Destroyed"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "0258302b-bef9-46d8-8eba-6e5eec2c2670"
+
+new entry "AZER_ARM_Gloves_Leather"
+type "Armor"
+using "_Hand"
+data "RootTemplate" "58029f60-c041-4d37-a68b-93548e501be1"
+
+new entry "AZER_ARM_Gloves_Metal_Githyanki"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "23d08863-e295-4b61-a3db-22cf903abe28"
+
+new entry "AZER_ARM_Shoes"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "8bf5dbb1-cf5b-462d-a254-c046411b1cf7"
+
+new entry "AZER_ARM_Boots_Leather"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "9f2c5b48-4c64-4b4f-bac9-fbc33edf68ba"
+
+new entry "AZER_ARM_Shoes_Barbarian"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "130f8ffb-68e0-414f-9af8-afdc06076923"
+
+new entry "AZER_ARM_BootsOfSpeed"
+type "Armor"
+using "_Foot_Magic"
+data "RootTemplate" "60578f91-3835-48ba-9523-c121d352ae8c"
+
+new entry "AZER_ARM_Boots_Leather_Druid"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "ccaa6591-d893-4e85-9622-30c4f5ac701e"
+
+new entry "AZER_ARM_Boots_Leather_A"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "90137c1c-b3c1-4614-a3db-efff3fe7bbb3"
+
+new entry "AZER_ARM_Boots_Leather_B"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "760a7ec5-17b8-4b11-a22e-9d728b7c0a0e"
+
+new entry "AZER_ARM_Boots_Leather_C"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "c580d13c-89ea-4933-aad3-dc7dde48b774"
+
+new entry "AZER_ARM_Boots_Leather_D"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "e7bc0a5f-a082-4416-b24d-a722537fa20b"
+
+new entry "AZER_ARM_Boots_Leather_E"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "fb1243f2-19d7-4c53-91c3-f9f13116514f"
+
+new entry "AZER_ARM_Boots_Leather_F"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "fa511fb4-6ba7-49d8-8c7a-0c145d02e6bd"
+
+new entry "AZER_ARM_Shoes_A"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "8c962906-f042-4238-9a8b-365b7585213a"
+
+new entry "AZER_ARM_Shoes_B"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "54da8567-c957-43fa-8730-e03eac6fc3f4"
+
+new entry "AZER_ARM_Shoes_C"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "fdaae74a-3106-498a-8250-14e6ffd22b2e"
+
+new entry "AZER_ARM_Shoes_D"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "127430bf-716f-4733-b85f-5402d8f44a43"
+
+new entry "AZER_ARM_Shoes_E"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "4d323f80-2d58-4910-9372-1565f0d86956"
+
+new entry "AZER_ARM_Shoes_F"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "3f02142b-94a8-4171-bae9-9532adb7a14f"
+
+new entry "AZER_ARM_Shoes_G"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "f7c54147-dc2b-4022-b6ca-7ada6bd53fe5"
+
+new entry "AZER_ARM_Shoes_H"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "43582370-81d1-48c8-aac8-dcf809a614e7"
+
+new entry "AZER_ARM_Hat"
+type "Armor"
+using "_Head"
+data "RootTemplate" "0dff0c4e-3581-4768-9a08-993950630db1"
+
+new entry "AZER_ARM_Hat_Rich"
+type "Armor"
+using "ARM_Hat"
+data "RootTemplate" "fd93a1d4-102b-4790-b90b-3ebffec2b7a2"
+
+new entry "AZER_ARM_Hat_Wizard_A"
+type "Armor"
+using "ARM_Hat_Rich"
+data "RootTemplate" "6f8e9a87-ea56-4d85-ab69-73c2a58f6adb"
+
+new entry "AZER_ARM_Hat_Wizard_B"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "6fb4d710-0957-4cfa-83fc-aab01d4ecdc2"
+
+new entry "AZER_ARM_Hat_Wizard_C"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "2e30506a-2d6d-44d8-a51e-2c93b26f03bd"
+
+new entry "AZER_ARM_Hat_Wizard_D"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "a19bbb72-c12a-4bc6-a9eb-dee0d0cb3841"
+
+new entry "AZER_ARM_Hat_Wizard_E"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "48985916-0c79-4dcc-b4cd-1165d22b2f4b"
+
+new entry "AZER_ARM_Hat_Wizard_F"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "fbbc7354-9eec-4dc2-8112-92636a56c1a1"
+
+new entry "AZER_ARM_Hat_Wizard_G"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "a5b86c0a-e780-4915-aab1-be4989e4a518"
+
+new entry "AZER_ARM_Hat_Wizard_H"
+type "Armor"
+using "ARM_Hat_Wizard_A"
+data "RootTemplate" "419ec8ee-a7f3-4c71-81e7-d9a7e2c5c5d6"
+
+new entry "AZER_ARM_Hat_MuffinHat_A"
+type "Armor"
+using "ARM_Hat_Rich"
+data "RootTemplate" "776dc8fc-d02e-4d7e-8acc-5cac99826a53"
+
+new entry "AZER_ARM_Hat_MuffinHat_B"
+type "Armor"
+using "ARM_Hat_Rich"
+data "RootTemplate" "d74aa971-3d27-42bd-bbe4-ed4eed3485f8"
+
+new entry "AZER_ARM_Jester_Hat"
+type "Armor"
+using "ARM_Hat"
+data "RootTemplate" "c423c266-77d6-4bf7-9031-a64cdd2cf54a"
+
+new entry "AZER_ARM_MerregonMask"
+type "Armor"
+using "_Head"
+data "RootTemplate" "10f2e3ec-0693-4b85-8bdb-edc4b57814a8"
+
+new entry "AZER_ARM_Helmet_Leather"
+type "Armor"
+using "_Head"
+data "RootTemplate" "e4683915-ce47-44da-8bc4-20a2d02beb3f"
+
+new entry "AZER_ARM_Helmet_Metal"
+type "Armor"
+using "_Head"
+data "RootTemplate" "a13ad6ce-a1af-416c-8c4d-84dbe949e587"
+
+new entry "AZER_ARM_Circlet"
+type "Armor"
+using "_Head"
+data "RootTemplate" "2bd29d7e-eb67-40b9-ae48-b108791c0c7c"
+
+new entry "AZER_ARM_CircletOfBlasting"
+type "Armor"
+using "_Head_Magic_Circlet"
+data "RootTemplate" "212582c8-18a3-411e-a8d3-e8c0d3b02fc2"
+
+new entry "AZER_ARM_HeadbandOfIntellect"
+type "Armor"
+using "_Head_Magic_Circlet"
+data "RootTemplate" "882c3aa7-94e0-4508-8c39-d750f977b211"
+
+new entry "AZER_UNI_ShadowheartCirclet"
+type "Armor"
+using "ARM_Circlet"
+data "RootTemplate" "097f9b59-c75f-4c5e-80d6-6b09f2ac7750"
+
+new entry "AZER_ARM_Cloak"
+type "Armor"
+using "_Back"
+data "RootTemplate" "c696e4ae-ddc6-40a8-a807-677c71519d82"
+
+new entry "AZER_ARM_Ring"
+type "Armor"
+using "_Ring"
+data "RootTemplate" "091f0ada-6eb1-451f-be8a-c6738be8683c"
+
+new entry "AZER_ARM_Ring_Copper"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "cbd40f29-a25b-48f0-9425-79d80f396838"
+
+new entry "AZER_ARM_Ring_B"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "26534e0b-8cb3-4421-9595-b7a0ab5bf057"
+
+new entry "AZER_ARM_Ring_C"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "3632d2e0-5546-4d49-a79e-d80c6ca71e50"
+
+new entry "AZER_ARM_Ring_D"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "9a922c23-89bd-4f95-8f61-7fcc1f25c0e4"
+
+new entry "AZER_ARM_Ring_E"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "5f80485e-9744-46b2-9279-6299e8a399fc"
+
+new entry "AZER_ARM_Ring_F"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "d710793c-dcc5-4f33-929b-f7a6a76c9002"
+
+new entry "AZER_ARM_Ring_G"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "32dc46be-b339-4a24-9e73-47f5421255c0"
+
+new entry "AZER_ARM_Ring_H"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "56bcaa30-93d0-48ea-8283-f7c66afdb372"
+
+new entry "AZER_ARM_Ring_I"
+type "Armor"
+using "ARM_Ring_Copper"
+data "RootTemplate" "22316eac-9e18-429f-9edd-fda377cceb85"
+
+new entry "AZER_ARM_Ring_Silver"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "5905e6d8-f73b-4eee-b6b0-6b8c5c1ba2c2"
+
+new entry "AZER_ARM_Ring_B_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "f72e4b86-4c3d-4fa9-8076-e34a8801fd8d"
+
+new entry "AZER_ARM_Ring_C_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "4495a43c-e339-497b-af4d-911a8ed0ffe4"
+
+new entry "AZER_ARM_Ring_D_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "3a57c20b-a128-49b3-8355-c6a3dde77adf"
+
+new entry "AZER_ARM_Ring_E_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "80ccb000-5ab5-40e7-9605-c9a81263d9fd"
+
+new entry "AZER_ARM_Ring_F_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "78801594-5b74-47ba-b4dd-a44502779ccc"
+
+new entry "AZER_ARM_Ring_G_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "c03602a1-edff-4264-8251-92a75c884f09"
+
+new entry "AZER_ARM_Ring_H_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "50ed743f-4492-4589-8c70-fba33d4e32d7"
+
+new entry "AZER_ARM_Ring_I_Silver_A"
+type "Armor"
+using "ARM_Ring_Silver"
+data "RootTemplate" "77b91540-a10f-441b-91de-411ca8f04a54"
+
+new entry "AZER_ARM_Ring_Gold"
+type "Armor"
+using "ARM_Ring"
+data "RootTemplate" "203b1cbf-b84e-4dcb-a20e-9bb7f6ca5f83"
+
+new entry "AZER_ARM_Ring_A_Gem_A_Gold"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "78c80390-9c2b-472d-bd59-4c30eb7c0fdb"
+
+new entry "AZER_ARM_Ring_A_Simple_Gold"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "84683fc6-c74d-45f0-845c-659506c8e13d"
+
+new entry "AZER_ARM_Ring_B_Gem_A_Gold"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "2e5f22b8-d739-4762-ac4b-bc2f4b968ade"
+
+new entry "AZER_ARM_Ring_B_Gem_B_Gold"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "801fffde-4e67-4382-9ac9-46d901b80b38"
+
+new entry "AZER_ARM_Ring_B_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "a1c2a23b-aada-496a-80e6-1f2c44919127"
+
+new entry "AZER_ARM_Ring_C_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "5023b595-fe97-4d2e-876d-8bdca1b72530"
+
+new entry "AZER_ARM_Ring_D_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "4db449e9-6fc5-40c6-920a-b939c51b7497"
+
+new entry "AZER_ARM_Ring_E_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "cbbf1300-3644-422a-a42c-b10fe9e7e6dd"
+
+new entry "AZER_ARM_Ring_F_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "950f2641-d3ae-4c9c-b497-431dde9e7700"
+
+new entry "AZER_ARM_Ring_G_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "7cc820ab-ac76-4902-bf0d-446a4d2e4a5a"
+
+new entry "AZER_ARM_Ring_H_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "053d194b-56fe-4997-8351-329ba4d820c5"
+
+new entry "AZER_ARM_Ring_I_Gold_A"
+type "Armor"
+using "ARM_Ring_Gold"
+data "RootTemplate" "91801f56-8ffa-4e11-b280-7eda62b1a779"
+
+new entry "AZER_ARM_RingOfPoisonResistance"
+type "Armor"
+using "_Ring_Magic"
+data "RootTemplate" "312cff1a-9498-4492-b4f4-0812ad59de69"
+
+new entry "AZER_ARM_Amulet"
+type "Armor"
+using "_Amulet"
+data "RootTemplate" "67e9ae5a-4451-4bac-b3cd-297fab9681dd"
+
+new entry "AZER_ARM_Amulet_Bronze"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "8c073a6f-cb58-40d3-8e46-37c8036ae80a"
+
+new entry "AZER_ARM_Amulet_Necklace_A_Bronze_Green"
+type "Armor"
+using "ARM_Amulet_Bronze"
+data "RootTemplate" "94422069-09be-4bdf-b51a-e24380933b99"
+
+new entry "AZER_ARM_Amulet_Necklace_B_Bronze_A"
+type "Armor"
+using "ARM_Amulet_Bronze"
+data "RootTemplate" "baabc249-88aa-4f6d-92f5-98d7cdf07b67"
+
+new entry "AZER_ARM_Amulet_Necklace_C_Bronze_A"
+type "Armor"
+using "ARM_Amulet_Bronze"
+data "RootTemplate" "4036c942-a406-4d70-adfd-caee5a05d08b"
+
+new entry "AZER_ARM_Amulet_Necklace_D_Bronze_Green"
+type "Armor"
+using "ARM_Amulet_Bronze"
+data "RootTemplate" "0697e5ba-954a-4e2e-8429-b66531732adb"
+
+new entry "AZER_ARM_Amulet_Necklace_F_Bronze_A"
+type "Armor"
+using "ARM_Amulet_Bronze"
+data "RootTemplate" "f1cd3126-05f2-41fa-92de-55464d36e437"
+
+new entry "AZER_ARM_Amulet_Silver"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "b7020178-d40b-4f45-9e1f-e9508a81fad7"
+
+new entry "AZER_ARM_Amulet_Necklace_A_Silver_Orange"
+type "Armor"
+using "ARM_Amulet_Silver"
+data "RootTemplate" "d5683265-7e61-48ab-b78e-b67c6170401d"
+
+new entry "AZER_ARM_Amulet_Necklace_B_Silver_A"
+type "Armor"
+using "ARM_Amulet_Silver"
+data "RootTemplate" "5fd66d0c-e1c0-4138-af7e-e15e09de58f0"
+
+new entry "AZER_ARM_Amulet_Necklace_C_Silver_A"
+type "Armor"
+using "ARM_Amulet_Silver"
+data "RootTemplate" "6fd85d15-593c-4da9-91e4-36858a389ee0"
+
+new entry "AZER_ARM_Amulet_Necklace_D_Silver_Purple"
+type "Armor"
+using "ARM_Amulet_Silver"
+data "RootTemplate" "00d91715-76bf-4bec-a91d-62fdf20da2ed"
+
+new entry "AZER_ARM_Amulet_Necklace_F_Silver_B"
+type "Armor"
+using "ARM_Amulet_Silver"
+data "RootTemplate" "4d2b6ac7-0989-4577-9dce-1a3b8428cd5a"
+
+new entry "AZER_ARM_Amulet_Pearl"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "6e513e0e-8b7f-4bfb-9e87-1356d5b28c57"
+
+new entry "AZER_ARM_Amulet_Necklace_E_Pearl_A"
+type "Armor"
+using "ARM_Amulet_Pearl"
+data "RootTemplate" "cf2949a3-f5bc-43c4-879a-db90e2f68ed0"
+
+new entry "AZER_ARM_Amulet_Necklace_E_Pearl_B"
+type "Armor"
+using "ARM_Amulet_Pearl"
+data "RootTemplate" "1dd67a98-1563-4b6f-8778-330e81a94b8a"
+
+new entry "AZER_ARM_Amulet_Necklace_E_Pearl_C"
+type "Armor"
+using "ARM_Amulet_Pearl"
+data "RootTemplate" "50c23713-4dcc-4ea6-a3d9-fc3630a2d1e9"
+
+new entry "AZER_ARM_Amulet_Gold"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "db9e6974-4c87-4978-a3e9-93ac769bed81"
+
+new entry "AZER_ARM_Amulet_Necklace_A_Gold_Purple"
+type "Armor"
+using "ARM_Amulet_Gold"
+data "RootTemplate" "efc43d03-912d-4d96-84e2-57b20669bad0"
+
+new entry "AZER_ARM_Amulet_Necklace_B_Gold_A"
+type "Armor"
+using "ARM_Amulet_Gold"
+data "RootTemplate" "c72ef723-b9fc-4e60-ab63-ad213ab8ca2d"
+
+new entry "AZER_ARM_Amulet_Necklace_C_Gold_A"
+type "Armor"
+using "ARM_Amulet_Gold"
+data "RootTemplate" "2ddf1eeb-ca44-4193-945e-5200b792d61a"
+
+new entry "AZER_ARM_Amulet_Necklace_F_Gold_A"
+type "Armor"
+using "ARM_Amulet_Gold"
+data "RootTemplate" "413c3f9f-0074-4a6c-9321-ae03137c0bb4"
+
+new entry "AZER_ARM_Amulet_Necklace_D_Gold_Blue"
+type "Armor"
+using "ARM_Amulet_Gold"
+data "RootTemplate" "0c25055e-23b8-4b92-af3d-2c9acaba5b08"
+
+new entry "AZER_ARM_KeepsakeLocket_A"
+type "Armor"
+using "ARM_Amulet"
+data "RootTemplate" "7d416dd4-377f-4499-aba3-fd296a9662ed"
+
+new entry "AZER_ARM_Shield"
+type "Armor"
+using "_Shield"
+data "RootTemplate" "75216fd0-67a3-4645-a059-7174455262d5"
+
+new entry "AZER_ARM_Shield_C"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "8718250f-1dc2-4aa9-9022-c460277deaa9"
+
+new entry "AZER_ARM_Shield_D"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "0a3d3dd6-137a-49e6-adbe-e98e9479aa7e"
+
+new entry "AZER_ARM_Shield_E"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "73b2c806-501a-49d6-a501-a73e4dc39e47"
+
+new entry "AZER_ARM_Shield_Rusty"
+type "Armor"
+using "ARM_Shield_D"
+data "RootTemplate" "e96f116f-e10c-4557-af04-345875d67c00"
+
+new entry "AZER_ARM_Shar_Shield"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "b0d77349-86b7-479e-97de-e4f6fc3efd99"
+
+new entry "AZER_ARM_Drow_Shield"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "58f87515-a7dc-4f10-8636-8174464e9794"
+
+new entry "AZER_ARM_Drow_Shield_Absolute"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "d8468903-71a1-45bb-b1bb-277114fc1508"
+
+new entry "AZER_ARM_Shield_FlamingFist"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "418d01ee-2169-4129-a98a-21d467c5e302"
+
+new entry "AZER_ARM_Shield_Broken"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "f3d84db9-33cb-43a0-9538-fdd5a7bc8dc7"
+
+new entry "AZER_ARM_Toy_Shield"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "61010ee3-1fb1-4b91-8dc1-5e7c41868835"
+
+new entry "AZER_ARM_Goblin_Shield_A"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "efcff44d-fc62-43f5-a9a5-7550f38dc826"
+
+new entry "AZER_ARM_Goblin_Shield_B"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "1af4367e-4a2d-4bf6-884c-9ad8ff76924b"
+
+new entry "AZER_ARM_Goblin_Shield_C"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "cbff3bd6-6856-4467-9186-33fccd4f86b0"
+
+new entry "AZER_ARM_Goblin_Shield_D"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "56f0863d-c028-48a2-8269-107e032f371a"
+
+new entry "AZER_ARM_Goblin_Shield_E"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "528bded8-105f-4710-9153-c4762d3e56ca"
+
+new entry "AZER_ARM_Duergar_Shield_A"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "bab3b17c-2dac-4134-8201-1af0d960fad6"
+
+new entry "AZER_ARM_Duergar_Shield_B"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "9cddd941-e8d4-4809-912e-168deea8b741"
+
+new entry "AZER_ARM_KuoToa_Shield_A"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "10c5ac7c-9c5b-473d-abe8-a1308a5321ff"
+
+new entry "AZER_ARM_WoodWoad_Shield"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "19895584-ad8f-4de6-8d03-ea9176df4c36"
+
+new entry "AZER__Shield_Magic"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "b77a6870-5a2f-40f9-b0ac-2137a7c59212"
+
+new entry "AZER_ARM_Shield_1"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "6b0de7b1-2412-44c9-95fc-a82f1a3ece92"
+
+new entry "AZER_ARM_Shield_2"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "5e76f85a-cde5-461b-9493-69b008324a00"
+
+new entry "AZER_ARM_Shield_REF"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "957d8142-27a8-46e6-b7ce-0acc9b541c4a"
+
+new entry "AZER_ARM_Shield_Round_REF"
+type "Armor"
+using "ARM_Shield"
+data "RootTemplate" "98949432-c617-4a4e-af18-ff0b620d58c7"
+
+new entry "AZER_ARM_Instrument_Drum"
+type "Armor"
+using "_Instruments"
+data "RootTemplate" "3fafc84f-b39a-42d0-b3bc-ab1e30ca5800"
+
+new entry "AZER_ARM_Instrument_Flute"
+type "Armor"
+using "_Instruments"
+data "RootTemplate" "630a39bf-eb0f-4c59-a3d8-eb4639ec142e"
+
+new entry "AZER_ARM_Instrument_Lute"
+type "Armor"
+using "_Instruments"
+data "RootTemplate" "98178d6a-7185-447e-a371-d0a10aaca593"
+
+new entry "AZER_ARM_Instrument_Lute_B"
+type "Armor"
+using "ARM_Instrument_Lute"
+data "RootTemplate" "234e49bf-9e14-4d1d-808a-e21ebebe67c4"
+
+new entry "AZER_ARM_Instrument_Lyre"
+type "Armor"
+using "_Instruments"
+data "RootTemplate" "1e384ffd-94ae-4a2c-9110-51c74a0bceb1"
+
+new entry "AZER_ARM_Instrument_Violin"
+type "Armor"
+using "_Instruments"
+data "RootTemplate" "b77e5950-33c7-4c20-b990-7b4e015000c8"
+
+new entry "AZER_ARM_Camp_Body"
+type "Armor"
+using "ARM_Robe_Body"
+data "RootTemplate" "c0b00832-30dc-4e1f-9a55-312961580c3d"
+
+new entry "AZER_ARM_Vanity_Body_Citizen"
+type "Armor"
+using "_Vanity_Body_Generic_Common"
+data "RootTemplate" "1200c42a-3a00-4748-81f1-a81ff142b625"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_Black"
+type "Armor"
+using "ARM_Vanity_Body_Citizen"
+data "RootTemplate" "642ab62b-7428-4dcb-9b81-7ddbcb03928b"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_Purple"
+type "Armor"
+using "ARM_Vanity_Body_Citizen"
+data "RootTemplate" "3f7d29c4-6fbd-4daa-b3f4-bb438e3895df"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_B"
+type "Armor"
+using "ARM_Vanity_Body_Citizen"
+data "RootTemplate" "497e1a8f-f5ce-4249-a247-36bdf6d4e342"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_B_Teal"
+type "Armor"
+using "ARM_Vanity_Body_Citizen_B"
+data "RootTemplate" "437db61a-30b6-4fc8-92b6-1677d177f389"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_C"
+type "Armor"
+using "ARM_Vanity_Body_Citizen"
+data "RootTemplate" "eace994b-29f8-4381-b775-7af10f7b355e"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_C_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Citizen_C"
+data "RootTemplate" "de27d9f8-debb-4ee1-badf-01857fb05130"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_C_Green"
+type "Armor"
+using "ARM_Vanity_Body_Citizen_C"
+data "RootTemplate" "2f3286d2-de94-47df-8ce0-1bf7fad5da27"
+
+new entry "AZER_ARM_Vanity_Body_Citizen_C_Red"
+type "Armor"
+using "ARM_Vanity_Body_Citizen_C"
+data "RootTemplate" "d9d4b901-3ee1-41b1-9e98-889b83b8718d"
+
+new entry "AZER_ARM_Vanity_Body_Pants"
+type "Armor"
+using "_Vanity_Body_Generic_Common"
+data "RootTemplate" "c25d14a9-5062-4dca-9c2a-63b491d85071"
+
+new entry "AZER_ARM_Vanity_Body_Refugee"
+type "Armor"
+using "_Vanity_Body_Generic_Common"
+data "RootTemplate" "bbf899f5-d51c-4e5f-9d21-24a95120228f"
+
+new entry "AZER_ARM_Vanity_Body_Refugee_Gray"
+type "Armor"
+using "ARM_Vanity_Body_Refugee"
+data "RootTemplate" "35d58478-c942-4f5a-b9a7-e20ce748b87c"
+
+new entry "AZER_ARM_Vanity_Body_Refugee_Green"
+type "Armor"
+using "ARM_Vanity_Body_Refugee"
+data "RootTemplate" "c96ae24e-ec6d-448f-b63c-795720f3ed9a"
+
+new entry "AZER_ARM_Vanity_Body_Shirt_Blue"
+type "Armor"
+using "_Vanity_Body_Generic_Common"
+data "RootTemplate" "ab8ef8d7-5740-49a6-a09e-a857263d57f2"
+
+new entry "AZER_ARM_Vanity_Body_Shirt_Red"
+type "Armor"
+using "ARM_Vanity_Body_Shirt_Blue"
+data "RootTemplate" "5d3b9b5d-2440-4dab-baa9-4765152ebe9f"
+
+new entry "AZER_ARM_Vanity_Body_Shirt_Purple"
+type "Armor"
+using "ARM_Vanity_Body_Shirt_Blue"
+data "RootTemplate" "1902bbe5-ed9f-410f-b392-a9f43bd65f91"
+
+new entry "AZER_ARM_Vanity_Body_Shirt_Green"
+type "Armor"
+using "ARM_Vanity_Body_Shirt_Blue"
+data "RootTemplate" "df74a6a9-e2a0-4373-91e6-3e2d7ece0671"
+
+new entry "AZER_ARM_Vanity_Body_Shirt_Black"
+type "Armor"
+using "ARM_Vanity_Body_Shirt_Blue"
+data "RootTemplate" "3e569934-5138-421d-90cc-0e666c24dda7"
+
+new entry "AZER_ARM_Vanity_Body_Aristocrat"
+type "Armor"
+using "_Vanity_Body_Generic_Rich"
+data "RootTemplate" "bac50b1b-ab09-42f9-9388-62c2cd575e51"
+
+new entry "AZER_ARM_Vanity_Body_Aristocrat_Brown"
+type "Armor"
+using "ARM_Vanity_Body_Aristocrat"
+data "RootTemplate" "ce390bb7-14d5-480c-a198-be52f8948e2b"
+
+new entry "AZER_ARM_Vanity_Body_Aristocrat_White"
+type "Armor"
+using "ARM_Vanity_Body_Aristocrat"
+data "RootTemplate" "ede4ef20-d884-4d0b-abbc-cd8bba929cd7"
+
+new entry "AZER_ARM_Vanity_Body_Patriars"
+type "Armor"
+using "_Vanity_Body_Generic_Rich"
+data "RootTemplate" "3d59fc7b-6b34-43a2-b37c-b16db7280f8c"
+
+new entry "AZER_ARM_Vanity_Body_Patriars_Black"
+type "Armor"
+using "ARM_Vanity_Body_Patriars"
+data "RootTemplate" "6456619d-fbfe-40d1-a8e0-19da1d2acab7"
+
+new entry "AZER_ARM_Vanity_Body_Patriars_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Patriars"
+data "RootTemplate" "175eab99-09ee-4744-981c-08f57e05cdef"
+
+new entry "AZER_ARM_Vanity_Body_Patriars_Green"
+type "Armor"
+using "ARM_Vanity_Body_Patriars"
+data "RootTemplate" "3fa4115c-0a98-4c2c-b497-f794a4afbaa5"
+
+new entry "AZER_ARM_Vanity_Body_Patriars_Red"
+type "Armor"
+using "ARM_Vanity_Body_Patriars"
+data "RootTemplate" "0cd73a1a-b24b-4d8d-9559-5bef954123d1"
+
+new entry "AZER_ARM_Vanity_Body_Rich"
+type "Armor"
+using "_Vanity_Body_Generic_Rich"
+data "RootTemplate" "aeffc569-8e29-4950-9406-e933a8d4e388"
+
+new entry "AZER_ARM_Vanity_Body_Rich_Gold"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "a3685017-fa8c-495b-b58b-7840e6cb5ba3"
+
+new entry "AZER_ARM_Vanity_Body_Rich_Green"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "2919135c-fa91-4d02-b2c3-9b22733fdbd0"
+
+new entry "AZER_ARM_Vanity_Body_Rich_Teal"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "15a6db90-58ad-4fcd-aad0-ec3aa3c74a97"
+
+new entry "AZER_ARM_Vanity_Body_Rich_B"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "f48ec3fe-c2b2-4cef-92bd-ec021b46bc3d"
+
+new entry "AZER_ARM_Vanity_Body_Rich_B_Purple"
+type "Armor"
+using "ARM_Vanity_Body_Rich_B"
+data "RootTemplate" "b5cee3df-c081-41a1-8195-343ebbf75559"
+
+new entry "AZER_ARM_Vanity_Body_Rich_B1"
+type "Armor"
+using "ARM_Vanity_Body_Rich_B"
+data "RootTemplate" "551246ec-4405-4a00-9c05-08dc3a376b40"
+
+new entry "AZER_ARM_Vanity_Body_Rich_B1_Beige"
+type "Armor"
+using "ARM_Vanity_Body_Rich_B"
+data "RootTemplate" "9c10c602-daf3-4922-8724-1c3ca5dedb42"
+
+new entry "AZER_ARM_Vanity_Body_Rich_C"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "bc7e1cee-6567-4372-8aa1-ab172db5bf80"
+
+new entry "AZER_ARM_Vanity_Body_Rich_C_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Rich_C"
+data "RootTemplate" "1553b225-e3c7-4bcd-b4f1-44ba818c1a29"
+
+new entry "AZER_ARM_Vanity_Body_Rich_C_Red"
+type "Armor"
+using "ARM_Vanity_Body_Rich_C"
+data "RootTemplate" "b514efd9-5175-45f4-a6b4-4781c479b2c4"
+
+new entry "AZER_ARM_Vanity_Body_Rich_D"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "ee03be99-4acc-4044-8960-f6d7ea22a0e4"
+
+new entry "AZER_ARM_Vanity_Body_Rich_D_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Rich_D"
+data "RootTemplate" "9b409ac3-0cfa-40d7-ad40-87c3e14bfce4"
+
+new entry "AZER_ARM_Vanity_Body_Rich_D_Green"
+type "Armor"
+using "ARM_Vanity_Body_Rich_D"
+data "RootTemplate" "c3cabc02-4a62-40a8-a526-9e86358ac877"
+
+new entry "AZER_ARM_Vanity_Body_Rich_D_Puple"
+type "Armor"
+using "ARM_Vanity_Body_Rich_D"
+data "RootTemplate" "ab731ec1-9d6e-4c82-9244-b2654269c258"
+
+new entry "AZER_ARM_Vanity_Body_Rich_D_White"
+type "Armor"
+using "ARM_Vanity_Body_Rich_D"
+data "RootTemplate" "b78bb591-6c3e-44d6-9123-f503f171fc94"
+
+new entry "AZER_ARM_Vanity_Body_Rich_E"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "b8f94adf-d094-43d1-93bf-83c6cf027f22"
+
+new entry "AZER_ARM_Vanity_Body_Rich_E_GreenPink"
+type "Armor"
+using "ARM_Vanity_Body_Rich_E"
+data "RootTemplate" "e42340d4-8818-4c19-835d-2f7c2a1bd950"
+
+new entry "AZER_ARM_Vanity_Body_Rich_E_Teal"
+type "Armor"
+using "ARM_Vanity_Body_Rich_E"
+data "RootTemplate" "8befcc1d-9b88-4ac0-9281-9eb01885a163"
+
+new entry "AZER_ARM_Vanity_Body_Rich_F"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "5c34615b-0094-4fc7-8809-f1914a08669f"
+
+new entry "AZER_ARM_Vanity_Body_Rich_F_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Rich_F"
+data "RootTemplate" "f2f38ab6-006a-426b-aa09-45bc3bcedd89"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "493d78c5-5162-4112-afa6-1bafefe8a232"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G_Black"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G"
+data "RootTemplate" "c3170144-254c-4a8c-a295-3331dcbc5bd0"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G_Bright"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G"
+data "RootTemplate" "3b12d619-ad93-4829-ad7a-bc2d4cc63bef"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G_Brown"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G"
+data "RootTemplate" "4fa3c456-0f01-4b2b-95bc-7b66eb0035d6"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G_Red"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G"
+data "RootTemplate" "e2a7eff2-c86e-4cf7-b72a-c5f06e38cb51"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G2"
+type "Armor"
+using "ARM_Vanity_Body_Rich"
+data "RootTemplate" "1f76a888-9f3e-4114-8e0d-4d255aaf0ff2"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G2_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G2"
+data "RootTemplate" "44f9a388-3c79-49a2-9742-060e998107ba"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G2_Green"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G2"
+data "RootTemplate" "fb728852-5c17-4b7c-8cee-39ca7e6e56bd"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G2_Purple"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G2"
+data "RootTemplate" "92eef218-a77d-4a28-89ce-65665bd7723b"
+
+new entry "AZER_ARM_Vanity_Body_Rich_G2_White"
+type "Armor"
+using "ARM_Vanity_Body_Rich_G2"
+data "RootTemplate" "ff4ad635-a9a6-4a23-b545-dc1d3d1d938b"
+
+new entry "AZER_ARM_Vanity_Body_Cultist"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "cd00b8eb-d270-4943-aee0-d82f2b1bd293"
+
+new entry "AZER_ARM_Vanity_Body_Deva"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "cdb4d093-8c42-4fac-aeeb-535921a0d782"
+
+new entry "AZER_ARM_Vanity_Body_Drow"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "e215f5d9-6c74-485a-9940-352200dea5e9"
+
+new entry "AZER_ARM_Vanity_Body_Leather"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "56d41689-aad9-4b92-a6f5-5cd99dc37df5"
+
+new entry "AZER_ARM_Vanity_Body_Leather_Black"
+type "Armor"
+using "ARM_Vanity_Body_Leather"
+data "RootTemplate" "e4a011a6-a760-4b2a-95ba-c2d30f43bc28"
+
+new entry "AZER_ARM_Vanity_Body_Leather_Bright"
+type "Armor"
+using "ARM_Vanity_Body_Leather"
+data "RootTemplate" "1c536384-41ad-4ba3-8a66-f9afeac75de0"
+
+new entry "AZER_ARM_Vanity_Body_Leather_Rich"
+type "Armor"
+using "ARM_Vanity_Body_Leather"
+data "RootTemplate" "8ab30789-c3c8-4265-9d10-dd19f5ba9fe1"
+
+new entry "AZER_ARM_Vanity_Body_Leather_Rich_Blue"
+type "Armor"
+using "ARM_Vanity_Body_Leather_Rich"
+data "RootTemplate" "3ab6285f-7e29-4428-95ee-679fbf11d920"
+
+new entry "AZER_ARM_Vanity_Body_Leather_Rich_Green"
+type "Armor"
+using "ARM_Vanity_Body_Leather_Rich"
+data "RootTemplate" "8902c539-7fab-490b-960b-e22e6c3b8f6a"
+
+new entry "AZER_ARM_Vanity_Body_Shar"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "bb10326f-d251-43cf-8554-72d5f4c04170"
+
+new entry "AZER_ARM_Vanity_Body_Circus"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "1facc947-df82-413e-94b1-04a6c41051de"
+
+new entry "AZER_ARM_Vanity_Body_Circus_B"
+type "Armor"
+using "ARM_Vanity_Body_Circus"
+data "RootTemplate" "1d4a1713-db9f-4867-a9c8-d72e9f512c0e"
+
+new entry "AZER_ARM_Vanity_Body_Prison"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "4f0d3ff2-ea75-46d4-a268-845e0471a394"
+
+new entry "AZER_UNI_DaisyDress"
+type "Armor"
+using "_Vanity_Body_Situational"
+data "RootTemplate" "22a7b9e6-4bc5-4d04-9b56-32d892ca275e"
+
+new entry "AZER_UNI_DaisyPlaysuit"
+type "Armor"
+using "UNI_DaisyDress"
+data "RootTemplate" "67a3a1eb-6bc9-43c1-8343-2af7eac8ea95"
+
+new entry "AZER_ARM_Vanity_ElegantRobe"
+type "Armor"
+using "UNI_DaisyDress"
+data "RootTemplate" "3c395a0a-a8f9-405c-ad51-654d43fd5a31"
+
+new entry "AZER_ARM_Vanity_Prison_Poor"
+type "Armor"
+using "ARM_Vanity_Body_Prison"
+data "RootTemplate" "e8b1639a-a264-4aa4-abed-42a121a1942d"
+
+new entry "AZER_ARM_Camp_Shoes"
+type "Armor"
+using "ARM_Shoes"
+data "RootTemplate" "c9f3bfea-60e8-4355-8821-a9544b4a5e61"
+
+new entry "AZER_ARM_Camp_Shoes_B"
+type "Armor"
+using "_Vanity_Shoes_Generic_Common"
+data "RootTemplate" "9c75d422-1fa7-4d6c-81cd-53cbbaa05e9e"
+
+new entry "AZER_ARM_Camp_Shoes_C"
+type "Armor"
+using "_Vanity_Shoes_Generic_Common"
+data "RootTemplate" "74553e9a-8cf7-4bdf-b3f1-4c683d2138fa"
+
+new entry "AZER_ARM_Camp_Sandals_B"
+type "Armor"
+using "_Vanity_Shoes_Generic_Common"
+data "RootTemplate" "09c13c02-1064-4f17-b136-8a19179e9ca7"
+
+new entry "AZER_ARM_Camp_Sandals_B_Red"
+type "Armor"
+using "_Vanity_Shoes_Generic_Common"
+data "RootTemplate" "39d54261-b02c-4db4-93a3-0d903d23a7d3"
+
+new entry "AZER_ARM_Camp_Sandals_C"
+type "Armor"
+using "_Vanity_Shoes_Generic_Common"
+data "RootTemplate" "1bbd48ea-9424-4ad9-b6d3-a73be63f4dc6"
+
+new entry "AZER_ARM_Camp_Shoes_E"
+type "Armor"
+using "_Vanity_Shoes_Generic_Rich"
+data "RootTemplate" "81641f42-b232-4e7e-8ae6-866faaaede6f"
+
+new entry "AZER_ARM_Camp_Shoes_F"
+type "Armor"
+using "_Vanity_Shoes_Generic_Rich"
+data "RootTemplate" "5cadf1aa-2d6b-4697-8a4f-10ab3f060c9e"
+
+new entry "AZER_ARM_Camp_Sandals"
+type "Armor"
+using "_Vanity_Shoes_Generic_Rich"
+data "RootTemplate" "5f8b4912-c78e-49c8-9c89-2f945eec38d0"
+
+new entry "AZER_ARM_Camp_Sandals_Blue"
+type "Armor"
+using "_Vanity_Shoes_Generic_Rich"
+data "RootTemplate" "ca77f1c2-1ae2-4384-ada2-8cea9196f67b"
+
+new entry "AZER_ARM_Camp_Sandals_A1"
+type "Armor"
+using "_Vanity_Shoes_Generic_Rich"
+data "RootTemplate" "6481b72e-b851-4990-8aac-0a7b98ad423d"
+
+new entry "AZER_ARM_Camp_Sandals_A1_Black"
+type "Armor"
+using "_Vanity_Shoes_Generic_Rich"
+data "RootTemplate" "0abb0820-1529-4ca3-9364-279028eb4747"
+
+new entry "AZER_ARM_Vanity_Shoes_Circus"
+type "Armor"
+using "_Vanity_Shoes_Situational"
+data "RootTemplate" "93932754-40a9-4179-95b7-7cc511adc3e0"
+
+new entry "AZER_ARM_Vanity_Deva_Shoes"
+type "Armor"
+using "_Vanity_Shoes_Situational"
+data "RootTemplate" "2be7327a-1d33-4bcb-9f9d-023cd77fbfbc"
+
+new entry "AZER_ARM_Underwear"
+type "Armor"
+using "_Underwear"
+data "RootTemplate" "db2a294e-3afb-42eb-9de0-e6215354c2f0"
+
+new entry "AZER_ARM_Underwear_Dragonborn"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "300e0fe9-f92f-4e8d-9375-f17d724b41e8"
+
+new entry "AZER_ARM_Underwear_Dragonborn_Bronze"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "0f51eab1-c58a-4460-9a3d-c4536161cd7f"
+
+new entry "AZER_ARM_Underwear_Dwarves"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "b1aca7e6-74c9-45c1-8df6-282c61f28fba"
+
+new entry "AZER_ARM_Underwear_Dwarves_Green"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "46fd5d9e-1230-40cf-bfa9-05f611012e7f"
+
+new entry "AZER_ARM_Underwear_Elves"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "2d02adcc-ad67-4594-ab2d-081d7d77d2ea"
+
+new entry "AZER_ARM_Underwear_Elves_Blue"
+type "Armor"
+using "ARM_Underwear_Elves"
+data "RootTemplate" "4b106f90-d2c4-4a64-9782-2c707ec6cc65"
+
+new entry "AZER_ARM_Underwear_Elves_Purple"
+type "Armor"
+using "ARM_Underwear_Elves"
+data "RootTemplate" "ac8e6153-ec3c-491a-8198-248ea1dd6938"
+
+new entry "AZER_ARM_Underwear_Githyanki"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "8f757119-40ab-4174-820a-3f0a602aec5d"
+
+new entry "AZER_ARM_Underwear_Githyanki_Black"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "3aef26e1-cf56-411d-b10c-3ffebf1c2b77"
+
+new entry "AZER_ARM_Underwear_Gnomes"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "710945a7-d0c4-44a5-9c79-de08a0594522"
+
+new entry "AZER_ARM_Underwear_Gnomes_Blue"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "f908f892-0388-41c3-aff7-c8686b7d1df8"
+
+new entry "AZER_ARM_Underwear_Halflings"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "fc7d9b0f-84b4-4403-908f-d636699fd2bf"
+
+new entry "AZER_ARM_Underwear_HalfOrcs"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "85dc4c08-522d-4dea-801b-b81e98008947"
+
+new entry "AZER_ARM_Underwear_HalfOrcs_Orange"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "a5f5b39c-2c39-440d-beba-0819e3cd33ef"
+
+new entry "AZER_ARM_Underwear_Humans"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "f022a2f6-5209-46c3-b10e-eb139581e72e"
+
+new entry "AZER_ARM_Underwear_Humans_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "a26469b0-6651-46e7-96c5-729248a78084"
+
+new entry "AZER_ARM_Underwear_Humans_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "14598a73-be46-4216-b3d1-71493ee5298e"
+
+new entry "AZER_ARM_Underwear_Incubus"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "155339bd-e5cf-4e58-a23e-53c24b3b259b"
+
+new entry "AZER_ARM_Underwear_Tieflings"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "5687094a-87c2-45f4-bfca-282a240da0af"
+

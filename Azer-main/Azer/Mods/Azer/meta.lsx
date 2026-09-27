@@ -27,6 +27,9 @@
               <attribute id="Version64" type="int64" value="36028797018963975" />
             </node>
             <node id="Scripts" />
+            <node id="ScriptExtender">
+              <attribute id="EnableLua" type="bool" value="true" />
+            </node>
             <node id="TargetModes">
               <children>
                 <node id="Target">

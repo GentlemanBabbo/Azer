@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f831329d-8023-438a-b8ac-90df6370ed6a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f6599c3f-cfcd-4721-9cc2-1df5d8ff0154" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Stats" type="FixedString" value="AZER_ARM_Barbarian" />
+					<children>
+						<node id="Equipment">
+							<children>
+								<node id="AfroLongHair" />
+								<node id="AfroShortHair" />
+								<node id="CurlyLongHair" />
+								<node id="CurlyShortHair" />
+								<node id="DreadLongHair" />
+								<node id="DreadShortHair" />
+								<node id="LongHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="602afff7-a228-479d-9213-41e6a4117027" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets">
+													<children>
+														<node id="Object">
+															<attribute id="ForcePresetValues" type="bool" value="True" />
+															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+															<attribute id="MapKey" type="FixedString" value="02 Colour" />
+															<attribute id="MaterialPresetResource" type="FixedString" value="662d3489-bb82-121a-3952-93339e9af0a6" />
+														</node>
+													</children>
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="False" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="False" />
+													<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
+													<attribute id="Value" type="fvec3" value="0.042987008 0.008373117 0.003697239" />
+												</node>
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="602afff7-a228-479d-9213-41e6a4117027" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="75cfc413-c0ff-4417-8961-4cdfcff9d045" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="WavyLongHair" />
+								<node id="WavyShortHair" />
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObject">
+					<attribute id="MapKey" type="FixedString" value="130f8ffb-68e0-414f-9af8-afdc06076923" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2577a332-8ad2-4e54-b52b-f4f7cc5823a1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Stats" type="FixedString" value="AZER_ARM_Shoes_Barbarian" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="512" />
+							<children>
+								<node id="LongHair" />
+								<node id="ParentRace">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="602afff7-a228-479d-9213-41e6a4117027" />
+											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+								<node id="ShortHair" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Footwear" />
+								</node>
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="ColorPreset">
+													<attribute id="ForcePresetValues" type="bool" value="True" />
+													<attribute id="GroupName" type="FixedString" value="02 Colour" />
+													<attribute id="MaterialPresetResource" type="FixedString" value="662d3489-bb82-121a-3952-93339e9af0a6" />
+												</node>
+												<node id="MaterialPresets" />
+											</children>
+										</node>
+										<node id="RealMaterialOverrides" />
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="602afff7-a228-479d-9213-41e6a4117027" />
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="210cbc61-a36a-447c-b708-e93c82915cb3" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
