@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|The legendary king of the Azer sought conquest and glory for his people. You are one of his most devout, offering to travel to the mortal plane to prepare the land to be remade to his designs. Committed to a point of which is concerning, you will do whatever it takes to ensure Amaimon's dream of securing new lands comes true. Sometimes you wonder why Amaimon did not send more Azer to assist you with this task; too often does your excitment to do him proud overshadow your question. After all, this is what he wanted, right?|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h474e3224307145a1b899f4d6a26e5454d85a" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hed3d62a254a64e9d9479328baa24b23609a8" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="FANATIC" />
+			<attribute id="UUID" type="guid" value="63359d5d-694d-44ac-b8ce-3d624bb497b6" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

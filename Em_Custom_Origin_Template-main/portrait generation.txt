@@ -1,0 +1,2 @@
+coordinates: (place your script extender coordinates here) https://wiki.bg3.community/en/Tutorials/Items/Add-and-position-items-in-world
+level: SYS_PortraitPlayerRace_A

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|The betrayal of the Efreeti had lasting effects on the Azer people. War has raged between the two races for as long as they can remember. You were a soldier fighting to ensure the Brass City did not fall into the hands of the Efreeti. A skirmish within their territory rendered your squadron extinguished, with you the sole survivor. For years, torture and forced labor was pressed upon your metal frame as the brigands dragged you to lands unknown. When you saw your opportunity to escape, you took it. You are a survivor, tempered and calculating. You are alone in a strange land, but you are free. What you do next is for you to decide.|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h79a6dc287830483993c0e83d2907a3e44956" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hf8222fbcf26e4840b21199fffc8752d1c237" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="PRISONER_OF_WAR" />
+			<attribute id="UUID" type="guid" value="a123783b-6ff5-433e-89a0-ef0f3e11e903" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

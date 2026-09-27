@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+                <node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="ORI_Karlach_CampFix" /> <!-- Karlach's anubis config, but I don't think it matters for an origin. -->
+					<attribute id="Archetype" type="FixedString" value="melee_smart" /> <!-- Karlach's archetype, but I don't think it matters for an origin. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="14a88f80-6dbf-40b6-adc1-5c0e12ea48ce" /> <!-- Defines the origin's appearance. Regenerate this! -->
+					<attribute id="Faction" type="guid" value="8e465ee5-ad2b-008b-966b-d1641e37e3c5" /> <!-- Karlach's faction, but I don't think it matters for an origin. -->
+					<attribute id="Flag" type="int32" value="1" /> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_JohnLarian" /> <!-- Defines the type of portrait generation on game start and level up. -->
+					<attribute id="HasPlayerApprovalRating" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="a0117dd7-1753-4e86-8137-6848765ecb65_(Origin_JohnLarian_Icon)" /> <!-- Must be the exact name of your icon in the metadata. -->
+					<attribute id="IsGlobal" type="bool" value="True" /> <!-- Probably important to keep this as True. -->
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" /> <!-- Defines the level, but your origin still spawns on the Nautiloid, so I'm not sure what it affects. -->
+					<attribute id="MapKey" type="FixedString" value="a0117dd7-1753-4e86-8137-6848765ecb65" /> <!-- Regenerate this! -->
+					<attribute id="Name" type="LSString" value="Origin_JohnLarian" /> <!-- Internal name. -->
+					<attribute id="Race" type="guid" value="3ec77ccb-1511-4b4a-a7e7-8922b959fbd2" /> <!-- Set your origin's race. -->
+					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="4350b66a-f56a-4f2a-9c60-b5a56609afa4" /> <!-- I don't know what this does but I'd set it to the softbody for your race/body type. -->
+					<attribute id="Stats" type="FixedString" value="POC_Player_Fighter" /> <!-- Swap these with the default stats for your class, or for custom stats. -->
+					<attribute id="TemplateName" type="FixedString" value="d15a87f4-0b02-4e06-80fe-c3fe3b5f7d0d" /> <!-- Links back to your origin's root template. Regenerate this! -->
+					<attribute id="Type" type="FixedString" value="character" /> <!-- It's a character so I wouldn't change this. -->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922056" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object"> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="9222db25-d5ca-061f-7dc2-1f8c1dbadff9" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="e2c9204f-0ac6-bdd4-8d9d-8bd094f3c4a6" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="c27cf770-ee6a-4206-a97f-62c9d16f6239" /> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->
+								</node>
+							</children>
+						</node>
+						<node id="Transform"> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->
+							<attribute id="Position" type="fvec3" value="110.732735 21.937597 500.21136" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.99999595 0 -0.0028609233" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

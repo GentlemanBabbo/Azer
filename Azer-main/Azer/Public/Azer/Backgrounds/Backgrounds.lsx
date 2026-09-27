@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="Backgrounds">
+        <node id="root">
+            <children>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="he86f8667cc2b452d8bdcd7717b586c548dcd" version="6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h67e53c52ce5e4ec2afe7e08f3b536dd46e18" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Brass_Nomad"/>
+                    <attribute id="UUID" type="guid" value="650ca675-ac36-41f2-a861-d5d7d92adae2"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="30ea25a2-3629-454d-abd3-61fa86c7501f"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="hf35d70570f094c649f951cef05023139cd8f" version="5"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h13151cabe72f467a9cb840a47060ba69b26f" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Exile"/>
+                    <attribute id="UUID" type="guid" value="654d59a7-5c28-44ef-beaf-4168349aa464"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="2113cd3e-4eb9-4363-9486-e2ff5b395577"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h543a0ce5364243dda3c34f89564d8d8ef685" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8356d19b0d1c41d995ab9a098f5dff196594" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Anomaly"/>
+                    <attribute id="UUID" type="guid" value="2e84f3da-60e2-4e1a-aee5-f082c6bed8b9"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="ef69dbc3-e6b2-4bb7-b8ee-e0b2b20cbe7f"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="60f6b464-752f-4970-a855-f729565b5e07"/> <!--Underdark Tag-->
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="hdd8a86ddf9a14d0a901e957541857809558a" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h24890e265837470ba714acc7f9884fd00b6g" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Envoy"/>
+                    <attribute id="UUID" type="guid" value="e6fe183a-9dfc-43cc-a4a2-c6676f03035e"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="04e3cb64-deb5-40b4-ac81-b95698bdc227"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h79a6dc287830483993c0e83d2907a3e44956" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf8222fbcf26e4840b21199fffc8752d1c237" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Prisoner_of_War"/>
+                    <attribute id="UUID" type="guid" value="2d5ecd19-351e-48d1-92d6-26df951d922b"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a123783b-6ff5-433e-89a0-ef0f3e11e903"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h474e3224307145a1b899f4d6a26e5454d85a" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hed3d62a254a64e9d9479328baa24b23609a8" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Fanatic_of_Amaimon"/>
+                    <attribute id="UUID" type="guid" value="cbfbe60c-5b97-4cd0-8d45-a3e1cb9b3b72"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="63359d5d-694d-44ac-b8ce-3d624bb497b6"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="ha235767fcf3f4c8bbb55b3fa6e199819689d" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1dd40ae854db440fbc12e888513327a76d4a" version="1"/>
+                    <attribute id="Passives" type="LSString" value="Background_Creeping_Flame"/>
+                    <attribute id="UUID" type="guid" value="3e0bfcae-936a-45c4-92f7-ba7075e16de4"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+                        </node>
+                    </children>
+                </node>                
+            </children>
+        </node>
+    </region>
+</save>

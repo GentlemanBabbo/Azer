@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|It is rare for an Azer to be crafted outside of the Elemental Plane of Fire. The whereabouts of your creator became a mystery almost immediately; your consciousness coming alight as they walked from the room and were never seen again. Upon exiting the room yourself, your eyes locked on the Adamantium Forge, a massive construction that was used to create your metal body. You have lived without other Azer to guide you or teach you of the culture or your homeland. Instead, you have become a light in the Underdark, learning all you can about the forge that made you from literature and the local Deugar. You are inquisitive and curious; your thirst for knowledge is endless. You seek to know why you were created, and yearn to define your own legacy in this strange land.|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h543a0ce5364243dda3c34f89564d8d8ef685" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h8356d19b0d1c41d995ab9a098f5dff196594" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="ANOMALY" />
+			<attribute id="UUID" type="guid" value="ef69dbc3-e6b2-4bb7-b8ee-e0b2b20cbe7f" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

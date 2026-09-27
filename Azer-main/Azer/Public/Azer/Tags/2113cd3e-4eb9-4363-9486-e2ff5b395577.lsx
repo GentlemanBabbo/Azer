@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|You had it all. Once a lavasmith for a fortress of brass in the Elemental Planes of Fire, you enjoyed the challenges of constructing wonderous structures within the city walls. An attempted siege of the city by an Efreeti battalion resulted in the destruction of one of your towering creations. Many Azer lives were lost within the rubble of the building's collapse. Framed as having built a faulty structure, you were cast out of the city and the planes themselves, directly into the material plane. As a master craftsman, you are tempered to endure long hours of manual labor, and your attention to detail cannot be rivaled. What redemption awaits you among those wary of your kind?|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hf35d70570f094c649f951cef05023139cd8f" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h13151cabe72f467a9cb840a47060ba69b26f" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="EXILE" />
+			<attribute id="UUID" type="guid" value="2113cd3e-4eb9-4363-9486-e2ff5b395577" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

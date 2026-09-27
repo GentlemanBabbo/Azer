@@ -1,0 +1,1 @@
+If you wanted to add custom meshes or textures for your origin, you'd put them in this folder.

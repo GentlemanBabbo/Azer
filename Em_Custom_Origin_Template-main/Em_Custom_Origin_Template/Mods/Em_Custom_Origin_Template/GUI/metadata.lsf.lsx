@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="config">
+		<node id="config">
+			<children>
+				<node id="entries">
+					<children>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/a0117dd7-1753-4e86-8137-6848765ecb65_(Origin_JohnLarian_Icon).png" /> <!-- Set this to the exact path of your origin's icon. Except it says PNG for some reason. I don't know why, but the actual icon file needs to be DDS. -->
+							<children>
+								<node id="entries"> <!-- Size of the icon. -->
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

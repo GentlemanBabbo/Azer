@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|The Elemental Plane of Fire, while home to many Azer, could not stoke the flames within you. You are a wanderer, having found your way to the material planes in search of purpose. You are resourceful and thoughtful thanks to your time among the fleshlings. Your existential journey has only just begun; surely there is a place in this wild world that can light your fires within.|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="he86f8667cc2b452d8bdcd7717b586c548dcd" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h67e53c52ce5e4ec2afe7e08f3b536dd46e18" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="BRASSNOMAD" />
+			<attribute id="UUID" type="guid" value="30ea25a2-3629-454d-abd3-61fa86c7501f" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

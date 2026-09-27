@@ -10,6 +10,7 @@
 					<attribute id="ID" type="FixedString" value="8fc018a8-c87c-44ca-a704-c772c1cfb573" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
 					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />					
 					<children>
 						<node id="MaterialOverrides">
 							<children>
@@ -76,6 +77,7 @@
 					<attribute id="ID" type="FixedString" value="48758abd-87ea-4f61-99c7-8750f5e18db7" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />										
 					<children>
 						<node id="MaterialOverrides">
 							<children>

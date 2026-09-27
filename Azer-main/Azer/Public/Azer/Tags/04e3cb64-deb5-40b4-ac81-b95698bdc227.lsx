@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|You are a representative of your kind on the mortal plane. You live among the flesh folk, bartering for gems to ship back to your contacts in the Brass City. You are charming and witty, using your trading skills to ensure you get the better end of the deal.|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hdd8a86ddf9a14d0a901e957541857809558a" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h24890e265837470ba714acc7f9884fd00b6g" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="ENVOY" />
+			<attribute id="UUID" type="guid" value="04e3cb64-deb5-40b4-ac81-b95698bdc227" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
