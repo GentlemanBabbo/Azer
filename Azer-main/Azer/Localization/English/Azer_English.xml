@@ -57,9 +57,15 @@
 	<content contentuid="h1dc7a84b2ad04fdd9ef5ecc373922c54d5bc" version="1">Molten Mane</content>
 	<content contentuid="h6d6dc8007dd8483998b5d7ef125b7ac61af2" version="1">Heihachi</content>
 	<content contentuid="hd5bf4b85e8f347c8bab179630d14260c81fe" version="1">Firestarter</content>
+	<content contentuid="h53a75de512984c38b809d6dc09fe07112agd" version="1">Sunwalker</content>
+	<content contentuid="hd028610aff044ac9b502b2df66a7c4801747" version="1">Chimney</content>
+	<content contentuid="h814a657ce9aa4e2fa57ec6c8ab37d055g8c6" version="1">Pyromaniac</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>		
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 	<!--Female Hair-->
 	<content contentuid="hf20aa17f99894655831bce185efd25fdf405" version="1">Firecracker</content>
 	<content contentuid="ha8a6020a7e4f4ce79aa1fbb85f1958e84df6" version="1">Torchlight</content>	
@@ -67,6 +73,12 @@
 	<content contentuid="hf2ec5f7e4e3d46e7b646a77907be3af2dddc" version="1">Flowing Flames</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 	<!--Race Spells loca-->
 	<content contentuid="h489922daa4f64d35bf4671b212e015749b27" version="1">Fireblood</content>
 	<content contentuid="heed604064c8949dc8760bfae4a3867753642" version="1">Cleanse your blood by bringing yourself to a boil. Your body erupts in flames, removing Poison and igniting you.</content>
