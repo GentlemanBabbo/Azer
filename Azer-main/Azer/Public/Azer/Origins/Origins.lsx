@@ -21,7 +21,7 @@
                     <attribute id="LockBody" type="bool" value="true"/> <!-- True = Locked body, False = Editable body. Bad things seem to happen when you try to make the body editable. -->
                     <attribute id="LockClass" type="bool" value="true"/> <!-- True = Locked class, False = Editable class -->
                     <attribute id="LockRace" type="bool" value="true"/> <!-- True = Locked race, False = Editable race -->
-                    <attribute id="Name" type="FixedString" value="AzerEnkindler"/> <!-- Internal name -->
+                    <attribute id="Name" type="FixedString" value="AzerEverburning"/> <!-- Internal name -->
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/> <!-- Add any passives you want here. -->
                     <attribute id="RaceUUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> <!-- Set your origin's race here. This is a custom copy of Human race. If you don't have a need for a custom race, just put the regular race UUID here. E.g. vanilla Human is 0eb594cb-8820-4be6-a58d-8be7a1a98fba -->
                     <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> <!-- Set your origin's subrace here. (Empty here because humans don't have subraces.) -->
@@ -35,7 +35,7 @@
                             <attribute id="Object" type="guid" value="264a6880-9a51-429c-a9fc-97f8952baf90"/> <!-- REALLY tag for generic Tav. The REALLY Dark Urge tag is cd611d7d-b67d-42b4-a75c-a0c6091ef8a2 -->
                         </node>
                         <node id="ReallyTags">
-                            <attribute id="Object" type="guid" value="6c1e0b1-127b-4b20-86cd-caae7b657a0e"/> <!-- Custom REALLY tag for your origin. Regenerate this, or remove it if you want. -->
+                            <attribute id="Object" type="guid" value="46c1e0b1-127b-4b20-86cd-caae7b657a0e"/> <!-- Custom REALLY tag for your origin. Regenerate this, or remove it if you want. -->
                         </node>
                     </children>
                 </node>
