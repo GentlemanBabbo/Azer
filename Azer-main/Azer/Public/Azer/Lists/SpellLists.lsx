@@ -15,6 +15,12 @@
                     <attribute id="Spells" type="LSString" value="Target_IronboundPursuit_Azer"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="55041c15-257a-48dc-b99b-6f21555dc7d5"/> the UUID, needs to be unique
                 </node>
+                <!--Enkindler Class Spells-->
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="f6f53409-8802-4790-b1d2-d4182ca15c48"/> the UUID, needs to be unique
+                </node>                
             </children>
         </node>
     </region>

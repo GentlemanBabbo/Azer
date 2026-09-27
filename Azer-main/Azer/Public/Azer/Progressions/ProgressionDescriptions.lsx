@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription"> Class
+                    <attribute id="Description" type="TranslatedString" handle="" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953" />
+                    <attribute id="Type" type="FixedString" value="Enkindler" />
+                    <attribute id="UUID" type="guid" value="ef694ca8-04ad-4936-91a1-c2b9aba06fe6" />
+                </node>
+        <node id="ProgressionDescription"> 
+                    <attribute id="Description" type="TranslatedString" handle="" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+                    <attribute id="ParamMatch" type="FixedString" value="0:Anvil" />
+                    <attribute id="ProgressionTableId" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b" />
+                    <attribute id="Type" type="FixedString" value="ActionResource" />
+                    <attribute id="UUID" type="guid" value="3c71b54d-82a8-4bda-9d9f-58a514010ad1" />
+				</node>
+        <node id="ProgressionDescription"> 
+                    <attribute id="Description" type="TranslatedString" handle="" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+                    <attribute id="ParamMatch" type="FixedString" value="0:Gemstone" />
+                    <attribute id="ProgressionTableId" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550" />
+                    <attribute id="Type" type="FixedString" value="ActionResource" />
+                    <attribute id="UUID" type="guid" value="53e6cd74-2fd1-4c3e-a548-2f841dc7d930" />
+				</node>
+        <node id="ProgressionDescription"> 
+                    <attribute id="Description" type="TranslatedString" handle="" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1" />
+                    <attribute id="SelectorID" type="FixedString" value="KindlingPassives" />
+                    <attribute id="UUID" type="guid" value="8fcaab10-40c1-439b-a8c9-00e9667f99b7" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>
