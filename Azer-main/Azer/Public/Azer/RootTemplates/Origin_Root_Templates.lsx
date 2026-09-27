@@ -7,9 +7,12 @@
 				<node id="GameObjects"> <!-- Female -->
 					<attribute id="DeathEffect" type="guid" value="a5b14c9a-d27e-473c-a27c-adcae4f1d6cb" /><!-- UniqueELEMFire -->
 					<attribute id="MapKey" type="FixedString" value="6e1b9114-1049-4795-9252-8eb865a38a99" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="Equipment" type="FixedString" value="EQ_F_Azer" /> <!-- Sets default equipment. -->					
 					<attribute id="EquipmentRace" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" />															
+					<attribute id="Faction" type="guid" value="8e465ee5-ad2b-008b-966b-d1641e37e3c5" /> <!-- Karlach's faction, but I don't think it matters for an origin. -->					
 					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
+					<attribute id="LevelName" type="FixedString" value="" /> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->					
 					<attribute id="ParentTemplateId" type="FixedString" value="7754a8fe-27f4-467d-8807-0964d6b9156f" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Azer" /> <!-- This must match the name of your custom icon trigger. Or, you can use a vanilla one. -->
 					<attribute id="Icon" type="FixedString" value="0f089ef3-2587-0603-8479-3c9b0679f9b8-_(Icon_Dwarf_Female)" />
@@ -21,10 +24,19 @@
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!-- Elemental -->
+									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!--Elemental Tag-->
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="6e74176d-9770-4adb-bd38-3849da103093" /><!-- Azer -->
+									<attribute id="Object" type="guid" value="6e74176d-9770-4adb-bd38-3849da103093" /><!--Azer Tag-->
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" /> <!--Illithid Tag-->
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" /><!--DONOTUSE_COMPANION Tag (lol)--> 
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" /><!--BADASSCIVILIAN Tag (Hell yeah)-->
 								</node>
 							</children>
 						</node>
@@ -35,10 +47,13 @@
 				<node id="GameObjects"> <!-- Male -->
 					<attribute id="DeathEffect" type="guid" value="a5b14c9a-d27e-473c-a27c-adcae4f1d6cb" /><!-- UniqueELEMFire -->
 					<attribute id="MapKey" type="FixedString" value="b95250e7-89e0-4503-9345-d7ccf0731883" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="Equipment" type="FixedString" value="EQ_M_Azer" /> <!-- Sets default equipment. -->										
 					<attribute id="EquipmentRace" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />															
+					<attribute id="Faction" type="guid" value="8e465ee5-ad2b-008b-966b-d1641e37e3c5" /> <!-- Karlach's faction, but I don't think it matters for an origin. -->					
 					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="Icon" type="FixedString" value="6351d5de-c072-aae3-a060-354b3af92e08-_(Icon_Dwarf_Male)" />
+					<attribute id="Icon" type="FixedString" value="a0117dd7-1753-4e86-8137-6848765ecb65_(Origin_Azer_Icon)" />
+					<attribute id="LevelName" type="FixedString" value="" /> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->					
 					<attribute id="ParentTemplateId" type="FixedString" value="dcded019-b845-43a0-b91c-b853646218a1" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="Stats" type="FixedString" value="HeroAzerMale" />					
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options. -->
@@ -54,10 +69,19 @@
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!-- Elemental -->
+									<attribute id="Object" type="guid" value="196351e2-ff25-4e2b-8560-222ac6b94a54" /><!--Elemental Tag-->
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="6e74176d-9770-4adb-bd38-3849da103093" /><!-- Azer -->
+									<attribute id="Object" type="guid" value="6e74176d-9770-4adb-bd38-3849da103093" /><!--Azer Tag-->
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" /> <!--Illithid Tag-->
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" /><!--DONOTUSE_COMPANION Tag (lol)--> 
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" /><!--BADASSCIVILIAN Tag (Hell yeah)-->
 								</node>
 							</children>
 						</node>

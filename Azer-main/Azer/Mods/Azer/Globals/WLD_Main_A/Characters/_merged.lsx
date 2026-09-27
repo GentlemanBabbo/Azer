@@ -15,7 +15,7 @@
 					<attribute id="Icon" type="FixedString" value="a0117dd7-1753-4e86-8137-6848765ecb65_(Origin_JohnLarian_Icon)" /> <!-- Must be the exact name of your icon in the metadata. -->
 					<attribute id="IsGlobal" type="bool" value="True" /> <!-- Probably important to keep this as True. -->
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" /> <!-- Defines the level, but your origin still spawns on the Nautiloid, so I'm not sure what it affects. -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- Regenerate this! -->
+					<attribute id="MapKey" type="FixedString" value="2ea05e30-fc58-4f9a-bdf8-71206231d38e" /> <!-- Regenerate this! -->
 					<attribute id="Name" type="LSString" value="Origin_Azer" /> <!-- Internal name. -->
 					<attribute id="Race" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5" /> <!-- Set your origin's race. -->
 					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="90072dac-2d0b-ef3a-e5a4-07339e695c6c" /> <!-- I don't know what this does but I'd set it to the softbody for your race/body type. -->

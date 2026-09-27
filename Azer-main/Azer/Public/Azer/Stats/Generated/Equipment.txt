@@ -1,4 +1,8 @@
 <!--Azer Race Equipment-->
-new equipment "EQ_Azer"
+new equipment "EQ_F_Azer"
+add equipmentgroup
+add equipment entry ""
+
+new equipment "EQ_M_Azer"
 add equipmentgroup
 add equipment entry ""
