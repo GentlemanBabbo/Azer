@@ -25,7 +25,7 @@
                         </node>
                     </children>
                 </node>
-				        <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+				    <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SMITHY"/> Starting equipment entry from Equipment.txt
@@ -46,7 +46,7 @@
                         </node>
                     </children>
                 </node>
-			        	<node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+			        <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CRYSTALKNIGHT"/> Starting equipment entry from Equipment.txt
@@ -67,7 +67,7 @@
                         </node>
                     </children>
                 </node>
-			        	<node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+			        <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CONDUIT"/> Starting equipment entry from Equipment.txt
@@ -82,7 +82,10 @@
                     <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="5"/>
                     <attribute id="UUID" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/> Make a unique UUID for the subclass
-		                <children>
+		                <!--Hides it from regular Tav/Origins, but allows conditional checks-->
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Requirements" type="LSString" value="CharacterCreationRequirement(d04d0f31-1dd3-4e62-a15e-632410fd5f4b)"/>
+                        <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/> Dialogue tag Fighter
                         </node>

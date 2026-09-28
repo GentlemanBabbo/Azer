@@ -8,7 +8,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Azer" /> just an internal name
-				          <attribute id="Boosts" type="LSString" value="Ability(Strength,2);ActionResource(Movement,9,0)" />
+			<attribute id="Boosts" type="LSString" value="Ability(Strength,2);ActionResource(Movement,9,0)" />
                   <attribute id="PassivesAdded" type="LSString" value="Passives_Basic_Azer;Passive_Dense;Azer_CombatTraining;Passive_AzerResilience;Passive_Azer_Cold_Vulnerability" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(e8726c9e-6c6e-4a6d-8426-58fd67948cce,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race

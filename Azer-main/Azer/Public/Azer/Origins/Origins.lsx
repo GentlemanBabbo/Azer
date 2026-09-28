@@ -18,8 +18,8 @@
                     <attribute id="Description" type="TranslatedString" handle="ha3a6ed20d8a548ed95ac2edbe857c68f7b90" version="2"/> <!-- Description of your origin. -->
                     <attribute id="GlobalTemplate" type="guid" value="2ea05e30-fc58-4f9a-bdf8-71206231d38e"/> <!-- This links back to the Global template. Regenerate this! -->
                     <attribute id="IntroDialogUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> <!-- Empty UUID since most custom origins won't have intro dialogs. -->
-                    <attribute id="LockBody" type="bool" value="true"/> <!-- True = Locked body, False = Editable body. Bad things seem to happen when you try to make the body editable. -->
-                    <attribute id="LockClass" type="bool" value="true"/> <!-- True = Locked class, False = Editable class -->
+                    <attribute id="LockBody" type="bool" value="false"/> <!-- True = Locked body, False = Editable body. Bad things seem to happen when you try to make the body editable. -->
+                    <attribute id="LockClass" type="bool" value="false"/> <!-- True = Locked class, False = Editable class -->
                     <attribute id="LockRace" type="bool" value="true"/> <!-- True = Locked race, False = Editable race -->
                     <attribute id="Name" type="FixedString" value="AzerEverburning"/> <!-- Internal name -->
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/> <!-- Add any passives you want here. -->
