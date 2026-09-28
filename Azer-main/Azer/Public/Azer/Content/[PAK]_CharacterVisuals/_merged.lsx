@@ -4,108 +4,108 @@
 	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
 			<children>
-				<node id="Resource"> <!-- Race Female Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="12162f03-7d8c-4d5a-a7b3-94499288ece3" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="dfb17ee9-16f4-4ca2-9755-556ef04184a0" /> <!-- Connects to the merged file entry's ID field for the body's mesh -->
-					<attribute id="ID" type="FixedString" value="8fc018a8-c87c-44ca-a704-c772c1cfb573" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
-					<attribute id="Name" type="LSString" value="Azer_Female_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
+				<node id="Resource"> <!-- Azer Female Standard -->
+					<attribute id="BaseVisual" type="FixedString" value="12162f03-7d8c-4d5a-a7b3-94499288ece3" /> <!--Custom Azer Animations: Dwarf Animations with Redcap Waterfalls-->
+					<attribute id="BodySetVisual" type="FixedString" value="dfb17ee9-16f4-4ca2-9755-556ef04184a0" />
+					<attribute id="ID" type="FixedString" value="8fc018a8-c87c-44ca-a704-c772c1cfb573" />
+					<attribute id="Name" type="LSString" value="Azer_Female_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />					
 					<children>
 						<node id="MaterialOverrides">
 							<children>
 								<node id="MaterialPresets">
-									<children> <!-- Sets the MaterialPresets of the entries below. -->
+									<children>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="False" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="1d56981b-b89f-4ece-85a3-7b5c27e76e19" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="1d56981b-b89f-4ece-85a3-7b5c27e76e19" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" /> <!-- Material UUID for hair color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="82e3fcd1-e8f8-4c73-9eb2-f653ce754b79" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="82e3fcd1-e8f8-4c73-9eb2-f653ce754b79" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" /> <!-- Material UUID for makeup selection. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" />
 										</node>
 									</children>
 								</node>
 							</children>
 						</node>
-						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
+						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="b7a235e4-95f2-4c92-9f4c-659977c1d14e" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the head you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="b7a235e4-95f2-4c92-9f4c-659977c1d14e" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
-							<attribute id="VisualResource" type="FixedString" value="dec25989-ed08-895e-4ae0-5c9b44352bf0" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the modesty leaf (lower) you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="dec25989-ed08-895e-4ae0-5c9b44352bf0" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
-							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the modesty leaf (upper) you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="13bb4168-a5e4-fe82-f3df-57721a1ffed3" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="dd9c8256-df05-4e10-9326-bb87cb4b64f4" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="dd9c8256-df05-4e10-9326-bb87cb4b64f4" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the private parts you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" />
 						</node>
 					</children>
 				</node>
-				<node id="Resource"> <!-- Race Male Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="ca6f2561-ee31-43d9-afc3-d848dc55a37a" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="432098ef-c3a3-407b-8dfe-1cf56a9fb925" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
-					<attribute id="ID" type="FixedString" value="48758abd-87ea-4f61-99c7-8750f5e18db7" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
-					<attribute id="Name" type="LSString" value="Azer_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
+				<node id="Resource"> <!-- Azer Male Standard -->
+					<attribute id="BaseVisual" type="FixedString" value="ca6f2561-ee31-43d9-afc3-d848dc55a37a" /> <!--Custom Azer Animations: Dwarf Animations with Redcap Waterfalls-->
+					<attribute id="BodySetVisual" type="FixedString" value="432098ef-c3a3-407b-8dfe-1cf56a9fb925" />
+					<attribute id="ID" type="FixedString" value="48758abd-87ea-4f61-99c7-8750f5e18db7" />
+					<attribute id="Name" type="LSString" value="Azer_Male_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />										
 					<children>
 						<node id="MaterialOverrides">
 							<children>
 								<node id="MaterialPresets">
-									<children> <!-- Sets the MaterialPresets of the entries below. -->
+									<children>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="1d56981b-b89f-4ece-85a3-7b5c27e76e19" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="1d56981b-b89f-4ece-85a3-7b5c27e76e19" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="03Hair" />
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="90a01929-a5ef-01a7-c22d-000245888f0e" /> <!-- Material UUID for hair color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="90a01929-a5ef-01a7-c22d-000245888f0e" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="82e3fcd1-e8f8-4c73-9eb2-f653ce754b79" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="82e3fcd1-e8f8-4c73-9eb2-f653ce754b79" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" /> <!-- Material UUID for makeup selection. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" />
 										</node>
 									</children>
 								</node>

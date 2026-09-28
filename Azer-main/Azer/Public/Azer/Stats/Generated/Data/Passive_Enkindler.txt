@@ -1,18 +1,32 @@
 <!--Enkindler Passives-->
 
+new entry "POC_Player_Enkindler"
+type "Character"
+using "HeroGithFemale"
+data "Level" "1"
+data "Strength" "15"
+data "Dexterity" "10"
+data "Constitution" "13"
+data "Intelligence" "10"
+data "Wisdom" "14"
+data "Charisma" "10"
+data "SpellCastingAbility" "Wisdom"
+data "Class" "Enkindler"
+data "Progressions" "885c3a8a-72fb-42e9-826e-8f04fb461953"
+
 <!--Resources-->
 new entry "AnvilUnlocked"
 type "PassiveData"
-data "DisplayName" ";1"
-data "Description" ";1"
+data "DisplayName" "h9a89916374464095b9885ae21802ebc7371b;1"
+data "Description" "hf4e9462c76de4fc29d84fdd395f19d22ga34;1"
 data "Properties" "IsHidden"
 data "Icon" "PassiveFeature_MartialAdept"
 data "Boosts" "ActionResource(Anvil,1,0)
 
 new entry "GemstoneUnlocked"
 type "PassiveData"
-data "DisplayName" ";1"
-data "Description" ";1"
+data "DisplayName" "h80f9e206748d411abedbb79a74a29d2fge40;1"
+data "Description" "hefb0e13c417542819bff319338d6cd86cg19;1"
 data "Properties" "IsHidden"
 data "Icon" "PassiveFeature_MartialAdept"
 data "Boosts" "ActionResource(Gemstone,2,0)

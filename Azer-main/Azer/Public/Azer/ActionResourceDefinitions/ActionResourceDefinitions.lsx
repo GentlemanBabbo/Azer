@@ -5,30 +5,30 @@
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="hf4e9462c76de4fc29d84fdd395f19d22ga34" version="1"/> A text tied to the .loca file
-                    <attribute id="DisplayName" type="TranslatedString" handle="h9a89916374464095b9885ae21802ebc7371b" version="1"/> A text tied to the .loca file
-                    <attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
+                    <attribute id="Description" type="TranslatedString" handle="hf4e9462c76de4fc29d84fdd395f19d22ga34" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a89916374464095b9885ae21802ebc7371b" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
-                    <attribute id="Name" type="FixedString" value="Anvil"/> What you will be referring to in your code
+                    <attribute id="Name" type="FixedString" value="Anvil"/> 
                     <attribute id="PartyActionResource" type="bool" value="false"/>
-                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/> Rest = Long Rest, ShortRest = ShortRest
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
-                    <attribute id="UUID" type="guid" value="b69d201f-75e4-4df9-9700-3028dfe77335"/> UUID for the Resource, give it a new one
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/> Would this resource be used at different power levels
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="b69d201f-75e4-4df9-9700-3028dfe77335"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
                 <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="hefb0e13c417542819bff319338d6cd86cg19" version="1"/> A text tied to the .loca file
-                    <attribute id="DisplayName" type="TranslatedString" handle="h80f9e206748d411abedbb79a74a29d2fge40" version="1"/> A text tied to the .loca file
-                    <attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
+                    <attribute id="Description" type="TranslatedString" handle="hefb0e13c417542819bff319338d6cd86cg19" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h80f9e206748d411abedbb79a74a29d2fge40" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
-                    <attribute id="Name" type="FixedString" value="Gemstone"/> What you will be referring to in your code
+                    <attribute id="Name" type="FixedString" value="Gemstone"/>
                     <attribute id="PartyActionResource" type="bool" value="false"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Rest"/> Rest = Long Rest, ShortRest = ShortRest
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/> If the resource will be displayed on your hotbar
-                    <attribute id="UUID" type="guid" value="85cf2616-3177-4a61-9838-5e645fb6b7ae"/> UUID for the Resource, give it a new one
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/> Would this resource be used at different power levels
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="85cf2616-3177-4a61-9838-5e645fb6b7ae"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
             </children>
         </node>

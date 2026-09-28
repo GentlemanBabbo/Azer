@@ -4,92 +4,74 @@
     <region id="ClassDescriptions">
         <node id="root">
             <children>
-                <node id="ClassDescription"> Main Class
-                    <attribute id="BaseHp" type="int32" value="10"/> Hit Die
+                <node id="ClassDescription"> <!--Enkindler Main Class-->
+                    <attribute id="BaseHp" type="int32" value="10"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
-                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> Copy this off of another base game class (Im using the wizard's creation post)
-                    <attribute id="Description" type="TranslatedString" handle="hd3c4049d943f44ed9af5d5453d4cf4844302" version="1"/> Link to the .loca file
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb9774b8268344abbadf4c4a5b8d30c07ff37" version="1"/> Link to the .loca file
-                    <attribute id="HpPerLevel" type="int32" value="7"/> Half Hit Die + 1
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="hd3c4049d943f44ed9af5d5453d4cf4844302" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb9774b8268344abbadf4c4a5b8d30c07ff37" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="7"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="true"/> Have this as false if you don't need to prepare them
-                    <attribute id="Name" type="FixedString" value="Enkindler"/> The name of your class
-                    <attribute id="PrimaryAbility" type="uint8" value="1"/> 4 is for int. order goes from Str, Dex, Con, Int, Wis, and Cha.
-                    <attribute id="ProgressionTableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> This UUID links the Class to a specific progression table inside Progressions.lsx
-                    <attribute id="SoundClassType" type="FixedString" value="Barbarian"/> Pick a class that your class would be the most similar to
-                    <attribute id="SpellCastingAbility" type="uint8" value="5"/> 4 is for int. order goes from Str, Dex, Con, Int, Wis, and Cha.
-                    <attribute id="UUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> The ID for your class, make a new one
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Enkindler"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
 				          	<children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c"/> Dialogue tag Barbarian
+                            <attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c"/> <!--Dialogue tag Barbarian-->
                         </node>
                     </children>
                 </node>
-				    <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+				    <node id="ClassDescription"> <!--Smithy Subclass-->
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SMITHY"/> Starting equipment entry from Equipment.txt
-		            <attribute id="Description" type="TranslatedString" handle="h35a2e1e4805d464ab57bec37e09bb33243e9" version="1"/> Link to the .loca file
-                    <attribute id="DisplayName" type="TranslatedString" handle="h515c5f9fcd6f484cb97e5f411b894dd54c79" version="1"/> Link to the .loca file
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SMITHY"/>
+		            <attribute id="Description" type="TranslatedString" handle="h35a2e1e4805d464ab57bec37e09bb33243e9" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h515c5f9fcd6f484cb97e5f411b894dd54c79" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="Smithy"/> name of your subclass
-                    <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> This is the same UUID as your main class, as the main class act as the subclass' parent
+                    <attribute id="Name" type="FixedString" value="Smithy"/>
+                    <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> This is a different table as the Main Class, as this one is specific to the subclass
+                    <attribute id="ProgressionTableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/>
                     <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="UUID" type="guid" value="a0019e67-0ad5-434b-ac18-a81e949b2792"/> Make a unique UUID for the subclass
-		                <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/> Dialogue tag Fighter
-                        </node>
-                    </children>
+                    <attribute id="UUID" type="guid" value="a0019e67-0ad5-434b-ac18-a81e949b2792"/>
                 </node>
-			        <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+			        <node id="ClassDescription"> <!--Crystal Knight Subclass-->
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CRYSTALKNIGHT"/> Starting equipment entry from Equipment.txt
-	                <attribute id="Description" type="TranslatedString" handle="hd2e1cd0ec4514eed9a11602f78468370af4g" version="1"/> Link to the .loca file
-                    <attribute id="DisplayName" type="TranslatedString" handle="h35fbe96df56148c18a77ec85c60308750c44" version="1"/> Link to the .loca file
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CRYSTALKNIGHT"/>
+	                <attribute id="Description" type="TranslatedString" handle="hd2e1cd0ec4514eed9a11602f78468370af4g" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h35fbe96df56148c18a77ec85c60308750c44" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="Crystal Knight"/> name of your subclass
-                    <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> This is the same UUID as your main class, as the main class act as the subclass' parent
+                    <attribute id="Name" type="FixedString" value="Crystal Knight"/>
+                    <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> This is a different table as the Main Class, as this one is specific to the subclass
+                    <attribute id="ProgressionTableUUID" type="guid" value="83d6b657-1190-4e46-9888-820125e2f550"/> 
                     <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="UUID" type="guid" value="46edbb6d-ad17-4e11-a686-324194b03796"/> Make a unique UUID for the subclass
-		                <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a"/> Dialogue tag Ranger
-                        </node>
-                    </children>
+                    <attribute id="UUID" type="guid" value="46edbb6d-ad17-4e11-a686-324194b03796"/>
                 </node>
-			        <node id="ClassDescription"> Subclass (you will need one of this for each subclass)
+			        <node id="ClassDescription"> <!--Conduit Subclass-->
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CONDUIT"/> Starting equipment entry from Equipment.txt
-		            <attribute id="Description" type="TranslatedString" handle="he9ac150e13634aadbf4f289ad46c9c7ad44a" version="1"/> Link to the .loca file
-                    <attribute id="DisplayName" type="TranslatedString" handle="h4f6649ba92484447b3abbbbdca55b18f7052" version="1"/> Link to the .loca file
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CONDUIT"/>
+		            <attribute id="Description" type="TranslatedString" handle="he9ac150e13634aadbf4f289ad46c9c7ad44a" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4f6649ba92484447b3abbbbdca55b18f7052" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="Conduit"/> name of your subclass
-                    <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/> This is the same UUID as your main class, as the main class act as the subclass' parent
+                    <attribute id="Name" type="FixedString" value="Conduit"/>
+                    <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/> This is a different table as the Main Class, as this one is specific to the subclass
+                    <attribute id="ProgressionTableUUID" type="guid" value="6d1df53b-2d90-4e43-a0d6-424bc8616610"/>
                     <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="UUID" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/> Make a unique UUID for the subclass
-		                <!--Hides it from regular Tav/Origins, but allows conditional checks-->
-                    <attribute id="IsHidden" type="bool" value="true"/>
-                    <attribute id="Requirements" type="LSString" value="CharacterCreationRequirement(d04d0f31-1dd3-4e62-a15e-632410fd5f4b)"/>
-                        <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/> Dialogue tag Fighter
-                        </node>
-                    </children>
+                    <attribute id="UUID" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/>
 	            	</node>
             </children>
         </node>
