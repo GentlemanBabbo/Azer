@@ -132,6 +132,25 @@
 	<content contentuid="ha97b5f5f750140a8b4104286f992f196g667" version="1">Ignite the Aggressor</content>
 	<content contentuid="h46613444f96c4f7a94e81f9a86ec4526281e" version="1">Your fiery composition is too much for attackers to withstand. Apply Burning to targets that make contact with you.</content>
 
+<!--Gear Sets-->
+	<!--Weapons-->
+	<content contentuid="h8a54158de4d0475f9a58fd9e9f304a7a6b5a" version="1">Conduit's Warhammer</content>
+	<content contentuid="h778343bb26ac4e5bbe3cdbe7d6d9619efa03" version="1">This mallet strikes with unbearable force.</content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<!--Armor-->
+	<content contentuid="h0d53203f99d44fffb08f989826a2df07cb9c" version="1">Conduit's Harness</content>
+	<content contentuid="hc36149ea514946c892c1177d3e65eeaa6082" version="1">It doesn't take much to prepare you for conflict.</content>	
+	<content contentuid="he1458de2af264cafa41f920344d03bd76155" version="1">Conduit's Anklets</content>	
+	<content contentuid="hded498f2d8ed48a6b58906c0d426d74918b8" version="1">The latest in Azer fashion.</content>
+	<content contentuid="h728fcd8ee539481e9c4d079090536487a2gb" version="1">Conduit's Bracers</content>
+	<content contentuid="h05cdb675fc334ce295507df60da5f2f1df2c" version="1">Metallic wristguards crafted in Azer design.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>		
+
 <!--Enkindler Class-->
 	<!--Class Descriptions-->
 	<!--Main Class-->

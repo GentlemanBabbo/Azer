@@ -1,0 +1,41 @@
+<!--Enkindler Armor-->
+
+<!--Smithy-->
+
+<!--Crystal Knight-->
+
+<!--Conduit-->
+new entry "SEM_ARM_Enkindler_Conduit_Harness"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "RootTemplate" "5643fb69-1aec-49d1-81a6-db28430ee23f"
+data "ArmorClass" "14"
+data "ValueLevel" "3"
+data "Weight" "12"
+data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)"
+data "ArmorType" "ScaleMail"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+data "MinLevel" "1"
+data "Armor Class Ability" "Dexterity"
+data "Ability Modifier Cap" "2"
+data "Proficiency Group" "MediumArmor"
+
+new entry "SEM_ARM_Enkindler_Conduit_Bracers"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "eabcfb25-15e8-4fbf-a546-302bcc94477f"
+data "ValueLevel" "5"
+data "Boosts" "RollBonus(SavingThrow, 1, Strength)"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+data "MinLevel" "1"
+data "Proficiency Group" "MediumArmor"
+
+new entry "SEM_ARM_Enkindler_Conduit_Anklets"
+type "Armor"
+using "ARM_Boots_Leather"
+data "RootTemplate" "21206fa9-a713-43ae-9fea-6c4de782447a"
+data "ValueLevel" "1"

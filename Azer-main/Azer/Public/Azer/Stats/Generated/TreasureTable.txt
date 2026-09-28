@@ -1,0 +1,37 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SEM_Black_GaleRobe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_ChainShirt_Shar_1Sleeve",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_Custom_Armor_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_Longsword_Fire_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_OBJ_Backpack_Sample",1,0,0,0,0,0,0,0
+
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_SEM_Black_GaleRobe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_ChainShirt_Shar_1Sleeve",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_Custom_Armor_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_Longsword_Fire_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_OBJ_Backpack_Sample",1,0,0,0,0,0,0,0
+
+new treasuretable "SEM_SampleBackpack_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_SEM_Black_GaleRobe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_ChainShirt_Shar_1Sleeve",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_Custom_Armor_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SEM_Longsword_Fire_1",1,0,0,0,0,0,0,0

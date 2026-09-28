@@ -1,0 +1,6 @@
+new entry "SEM_ItemSpell_Target_FlamingSphere"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_FlamingSphere"
+data "UseCosts" "ActionPoint:1"
+data "MemoryCost" ""
