@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Once every few centuries, an Azer is born with an flame that burns like no other. Their circumstance of creation may be unique; their worldly experience vast and cluttered with stories to tell. They become legendary creators, unrivaled traders, and passionate beyond the stoic demeanor that is typical of most Azer. You have the frightening light within your core, this generation's newest opportunity to illustrate the phenomenal potential your people hold. Whether your actions be benevolent or malicious, one thing is for certain. All will come to know the light of the Everburning.|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ha235767fcf3f4c8bbb55b3fa6e199819689d" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h1dd40ae854db440fbc12e888513327a76d4a" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Everburning" />
+			<attribute id="UUID" type="guid" value="f97fc754-7673-45cc-961d-53f7f1e89de0" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Background" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

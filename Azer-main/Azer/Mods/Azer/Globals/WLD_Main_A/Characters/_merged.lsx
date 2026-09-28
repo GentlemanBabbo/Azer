@@ -5,10 +5,11 @@
 		<node id="Templates">
 			<children>
                 <node id="GameObjects">
+					<attribute id="AvoidTraps" type="bool" value="True" />				
 					<attribute id="AnubisConfigName" type="FixedString" value="ORI_Karlach_CampFix" /> <!-- Karlach's anubis config, but I don't think it matters for an origin. -->
 					<attribute id="Archetype" type="FixedString" value="melee_smart" /> <!-- Karlach's archetype, but I don't think it matters for an origin. -->
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="48758abd-87ea-4f61-99c7-8750f5e18db7" /> <!-- Defines the origin's appearance. Regenerate this! -->
-					<attribute id="Faction" type="guid" value="8e465ee5-ad2b-008b-966b-d1641e37e3c5" /> <!-- Karlach's faction, but I don't think it matters for an origin. -->
+					<attribute id="Faction" type="guid" value="82692ccd-1862-b8b1-5bfb-318fa17e4a8a" /> <!--Durge Faction-->
 					<attribute id="Flag" type="int32" value="1" /> <!-- I'm not sure what this does exactly, but it seems to work fine so I left it alone. -->
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Azer" /> <!-- Defines the type of portrait generation on game start and level up. -->
 					<attribute id="HasPlayerApprovalRating" type="bool" value="True" />

@@ -7,17 +7,15 @@
                 <node id="Origin">
                     <attribute id="AppearanceLocked" type="bool" value="false"/> <!-- True = Locked appearance, False = Editable appearance -->
                     <attribute id="AvailableInCharacterCreation" type="uint8" value="1"/> <!-- 1 = Yes, 2 = No -->
-                    <attribute id="BackgroundUUID" type="guid" value="650ca675-ac36-41f2-a861-d5d7d92adae2"/> <!-- Set your origin's background here. -->
+                    <attribute id="BackgroundUUID" type="guid" value="20d865ea-03bd-47bf-97d3-777e1b36b073"/> <!-- Set your origin's background here. -->
                     <attribute id="BodyShape" type="uint8" value="0"/> <!-- 0 = Slim, 1 = Strong -->
                     <attribute id="BodyType" type="uint8" value="0"/> <!-- 0 = M, 1 = F -->
                     <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_M_Azer"/> <!-- Overrides the default class equipment, remove this line if you want default class equipment. -->
-                    <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he2aa090da7d344c28bfa5d5898a71e109aa4" version="1"/> <!-- Display name of your origin. -->
                     <attribute id="Description" type="TranslatedString" handle="ha3a6ed20d8a548ed95ac2edbe857c68f7b90" version="2"/> <!-- Description of your origin. -->
                     <attribute id="GlobalTemplate" type="guid" value="2ea05e30-fc58-4f9a-bdf8-71206231d38e"/> <!-- This links back to the Global template. Regenerate this! -->
-                    <attribute id="IntroDialogUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/> <!-- Empty UUID since most custom origins won't have intro dialogs. -->
+                    <attribute id="DefaultsTemplate" type="guid" value="b95250e7-89e0-4503-9345-d7ccf0731883"/>                    
+                    <attribute id="IntroDialogUUID" type="guid" value="2949c570-0a52-4cfd-8434-50925e18d44b"/> <!-- Empty UUID since most custom origins won't have intro dialogs. -->
                     <attribute id="LockBody" type="bool" value="false"/> <!-- True = Locked body, False = Editable body. Bad things seem to happen when you try to make the body editable. -->
                     <attribute id="LockClass" type="bool" value="false"/> <!-- True = Locked class, False = Editable class -->
                     <attribute id="LockRace" type="bool" value="true"/> <!-- True = Locked race, False = Editable race -->
@@ -29,13 +27,13 @@
                     <attribute id="SubClassUUID" type="guid" value="9ebf12af-953a-407b-8c12-04a08f5943ef"/> <!-- Set your origin's subclass here. -->
                     <attribute id="UUID" type="guid" value="d04d0f31-1dd3-4e62-a15e-632410fd5f4b"/> <!-- Regenerate this! -->
                     <attribute id="Unique" type="bool" value="false"/> <!-- True = Locked appearance, False = Editable appearance -->
-                    <attribute id="VoiceTableUUID" type="guid" value="5ee56242-d07c-482e-9260-24529d1473a3"/> <!-- Set your origin's voice. This is Voice 7. If you want the voice to be pickable, set the table back to 5ee56242-d07c-482e-9260-24529d1473a3 which is the voice table for generic Tav. -->
+                    <attribute id="VoiceTableUUID" type="guid" value="5ee56242-d07c-482e-9260-24529d1473a3"/> <!-- Set your origin's voice.-->
                     <children>
-                        <node id="ReallyTags">
-                            <attribute id="Object" type="guid" value="264a6880-9a51-429c-a9fc-97f8952baf90"/> <!-- REALLY tag for generic Tav. The REALLY Dark Urge tag is cd611d7d-b67d-42b4-a75c-a0c6091ef8a2 -->
+                        <node id="AppearanceTags">
+                            <attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
                         </node>
                         <node id="ReallyTags">
-                            <attribute id="Object" type="guid" value="46c1e0b1-127b-4b20-86cd-caae7b657a0e"/> <!-- Custom REALLY tag for your origin. Regenerate this, or remove it if you want. -->
+                            <attribute id="Object" type="guid" value="cd611d7d-b67d-42b4-a75c-a0c6091ef8a2"/>
                         </node>
                     </children>
                 </node>
