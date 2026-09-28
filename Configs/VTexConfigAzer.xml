@@ -51,5 +51,29 @@
 			<Layer Name="Normal" Source="AZER_DWR_F_A_CRACKED_NM.DDS" />
 			<Layer Name="Physical" Source="AZER_DWR_F_A_CRACKED_PM.DDS" />
 		</Texture>
+		<!--Head Option C-->
+		<Texture Name="8e00fc05426b4a5f8b738dcec3e45f01">
+			<Layer Name="Albedo" Source="AZER_DWR_F_D_BM.DDS" />
+			<Layer Name="Normal" Source="AZER_DWR_F_D_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_DWR_F_D_PM.DDS" />
+		</Texture>
+		<!--Head Option D-->
+		<Texture Name="2cb69f4c2eaf486791272777906e81e4">
+			<Layer Name="Albedo" Source="AZER_DWR_F_A_BM.DDS" />
+			<Layer Name="Normal" Source="AZER_DWR_F_A_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_DWR_F_A_PM.DDS" />
+		</Texture>		
+		<!--Head Option E-->
+		<Texture Name="44359fd926e8413282ba39b43cf8e87b">
+			<Layer Name="Albedo" Source="AZER_DWR_F_E_BM.DDS" />
+			<Layer Name="Normal" Source="AZER_DWR_F_E_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_DWR_F_E_PM.DDS" />
+		</Texture>
+		<!--Head Option F-->		
+		<Texture Name="bcfb4d5dd54748c3b9a5e4bdd39dfaa4">
+			<Layer Name="Albedo" Source="AZER_DWR_F_E_Freckles_BM.DDS" />
+			<Layer Name="Normal" Source="AZER_DWR_F_E_NM.DDS" />
+			<Layer Name="Physical" Source="AZER_DWR_F_E_Freckles_PM.DDS" />
+		</Texture>		
 	</Textures>
 </TileSet>
