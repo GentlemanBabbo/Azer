@@ -1,10 +1,813 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="MaterialBank">
+		<node id="MaterialBank">
+			<children>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="4a69793b-650f-4188-8762-173217c2d710" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_ACC" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE.lsf" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.7" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Armor_Dirt_Sharpness" />
+							<attribute id="Value" type="float" value="0.7" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Armor_Blood_Sharpness" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="4" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Dirt_AO_Sharpness" />
+							<attribute id="Value" type="float" value="4" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="4" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Blood_AO_Sharpness" />
+							<attribute id="Value" type="float" value="4" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Dirt" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Blood" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="7ad973c9-2b8f-4277-81fc-379d72f08c02" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="fae3cc55-6fd9-454f-8c05-1e9c135d441a" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="2d482920-9675-4008-a608-3d902c5f10bc" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="a5b1b416-4f95-4666-8e16-eec683f266a6" />
+							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.15105805 0.29321614 0.4877652" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Cloth_Primary" />
+							<attribute id="Value" type="fvec3" value="0.15105805 0.29321614 0.4877652" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.17013837 0.04614884 0.04614884" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Cloth_Secondary" />
+							<attribute id="Value" type="fvec3" value="0.17013837 0.04614884 0.04614884" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.071761444 0.06190747 0.106156066" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Cloth_Tertiary" />
+							<attribute id="Value" type="fvec3" value="0.071761444 0.06190747 0.106156066" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Accent_Color" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.23882797 0.10363409 0.060031604" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Leather_Primary" />
+							<attribute id="Value" type="fvec3" value="0.23882797 0.10363409 0.060031604" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.15105805 0.034230202 0.02654868" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Leather_Secondary" />
+							<attribute id="Value" type="fvec3" value="0.15105805 0.034230202 0.02654868" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.12198571 0.060031604 0.051122047" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Leather_Tertiary" />
+							<attribute id="Value" type="fvec3" value="0.12198571 0.060031604 0.051122047" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Custom_1" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.7667436 0.7667436 0.7667436" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Metal_Primary" />
+							<attribute id="Value" type="fvec3" value="0.7667436 0.7667436 0.7667436" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.6870308 0.6870308 0.6870308" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Metal_Secondary" />
+							<attribute id="Value" type="fvec3" value="0.6870308 0.6870308 0.6870308" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.6054843 0.6054843 0.6054843" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Metal_Tertiary" />
+							<attribute id="Value" type="fvec3" value="0.6054843 0.6054843 0.6054843" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Custom_2" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.11764706 0.06666667 0.047058824" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="DirtColor" />
+							<attribute id="Value" type="fvec3" value="0.11764706 0.06666667 0.047058824" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.12941177 0.007843138 0.003921569" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Blood_Color" />
+							<attribute id="Value" type="fvec3" value="0.12941177 0.007843138 0.003921569" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="03b3cd0e-5b69-4c66-a0ab-d2688620625a" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_OUTFIT" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_BASE_AlphaTest_2S.lsf" />
+					<children>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.7" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Armor_Dirt_Sharpness" />
+							<attribute id="Value" type="float" value="0.7" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Armor_Blood_Sharpness" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="4" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Dirt_AO_Sharpness" />
+							<attribute id="Value" type="float" value="4" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="4" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Blood_AO_Sharpness" />
+							<attribute id="Value" type="float" value="4" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Dirt" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Blood" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="Reflectance" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="feffad06-837f-410b-b455-fcde4c5dd44b" />
+							<attribute id="ParameterName" type="FixedString" value="basecolor" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="5f6d009e-62c0-40a6-a11e-a0e08468cc62" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="7647ae2e-ee6c-4bc9-b1e3-5d1b805dc2cc" />
+							<attribute id="ParameterName" type="FixedString" value="physicalmap" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="73707381-b6d8-434d-b811-411e5d9b74cd" />
+							<attribute id="ParameterName" type="FixedString" value="MSKColor" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.15105805 0.29321614 0.4877652" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Cloth_Primary" />
+							<attribute id="Value" type="fvec3" value="0.15105805 0.29321614 0.4877652" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.17013837 0.04614884 0.04614884" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Cloth_Secondary" />
+							<attribute id="Value" type="fvec3" value="0.17013837 0.04614884 0.04614884" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.071761444 0.06190747 0.106156066" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Cloth_Tertiary" />
+							<attribute id="Value" type="fvec3" value="0.071761444 0.06190747 0.106156066" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Accent_Color" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.23882797 0.10363409 0.060031604" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Leather_Primary" />
+							<attribute id="Value" type="fvec3" value="0.23882797 0.10363409 0.060031604" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.15105805 0.034230202 0.02654868" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Leather_Secondary" />
+							<attribute id="Value" type="fvec3" value="0.15105805 0.034230202 0.02654868" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.12198571 0.060031604 0.051122047" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Leather_Tertiary" />
+							<attribute id="Value" type="fvec3" value="0.12198571 0.060031604 0.051122047" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Custom_1" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.7667436 0.7667436 0.7667436" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Metal_Primary" />
+							<attribute id="Value" type="fvec3" value="0.7667436 0.7667436 0.7667436" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.6870308 0.6870308 0.6870308" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Metal_Secondary" />
+							<attribute id="Value" type="fvec3" value="0.6870308 0.6870308 0.6870308" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.6054843 0.6054843 0.6054843" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Metal_Tertiary" />
+							<attribute id="Value" type="fvec3" value="0.6054843 0.6054843 0.6054843" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02 Colour" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Custom_2" />
+							<attribute id="Value" type="fvec3" value="1 1 1" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.11764706 0.06666667 0.047058824" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="DirtColor" />
+							<attribute id="Value" type="fvec3" value="0.11764706 0.06666667 0.047058824" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.12941177 0.007843138 0.003921569" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="Blood_Color" />
+							<attribute id="Value" type="fvec3" value="0.12941177 0.007843138 0.003921569" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_ACC_BM" />
+				   <attribute id="ID" type="FixedString" value="7ad973c9-2b8f-4277-81fc-379d72f08c02" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_ACC_BM.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="True" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_ACC_NM" />
+				   <attribute id="ID" type="FixedString" value="fae3cc55-6fd9-454f-8c05-1e9c135d441a" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_ACC_NM.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="False" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_ACC_PM" />
+				   <attribute id="ID" type="FixedString" value="2d482920-9675-4008-a608-3d902c5f10bc" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_ACC_PM.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="False" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_ACC_MSK" />
+				   <attribute id="ID" type="FixedString" value="a5b1b416-4f95-4666-8e16-eec683f266a6" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_ACC_MSK.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="False" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_OUTFIT_BM" />
+				   <attribute id="ID" type="FixedString" value="feffad06-837f-410b-b455-fcde4c5dd44b" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_OUTFIT_BM.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="True" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_OUTFIT_NM" />
+				   <attribute id="ID" type="FixedString" value="5f6d009e-62c0-40a6-a11e-a0e08468cc62" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_OUTFIT_NM.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="False" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_OUTFIT_PM" />
+				   <attribute id="ID" type="FixedString" value="7647ae2e-ee6c-4bc9-b1e3-5d1b805dc2cc" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_OUTFIT_PM.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="False" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource">
+				   <attribute id="Name" type="LSString" value="AZER_M_ARM_OUTFIT_MSK" />
+				   <attribute id="ID" type="FixedString" value="73707381-b6d8-434d-b811-411e5d9b74cd" />
+				   <attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_OUTFIT_MSK.DDS" />
+				   <attribute id="Format" type="uint32" value="64" /> 
+				   <attribute id="Width" type="int32" value="2048" />
+				   <attribute id="Height" type="int32" value="2048" />				
+				   <attribute id="Depth" type="int32" value="1" />
+				   <attribute id="Localized" type="bool" value="False" />
+				   <attribute id="SRGB" type="bool" value="False" />
+				   <attribute id="Streaming" type="bool" value="True" />
+				   <attribute id="Template" type="FixedString" value="" />
+				   <attribute id="Type" type="int32" value="1" />
+			   </node>
+			</children>
+		</node>
+	</region>
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-				<!--Enkindler Conduit Starter Gear-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.29294768 0.9133571 0.19428405" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.2929477 0.32818404 -0.22587496" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="f8c2ab8f-7307-483f-9b4c-c6abe9a08374" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/SharedDev/Assets/Characters/_Models/_Creatures/Azer/_Male/Resources/AZER_M_ARM_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/SharedDev/Assets/Characters/_Models/_Creatures/Azer/_Male/Resources/AZER_M_ARM_Body_A.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="75" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="False" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.025 0.025 0.025" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="200" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Cloth_Mesh.0" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="75" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="False" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.025 0.025 0.025" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.7 0.7 0.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="200" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Cloth_Mesh_LOD1.2" />
+						</node>
+						<node id="ClothProxyMapping">
+							<children>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Cloth_Mesh.0" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNp103tTkkEYhvHHU5qiIqSlaGEZauUhU8vyFJaAiQJKSSrK9/8QtXvtOtwz7+gMPx/Xl4U/rufU/rmfAzzD73iBRWxiycp2bE07cb+/crKPFfyF/n9N22OuW8M9f8i8i8fRktVth/lbvNl7GW8I7/X+xCP8gWX3Xv8Zfv6EVazhOf7GW/yDV9iItt2nt+3a/ORPrqNta9kG82fcxBu8w3v8iy3sRFvuPv/q2BYn2/gFn+JoNGV91su8gL3u75w79fMb9E+M2iCzYT8u4Qjm8RX24XCcU+72HuYhXMYnOIcD+BLn8TW+wxymcRpn48mY+545S7v7M5xM4TOciCcZ91TGppxjnIyjP0tbgXkRn+NHXMe3uIovcBKzOINruILv8YPUdSgNn0o/tURFRem8nigzdFuKvXWrC/0fSLd7simXsgUV2YUT2aCwO6GQsEE7skdVqVpLvpKSb6XhhnQbGm5HfdubUvKGdHsvPd/Ekn23ndhvt21tOBdb7TY5K/WGKlLS+Yh0G5oPVYdWe6TVfKLA0Pmg7M6Q1D4vVc9J21r1sGzTgnQyLW2Hniek4dBzJlHyQ8PdkkPDBSl5XXpOlpyVnh8r+T9L8Uos" />
+													<attribute id="Name" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Mesh.1" />
+													<attribute id="NbClosestVertices" type="int32" value="708" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Cloth_Mesh_LOD1.2" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNptk4FSwjAQRE8QUUFLS6GgRUAtKCgo//9vuLeb2oiQyWZ7uVzCzLuNHfF7p77aC9Y1/Ru1siesK/qFrazCXEC/GfkKmZWtMd+wp90Pxh/h5/ZqXm9jfsMC1Tz6iPULNT4xVLm50Sv4WfdPVNWuojdIt7bBe18Yn7PynL6kLoOW9mxleM8DMqQPWGdQj9c6Q2xLv7M91j29n16ihrzqPyNXp2eMuC9NuuN/OuDf7ezA3TvqKOg91oT+ipogMsD0/UvzmPvE7qwD32VO33pYC/qe9bHfxm6B2WZ+wrMdnHE/Qoaf6zDfkFPg/DV229AupseveVY3Xtml3WB4fBA0swuMFF8XrOaRBC9NEM0sRyRn5hA+xRgykkEzRjLuptQM53K8wnjLGG7KuHTCr4m1EB+HNxf4GmJOuR6PLZtAx/iehJxbVrqlF10iTQxvIn7ERkyRqF4HKsRVQ6a4XfzjTapOEbcfEbd1v3gXqCPUC+J59ct2FQipO8i7QH0kkkV1THIZkbw8Q/KMLibZ2d5HJG8jbmOSxXZMb8PzX4YHgVVXMSkqRK+oEMOjiFJxK+ZFtVgVn2JVJMcEFqFrnF/1TidoQ6yoFs9i+y/V3gs126JFb06tZls8i1sxnAdW8xOSa4YbksWweI4Zrv0pya1wi3g+T/IPxXP6lg==" />
+													<attribute id="Name" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Mesh_LOD1.3" />
+													<attribute id="NbClosestVertices" type="int32" value="708" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Cloth_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="03b3cd0e-5b69-4c66-a0ab-d2688620625a" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Cloth_Mesh_LOD1.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="03b3cd0e-5b69-4c66-a0ab-d2688620625a" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Mesh_LOD1.3" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Panties" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.66428167 1.0228435 0.12384275" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.66428167 0.07528309 -0.13503124" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="10f19f3a-138b-4d88-be6a-0669e2041e8f" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_Bracers" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Bracers.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Bracers.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4a69793b-650f-4188-8762-173217c2d710" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Bracers.AZER_M_ARM_Bracers_Footwear_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.66428167 1.0228435 0.12384275" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.66428167 0.07528309 -0.13503124" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="bffdd8e2-1809-49dd-86bc-ea54fefefb26" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="AZER_M_ARM_Footwear" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Footwear.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Footwear.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4a69793b-650f-4188-8762-173217c2d710" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Footwear.AZER_M_ARM_Bracers_Footwear_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -49,78 +852,6 @@
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Enkindler_Conduit_BodyBelt_A.AZER_M_ARM_CONDUIT_Shoulderpad_Mesh.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
-						</node>
-					</children>
-				</node>
-				<node id="Resource">
-					<attribute id="AttachBone" type="FixedString" value="" />
-					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
-					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.66428167 1.0228435 0.12384275" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.66428167 0.07528309 -0.13503124" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
-					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="ec1f2b56-9042-4051-8539-8316870fecb2" />
-					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_M_ARM_Enkindler_Conduit_Anklets_A" />
-					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-					<attribute id="RemapperSlotId" type="FixedString" value="" />
-					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
-					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="Body" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Enkindler_Conduit_Anklets_A.GR2" />
-					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Enkindler_Conduit_Anklets_A.Dummy_Root.0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
-					<children>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="" />
-						</node>
-						<node id="Base" />
-						<node id="ClothProxyMapping" />
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a47e53e3-aa28-c77d-fb73-a343a6018d5e" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Enkindler_Conduit_Anklets_A.AZER_M_ARM_CONDUIT_Footwear_A_Mesh.0" />
-						</node>
-					</children>
-				</node>				
-				<node id="Resource">
-					<attribute id="AttachBone" type="FixedString" value="" />
-					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
-					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.66428167 1.0228435 0.12384275" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.66428167 0.07528309 -0.13503124" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
-					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="ce392f03-b58f-457b-b569-dddfd41a45ea" />
-					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_M_ARM_Enkindler_Conduit_Bracers_A" />
-					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-					<attribute id="RemapperSlotId" type="FixedString" value="" />
-					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
-					<attribute id="SkeletonSlot" type="FixedString" value="" />
-					<attribute id="Slot" type="FixedString" value="Body" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Enkindler_Conduit_Bracers_A.GR2" />
-					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Enkindler_Conduit_Bracers_A.Dummy_Root.0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
-					<children>
-						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="" />
-						</node>
-						<node id="Base" />
-						<node id="ClothProxyMapping" />
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="a47e53e3-aa28-c77d-fb73-a343a6018d5e" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Enkindler_Conduit_Bracers_A.AZER_M_ARM_CONDUIT_Bracers_A_Mesh.0" />
 						</node>
 					</children>
 				</node>

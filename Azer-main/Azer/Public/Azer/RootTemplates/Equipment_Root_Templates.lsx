@@ -166,10 +166,10 @@
 											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" /> <!--Dwarf Male-->
 											<children>	
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="83af5f22-fa04-40ca-9b27-da83c0f0f031" /><!--AZER_M_ARM_Enkindler_Conduit_BodyBelt_A-->
+													<attribute id="Object" type="FixedString" value="83af5f22-fa04-40ca-9b27-da83c0f0f031" />
 												</node>		
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="581d6b24-ad2d-6586-3e91-19a02dbbd0bb" /> <!--AZER_M_ARM_Body_A-->
+													<attribute id="Object" type="FixedString" value="f8c2ab8f-7307-483f-9b4c-c6abe9a08374" />
 												</node>												
 											</children>
 										</node>											
@@ -325,7 +325,7 @@
 											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" /> <!--Dwarf Male-->
 											<children>	
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="ec1f2b56-9042-4051-8539-8316870fecb2" /><!--AZER_M_ARM_Enkindler_Conduit_Anklets_A-->
+													<attribute id="Object" type="FixedString" value="bffdd8e2-1809-49dd-86bc-ea54fefefb26" />
 												</node>													
 											</children>
 										</node>											
@@ -482,7 +482,7 @@
 											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" /> <!--Dwarf Male-->
 											<children>	
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="ce392f03-b58f-457b-b569-dddfd41a45ea" /><!--AZER_M_ARM_Enkindler_Conduit_Bracers_A-->
+													<attribute id="Object" type="FixedString" value="10f19f3a-138b-4d88-be6a-0669e2041e8f" />
 												</node>													
 											</children>
 										</node>											
