@@ -8,7 +8,7 @@
 				<!--Female Azer Head Skin 1-->
 					<attribute id="ID" type="FixedString" value="c331bc96-a4c3-45c7-a55c-b596225c3bc3" />
 					<attribute id="Name" type="LSString" value="AZER_WARFORGED_Skin_v1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_TATTOO_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
 					<attribute id="MaterialType" type="uint8" value="4" />
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<children>
@@ -188,7 +188,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 					<attribute id="Name" type="LSString" value="AZER_WARFORGED_Skin_v2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_TATTOO_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
 					<attribute id="MaterialType" type="uint8" value="4" />
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<children>
@@ -548,7 +548,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
 					<attribute id="Name" type="LSString" value="AZER_WARFORGED_Skin_v1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_TATTOO_CHAR_BASE_AlphaTest_GM_MSK_VT.lsf" />
 					<attribute id="MaterialType" type="uint8" value="4" />
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<children>
