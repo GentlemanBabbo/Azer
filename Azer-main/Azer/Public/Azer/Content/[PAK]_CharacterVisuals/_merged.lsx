@@ -43,7 +43,7 @@
 									</children>
 								</node>
 								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="MakeUpIndex" />
@@ -117,7 +117,7 @@
 									</children>
 								</node>
 								<node id="ScalarParameters">
-									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="True" />
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="MakeUpIndex" />
