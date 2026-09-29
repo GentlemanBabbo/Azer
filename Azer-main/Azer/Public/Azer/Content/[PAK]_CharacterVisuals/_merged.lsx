@@ -42,6 +42,13 @@
 										</node>
 									</children>
 								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeUpIndex" />
+									<attribute id="Value" type="float" value="8" />
+								</node>
 							</children>
 						</node>
 						<node id="Slots">
@@ -109,6 +116,13 @@
 										</node>
 									</children>
 								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="MakeUpIndex" />
+									<attribute id="Value" type="float" value="8" />
+								</node>								
 							</children>
 						</node>
 						<node id="Slots">
@@ -134,7 +148,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="9da31fcd-64ea-40a9-8284-333da1f22d28" />
+							<attribute id="VisualResource" type="FixedString" value="abc0c2b0-851b-409e-9dc6-653580891289" />
 						</node>
 					</children>
 				</node>
