@@ -8,7 +8,7 @@
 					<attribute id="ID" type="FixedString" value="e909fd70-22d3-4236-b33c-8f583dda6ba2" /> 
 					<!-- vanilla material UUID 14371095-5064-c0e5-7193-61192a0eee1d -->
 					<attribute id="Name" type="LSString" value="VFX_Model_AlphaBlend_Unlit_Emissive_TwoSided_UvDistortion_AlphaErosion_GradientMap_WPO_Fire_Beam_001_000" />
-					<attribute id="SourceFile" type="LSString" value="Public/LYN_Shaders_020bb854-8d98-3aa1-895e-82a3792417c8/Assets/Materials/Effects/Model/VFX_Model_AlphaBlend_Unlit_Emissive_TwoSided_UvDistortion_AlphaErosion_GradientMap_WPO_01.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_VFX_Model_AlphaBlend_Unlit_Emissive_TwoSided_UvDistortion_AlphaErosion_GradientMap_WPO_01.lsf" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<children>
@@ -322,7 +322,7 @@
 					<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 					<!-- vanilla material UUID 90a87f51-779c-9805-d0f0-c6f022e9d7ca -->
 					<attribute id="Name" type="LSString" value="VFX_Model_AlphaBlend_Unlit_Emissive_WPO_Distortion_GradientMap_01_Azer_HairFX_000" />
-					<attribute id="SourceFile" type="LSString" value="Public/LYN_Shaders_020bb854-8d98-3aa1-895e-82a3792417c8/Assets/Materials/Effects/Model/VFX_Model_AlphaBlend_Unlit_Emissive_WPO_Distortion_GradientMap_01.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Azer/Assets/Materials/Characters/WARFORGED_VFX_Model_AlphaBlend_Unlit_Emissive_WPO_Distortion_GradientMap_01.lsf" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<children>
