@@ -51,7 +51,7 @@
 											<attribute id="MaterialResource" type="FixedString" value="" />
 											<children>
 												<node id="MaterialPresets" />
-												<node id="Vector3Parameters"> RGB colors in decimals
+												<node id="Vector3Parameters">
 													<attribute id="Color" type="bool" value="True" />
 													<attribute id="Custom" type="bool" value="True" />
 													<attribute id="Enabled" type="bool" value="True" />
@@ -164,15 +164,23 @@
 									<children>	
 										<node id="Object">
 											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" /> <!--Dwarf Male-->
-											<children>	
+											<children>
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="83af5f22-fa04-40ca-9b27-da83c0f0f031" />
-												</node>		
+												</node>
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="f8c2ab8f-7307-483f-9b4c-c6abe9a08374" />
-												</node>												
+												</node>
 											</children>
-										</node>											
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" /> <!--Dwarf Female-->
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="0bc9a75b-b8ad-4629-a00a-83e5f72657e9" />
+												</node>
+											</children>
+										</node>
 									</children>
 								</node>
 							</children>
@@ -210,7 +218,7 @@
 											<attribute id="MaterialResource" type="FixedString" value="" />
 											<children>
 												<node id="MaterialPresets" />
-												<node id="Vector3Parameters"> RGB colors in decimals
+												<node id="Vector3Parameters">
 													<attribute id="Color" type="bool" value="True" />
 													<attribute id="Custom" type="bool" value="True" />
 													<attribute id="Enabled" type="bool" value="True" />
@@ -328,7 +336,15 @@
 													<attribute id="Object" type="FixedString" value="bffdd8e2-1809-49dd-86bc-ea54fefefb26" />
 												</node>													
 											</children>
-										</node>											
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" /> <!--Dwarf Female-->
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="77f415e3-84ba-4ba8-8884-c4e6bb57ee55" />
+												</node>
+											</children>
+										</node>
 									</children>
 								</node>
 							</children>
@@ -367,7 +383,7 @@
 											<attribute id="MaterialResource" type="FixedString" value="" />
 											<children>
 												<node id="MaterialPresets" />
-												<node id="Vector3Parameters"> RGB colors in decimals
+												<node id="Vector3Parameters">
 													<attribute id="Color" type="bool" value="True" />
 													<attribute id="Custom" type="bool" value="True" />
 													<attribute id="Enabled" type="bool" value="True" />
@@ -484,6 +500,14 @@
 												<node id="MapValue">
 													<attribute id="Object" type="FixedString" value="10f19f3a-138b-4d88-be6a-0669e2041e8f" />
 												</node>													
+											</children>
+										</node>
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" /> <!--Dwarf Female-->
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="769261fb-e471-4209-b830-8185016789c7" />
+												</node>
 											</children>
 										</node>											
 									</children>
