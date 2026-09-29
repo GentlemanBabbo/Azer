@@ -158,7 +158,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="6c0dd9ad-828c-4c4a-911e-ca7649d9864b" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="36815c8f-e850-48ee-98db-00594ff3b370" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -518,7 +518,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="36815c8f-e850-48ee-98db-00594ff3b370" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -698,7 +698,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="36815c8f-e850-48ee-98db-00594ff3b370" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -878,7 +878,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="36815c8f-e850-48ee-98db-00594ff3b370" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1058,7 +1058,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="36815c8f-e850-48ee-98db-00594ff3b370" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -2375,7 +2375,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="6c0dd9ad-828c-4c4a-911e-ca7649d9864b" />
+					<attribute id="ID" type="FixedString" value="36815c8f-e850-48ee-98db-00594ff3b370" />
 					<attribute id="Name" type="LSString" value="Azer_F_NKD_Head_A_GM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Heads/AZER_F_NKD_Head_A_GM.DDS" />
