@@ -585,9 +585,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Body" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/SharedDev/Assets/Characters/_Models/_Creatures/Azer/_Male/Resources/AZER_M_ARM_Body_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/SharedDev/Assets/Characters/_Models/_Creatures/Azer/_Male/Resources/AZER_M_ARM_Body_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Armor/AZER_M_ARM_Body_A.Dummy_Root.0" />
 					<children>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
@@ -681,9 +681,9 @@
 										<node id="MapValue">
 											<children>
 												<node id="Object">
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNp103tTkkEYhvHHU5qiIqSlaGEZauUhU8vyFJaAiQJKSSrK9/8QtXvtOtwz7+gMPx/Xl4U/rufU/rmfAzzD73iBRWxiycp2bE07cb+/crKPFfyF/n9N22OuW8M9f8i8i8fRktVth/lbvNl7GW8I7/X+xCP8gWX3Xv8Zfv6EVazhOf7GW/yDV9iItt2nt+3a/ORPrqNta9kG82fcxBu8w3v8iy3sRFvuPv/q2BYn2/gFn+JoNGV91su8gL3u75w79fMb9E+M2iCzYT8u4Qjm8RX24XCcU+72HuYhXMYnOIcD+BLn8TW+wxymcRpn48mY+545S7v7M5xM4TOciCcZ91TGppxjnIyjP0tbgXkRn+NHXMe3uIovcBKzOINruILv8YPUdSgNn0o/tURFRem8nigzdFuKvXWrC/0fSLd7simXsgUV2YUT2aCwO6GQsEE7skdVqVpLvpKSb6XhhnQbGm5HfdubUvKGdHsvPd/Ekn23ndhvt21tOBdb7TY5K/WGKlLS+Yh0G5oPVYdWe6TVfKLA0Pmg7M6Q1D4vVc9J21r1sGzTgnQyLW2Hniek4dBzJlHyQ8PdkkPDBSl5XXpOlpyVnh8r+T9L8Uos" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNq9lAFTUkEURlcsTVMiSqywNDMhsSwVTMmsLEQLC9LISJL//yNq97vP4dQbiMaZdN7xsjye7L3fnqz76X9S4m1xRrwlPhIXxbuiExNi1qVcwl9Jl/VX2ldWp/Vu2mX8q0x0/7BfN066Cf/X7rQnZPEdros3xYx/UtK9U208FD+Jr8SP4gexJq6JL8SyWBQ3xLqruIb/DXXDtV14beuBFbfnVxrowCKYE/PojN2zJC6L8+KCOIe+zaDD1sOr6OR5Z0K9KZZAe8IDPPm9uC9+Fo+i7x+4h71UVVd9feCvqt/tgeexZ1g/jl6F+qn4TJwWn4gPxTviDXFFHPZzTGiWYaK2EjiEfdlOL4uXxBGx7Vq+yy3f/xN/hZWW+CWaS3eydUy/gukfYuI13N8UT8UT/x86roiuWh620Ftb2UZmXoo7yNhr1G/FN+KuOCpeEe+J98VZcVwcQx7mwTzWlzDfHBJVAB/j3fMkt5VYS3KYeCfae2DHhR58U/1V/C7+EM/EVZya5zgp6zhZa1i3Ll0Tp2L2SEZm6K6k/qNV+NnBrcJEDWKVIpKzgXT9PhFa5e9uyWOycbcULmQY61KoaZitC3hmHwlZjZL25073IvMM6h/Lqs1xHEaahpf6GykTm/Iy+sZdH2FHU9E36eZ/FKai5U5huQkkdijmuhEYz1zXxOnr7706EljpkVIarwbjNXG6ab9yj7mXkertge23Cwcu9HDgLEzY34FzyP8gDszBhDxxzK3lilY8Q0otaWbIf3XjOk59LzcysSX0cAd9js9iDGd2BXssYS6b6MMkZlGIOZnuNSf/Auc2/+w=" />
 													<attribute id="Name" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Mesh.1" />
-													<attribute id="NbClosestVertices" type="int32" value="708" />
+													<attribute id="NbClosestVertices" type="int32" value="1269" />
 												</node>
 											</children>
 										</node>
@@ -695,9 +695,9 @@
 										<node id="MapValue">
 											<children>
 												<node id="Object">
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNptk4FSwjAQRE8QUUFLS6GgRUAtKCgo//9vuLeb2oiQyWZ7uVzCzLuNHfF7p77aC9Y1/Ru1siesK/qFrazCXEC/GfkKmZWtMd+wp90Pxh/h5/ZqXm9jfsMC1Tz6iPULNT4xVLm50Sv4WfdPVNWuojdIt7bBe18Yn7PynL6kLoOW9mxleM8DMqQPWGdQj9c6Q2xLv7M91j29n16ihrzqPyNXp2eMuC9NuuN/OuDf7ezA3TvqKOg91oT+ipogMsD0/UvzmPvE7qwD32VO33pYC/qe9bHfxm6B2WZ+wrMdnHE/Qoaf6zDfkFPg/DV229AupseveVY3Xtml3WB4fBA0swuMFF8XrOaRBC9NEM0sRyRn5hA+xRgykkEzRjLuptQM53K8wnjLGG7KuHTCr4m1EB+HNxf4GmJOuR6PLZtAx/iehJxbVrqlF10iTQxvIn7ERkyRqF4HKsRVQ6a4XfzjTapOEbcfEbd1v3gXqCPUC+J59ct2FQipO8i7QH0kkkV1THIZkbw8Q/KMLibZ2d5HJG8jbmOSxXZMb8PzX4YHgVVXMSkqRK+oEMOjiFJxK+ZFtVgVn2JVJMcEFqFrnF/1TidoQ6yoFs9i+y/V3gs126JFb06tZls8i1sxnAdW8xOSa4YbksWweI4Zrv0pya1wi3g+T/IPxXP6lg==" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNq1Vol22kAMFA3hSqmBlCvmcCCGhHKE/P+/bSXNrleuWyB9L3mPsTy7Fl5pNCSjlDY0pB/knGBCPRowZszmHCdUY3T8J3yNfjI6J9inhfLAF1rzdclcSi+01Vj4neJa8RfteNeO3njHQZmjXo90YnynM9+lyqf0REuKOGfM+JrxdcG40Ht5c+xBTDSmb/whants04ijsebEalvjjq50NG5Qne8aGt/RPe+6oxY1+axN5mp8TueaujpU7PIe5xKNE65Yj/DmZ2U++HosxciG/Jm+8StXdssozKrgc8JqOB14Oe+G73LfEcQB7bNSgQlNmZsqP+U750YaT7QufUbnBB/59LKOygKl98MCh5Ro7Nx3rQPOizo8eUz5uZBBmJnp3dLHUSE4V1CIKGJttIH9zzSjFT37/HP/DTOCTlBnKKdabfB7rzrR2LvGb16fosmtiXONc1Xxliv46k99r3yL+yb4wFhnrssqkR52jU6Ccuqqt9hfrLa9ugShw05Je4Lg06KKS69zywTNS3/nmmGu9UZlVvyRqmG+4pR9+PmSyTqZScQqeFQJcw2dD3i+ZdJlJ5iwKp238wVVN/0UwB/gFYPCQyRbv8L09DvC7ABxXigKJ80KX0q8O5XzX3ckq7RbHAkaO5i6fYUjjY0e/s+R4nctvEtYTyi7ROzj31xiUnjFZZf40/1aFHonzGX3Q6Xw/mWfCQ4z9D6DbHCbss9gEkQbM8OHXkT3QGWq3bcOs/Y+E92m6jOHyrnsiQ7GYfZ+53WfgcPAbco+80DBbW7xGTBBRZ9xmLJurzvMjOAzlx3mZOblXw5z+bcPzMnkt++AWqEyYdLjr9vGZ4jdtK5l3cy63GfdDBW43dNWJo6eUPY3PIteI0PDdBPzi6es9rZGaXszj8EtMctSm5HRLf5jgZ6hCjgqNGnVcjbKR85GUb3Evw8qX3233woYDpg=" />
 													<attribute id="Name" type="FixedString" value="AZER_M_ARM_Body_A.AZER_M_ARM_Body_A_Mesh_LOD1.3" />
-													<attribute id="NbClosestVertices" type="int32" value="708" />
+													<attribute id="NbClosestVertices" type="int32" value="1317" />
 												</node>
 											</children>
 										</node>
@@ -953,7 +953,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="4a69793b-650f-4188-8762-173217c2d710" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Bracers.AZER_M_ARM_Bracers_Footwear_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Bracers.AZER_M_ARM_Bracers_A_Mesh.0" />
 						</node>
 					</children>
 				</node>
@@ -1023,7 +1023,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="4a69793b-650f-4188-8762-173217c2d710" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Footwear.AZER_M_ARM_Bracers_Footwear_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_ARM_Footwear.AZER_M_ARM_Footwear_A_Mesh.0" />
 						</node>
 					</children>
 				</node>
