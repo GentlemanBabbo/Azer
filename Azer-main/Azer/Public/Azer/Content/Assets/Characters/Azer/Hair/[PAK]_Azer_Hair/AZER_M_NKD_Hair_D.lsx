@@ -36,14 +36,14 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+							<attribute id="MaterialID" type="FixedString" value="e909fd70-22d3-4236-b33c-8f583dda6ba2" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_D.AZER_M_NKD_Hair_D_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_D.AZER_M_NKD_Hair_D_VFX.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />

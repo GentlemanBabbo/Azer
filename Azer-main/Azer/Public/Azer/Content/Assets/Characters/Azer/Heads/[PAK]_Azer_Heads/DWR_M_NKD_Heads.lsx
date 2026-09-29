@@ -45,7 +45,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -60,7 +60,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
@@ -85,12 +85,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
 						</node>
 						<node id="Objects">
@@ -100,12 +100,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
 						</node>
 						<node id="Objects">
@@ -115,17 +115,17 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="ac36d972-183a-4fc8-810e-76c061d9f796" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
 						</node>
 					</children>
@@ -299,7 +299,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -314,7 +314,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
@@ -339,12 +339,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
 						</node>
 						<node id="Objects">
@@ -354,12 +354,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
 						</node>
 						<node id="Objects">
@@ -369,17 +369,17 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
 						</node>
 					</children>
@@ -426,7 +426,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -441,7 +441,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
@@ -466,12 +466,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
 						</node>
 						<node id="Objects">
@@ -481,12 +481,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
 						</node>
 						<node id="Objects">
@@ -496,17 +496,17 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="b98e33f2-3bbd-4bb0-a2a3-24800dcae667" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
 						</node>
 					</children>
@@ -553,7 +553,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -568,7 +568,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
@@ -593,12 +593,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
 						</node>
 						<node id="Objects">
@@ -608,12 +608,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
 						</node>
 						<node id="Objects">
@@ -623,17 +623,17 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="8b075b39-087e-45fb-b12e-528481ee00a7" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
 						</node>
 					</children>
@@ -680,7 +680,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -695,7 +695,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
@@ -720,12 +720,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD1.8" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
 						</node>
 						<node id="Objects">
@@ -735,12 +735,12 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD2.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
 						</node>
 						<node id="Objects">
@@ -750,17 +750,17 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD3.14" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="82b127db-4f3b-4e25-a556-6fbbbf38a32b" />
+							<attribute id="MaterialID" type="FixedString" value="5110b117-e769-46a2-bf66-af7e9f69a9aa" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh_LOD4.16" />
 						</node>
 					</children>

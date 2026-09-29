@@ -36,28 +36,28 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="14371095-5064-c0e5-7193-61192a0eee1d" />
+							<attribute id="MaterialID" type="FixedString" value="e909fd70-22d3-4236-b33c-8f583dda6ba2" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_C.AZER_M_NKD_Hair_C_Mesh.0" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_C.AZER_M_NKD_Hair_C_VFX.1" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="14371095-5064-c0e5-7193-61192a0eee1d" />
+							<attribute id="MaterialID" type="FixedString" value="e909fd70-22d3-4236-b33c-8f583dda6ba2" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_C.AZER_M_NKD_Hair_C_Eyebrow_Mesh.2" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Hair_C.AZER_M_NKD_Hair_C_Eyebrow_VFX.3" />
 							<attribute id="Physics" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="" />
