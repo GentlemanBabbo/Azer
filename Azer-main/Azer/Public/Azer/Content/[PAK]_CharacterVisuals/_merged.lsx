@@ -148,7 +148,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="abc0c2b0-851b-409e-9dc6-653580891289" />
+							<attribute id="VisualResource" type="FixedString" value="18b4c211-bea4-4546-ab3b-ced7d67247d7" />
 						</node>
 					</children>
 				</node>
