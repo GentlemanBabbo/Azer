@@ -1646,7 +1646,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Head_J.AZER_F_NKD_Head_J_Eyelashes_Mesh.5" />
 						</node>
 					</children>

@@ -81,7 +81,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_A.DWR_F_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -219,7 +219,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_B.DWR_F_NKD_Head_B_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -357,7 +357,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_C.DWR_F_NKD_Head_C_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -492,7 +492,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_D.DWR_F_NKD_Head_D_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -630,7 +630,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_E.DWR_F_NKD_Head_E_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -768,7 +768,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_F.DWR_F_NKD_Head_F_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -906,7 +906,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_G.DWR_F_NKD_Head_G_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -1044,7 +1044,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_H.DWR_F_NKD_Head_H_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
@@ -1182,7 +1182,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="90a87f51-779c-9805-d0f0-c6f022e9d7ca" />
+							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Head_Nettie.DWR_F_NKD_Head_Nettie_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">

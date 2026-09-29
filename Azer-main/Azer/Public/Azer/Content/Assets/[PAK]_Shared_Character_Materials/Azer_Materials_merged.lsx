@@ -518,7 +518,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="2dfe22c3-f5da-46d7-9b91-addadb98329c" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -698,7 +698,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="2dfe22c3-f5da-46d7-9b91-addadb98329c" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -878,7 +878,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="2dfe22c3-f5da-46d7-9b91-addadb98329c" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1058,7 +1058,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="ID" type="FixedString" value="2dfe22c3-f5da-46d7-9b91-addadb98329c" /> // GLOW MAP UUID GOES HERE
+							<attribute id="ID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" /> // GLOW MAP UUID GOES HERE
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
