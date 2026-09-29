@@ -38,7 +38,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="36b85265-4907-4c51-b141-49dfc2aa0f2f" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="3343577a-4eab-4885-81cc-41d1bc063034" />
 										</node>
 									</children>
 								</node>
@@ -105,7 +105,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="36b85265-4907-4c51-b141-49dfc2aa0f2f" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="3343577a-4eab-4885-81cc-41d1bc063034" />
 										</node>
 									</children>
 								</node>
