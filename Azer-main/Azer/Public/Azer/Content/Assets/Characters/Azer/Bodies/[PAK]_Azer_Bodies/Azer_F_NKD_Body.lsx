@@ -1672,9 +1672,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="4b92327f-0dee-ee91-60e3-c764920db879" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Dwarves/_Female/Resources/DWR_F_NKD_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Body/AZER_F_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Dwarves/_Female/Resources/DWR_F_NKD_Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -1687,6 +1687,31 @@
 							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_NKD_Body_A.AZER_F_NKD_Body_A_Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Body_A.DWR_F_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Body_A.DWR_F_NKD_Body_A_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Body_A.DWR_F_NKD_Body_A_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Body_A.DWR_F_NKD_Body_A_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="dc316757-7692-479c-bf96-c0ac4c4cf463" />
+							<attribute id="ObjectID" type="FixedString" value="DWR_F_NKD_Body_A.DWR_F_NKD_Body_A_Mesh_LOD4.4" />
+						</node>						
 					</children>
 				</node>
 			</children>
