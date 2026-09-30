@@ -21,7 +21,7 @@
 					<attribute id="Name" type="LSString" value="AZER_M_NKD_Eyebrows_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="Radius" type="float" value="0.28965703" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6c7f8990-a611-9cab-2607-9130fa7fcc1b" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Horns" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
