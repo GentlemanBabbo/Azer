@@ -461,17 +461,17 @@
 						<attribute id="UUID" type="guid" value="25557723-d6c7-4de4-b142-98177e1494b3"/>
 						<attribute id="VisualResource" type="guid" value="5bf14168-0ebd-4c85-9f3f-4ab5dd6b51b4"/>
 				</node>											
-        <!--Horns-->
+        <!--Eyebrows-->
 		<!--male-->
-				<node id="CharacterCreationAppearanceVisual"> Azer_M_Horns_A
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Eyebrows_A
 						<attribute id="BodyShape" type="uint8" value="0"/>  
 						<attribute id="BodyType" type="uint8" value="0"/>  
-			            <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+			            <attribute id="DisplayName" type="TranslatedString" handle="h397dc542dccb4fa79ad8204c0d15ad9dc617" version="1"/> 
 						<attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
 						<attribute id="SlotName" type="FixedString" value="Horns"/>
 						<attribute id="UUID" type="guid" value="dbc58d53-5d70-498d-9975-212f7066ec99"/>
-						<attribute id="VisualResource" type="guid" value="e6ee230d-d217-433e-a400-5f1d76df0d44"/>
+						<attribute id="VisualResource" type="guid" value="6f39c71b-cd0b-4cc7-96e8-e7343c418955"/>
 				</node>
 
 		<!--female-->  

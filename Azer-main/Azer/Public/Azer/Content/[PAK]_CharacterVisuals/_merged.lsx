@@ -150,6 +150,11 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="18b4c211-bea4-4546-ab3b-ced7d67247d7" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="6f39c71b-cd0b-4cc7-96e8-e7343c418955" />
+						</node>						
 					</children>
 				</node>
 			</children>
