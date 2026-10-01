@@ -492,7 +492,17 @@
 						<attribute id="SlotName" type="FixedString" value="Horns"/>
 						<attribute id="UUID" type="guid" value="0c92d5c0-227d-45a5-be6a-ce340fb6700a"/>
 						<attribute id="VisualResource" type="guid" value="4361c670-e57e-4bea-8d13-6c2d6066d9a3"/>
-				</node>				
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Eyebrows_D
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="0"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="h86a4d8e7a2154402853127f7cdfa6a279fe4" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="58ae0396-b96f-4fef-a063-3769b3b473e1"/>
+						<attribute id="VisualResource" type="guid" value="569ad96d-4eb3-4826-9c21-b9826f8195bd"/>
+				</node>										
 		<!--female-->  
     <!--Genitals-->
         <!--Fake Genitals-->
