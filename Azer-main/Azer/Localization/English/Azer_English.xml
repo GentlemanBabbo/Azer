@@ -63,7 +63,7 @@
 	<!--Beards loca-->
 	<content contentuid="hc1b09bb885ab42eb9c0871619c812cc0b2e4" version="1">Crackling</content>
 	<content contentuid="hf04071f51e5f4a479af52af13b57fe56be22" version="1">Wicked Embers</content>
-	<content contentuid="h0e40ee5786fe4e779d5a6a05f1241be85f49" version="1">Pincers</content>
+	<content contentuid="h0e40ee5786fe4e779d5a6a05f1241be85f49" version="1">Brass Noble</content>
 	<content contentuid="he8ebfcebd4584c1c862383e39926f9f40d4c" version="1">The Merchant</content>
 	<content contentuid="he5efd1d3b3f14c5a9e4e8c53b01dd58dde1g" version="1">Efreeti Eater</content>	
 	<content contentuid="h9d346f58a4fc4da8a852ed538c460ac00cfc" version="1">Mishima-Style</content>
@@ -110,8 +110,8 @@
 	<!--Eyebrows loca-->
 	<!--Male Eyebrows-->
 	<content contentuid="h397dc542dccb4fa79ad8204c0d15ad9dc617" version="1">Candlelight</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hceef95fee96d426d8712ef463f40829721ac" version="1">Whispering Heat</content>
+	<content contentuid="ha7eccf1638d548b9a748eaae4b51c550c83g" version="1">Cruelty</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<!--Female Eyebrows-->

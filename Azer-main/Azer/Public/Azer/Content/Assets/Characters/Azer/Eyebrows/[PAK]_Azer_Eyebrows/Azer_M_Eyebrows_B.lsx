@@ -14,20 +14,20 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="6f39c71b-cd0b-4cc7-96e8-e7343c418955" />
+					<attribute id="ID" type="FixedString" value="a9df5962-d8a9-40ca-9f06-16e147932d50" />
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_M_NKD_Eyebrows_A" />
+					<attribute id="Name" type="LSString" value="AZER_M_NKD_Eyebrows_B" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="Radius" type="float" value="0.28965703" />
 					<attribute id="SkeletonResource" type="FixedString" value="d4978564-c94a-dcf9-65af-c02a17b82ae0" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Horns" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Eyebrows/AZER_M_NKD_Eyebrows_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Eyebrows/AZER_M_NKD_Eyebrows_B.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Eyebrows/AZER_M_NKD_Eyebrows_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Eyebrows/AZER_M_NKD_Eyebrows_B.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960757860" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -37,12 +37,12 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="e909fd70-22d3-4236-b33c-8f583dda6ba2" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Eyebrows_A.AZER_M_NKD_Eyebrows_A_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Eyebrows_B.AZER_M_NKD_Eyebrows_B_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Eyebrows_A.AZER_M_NKD_Eyebrows_A_VFX.1" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Eyebrows_B.AZER_M_NKD_Eyebrows_B_VFX.1" />
 						</node>
 					</children>
 				</node>

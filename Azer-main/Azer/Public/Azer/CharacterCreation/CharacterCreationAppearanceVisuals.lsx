@@ -473,7 +473,26 @@
 						<attribute id="UUID" type="guid" value="dbc58d53-5d70-498d-9975-212f7066ec99"/>
 						<attribute id="VisualResource" type="guid" value="6f39c71b-cd0b-4cc7-96e8-e7343c418955"/>
 				</node>
-
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Eyebrows_B
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="0"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="hceef95fee96d426d8712ef463f40829721ac" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="75431ec9-de59-49f4-adea-16c3ed43419c"/>
+						<attribute id="VisualResource" type="guid" value="a9df5962-d8a9-40ca-9f06-16e147932d50"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Eyebrows_C
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="0"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="ha7eccf1638d548b9a748eaae4b51c550c83g" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="0c92d5c0-227d-45a5-be6a-ce340fb6700a"/>
+						<attribute id="VisualResource" type="guid" value="4361c670-e57e-4bea-8d13-6c2d6066d9a3"/>
+				</node>				
 		<!--female-->  
     <!--Genitals-->
         <!--Fake Genitals-->
