@@ -21,7 +21,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="d4978564-c94a-dcf9-65af-c02a17b82ae0" />
+					<attribute id="SkeletonResource" type="FixedString" value="7f882972-b3db-46c9-e25b-d1bb03fb4992" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
