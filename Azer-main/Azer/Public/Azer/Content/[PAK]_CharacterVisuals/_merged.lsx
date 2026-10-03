@@ -133,7 +133,7 @@
 						<node id="Slots"> 
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Beard" />
-							<attribute id="VisualResource" type="FixedString" value="a2662528-8a5d-40f3-a0ac-21def716f23a" />
+							<attribute id="VisualResource" type="FixedString" value="d67c44fa-eb4b-4092-9579-ae13bd94b907" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -148,12 +148,12 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="18b4c211-bea4-4546-ab3b-ced7d67247d7" />
+							<attribute id="VisualResource" type="FixedString" value="a4106fb0-a7b4-4792-8513-24352c3217c8" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Horns" />
-							<attribute id="VisualResource" type="FixedString" value="569ad96d-4eb3-4826-9c21-b9826f8195bd" />
+							<attribute id="VisualResource" type="FixedString" value="6de7f5e1-26e3-4cb1-bf96-45f989dc5507" />
 						</node>						
 					</children>
 				</node>
