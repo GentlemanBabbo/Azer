@@ -45,6 +45,11 @@
 							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Beard_G.AZER_M_NKD_Beard_G_VFX.1" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f8f4ad0c-dbc9-216a-4155-3164b2d704e0" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Beard_G.AZER_M_NKD_Beard_G_Accessory.2" />
+						</node>						
 					</children>
 				</node>
 			</children>
