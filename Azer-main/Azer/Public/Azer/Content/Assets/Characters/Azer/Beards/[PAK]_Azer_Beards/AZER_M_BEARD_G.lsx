@@ -21,7 +21,7 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
 					<attribute id="Radius" type="float" value="0.2880241" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="3e6dba32-dbab-5666-2720-0e2f999a753b" />
+					<attribute id="SkeletonResource" type="FixedString" value="7f882972-b3db-46c9-e25b-d1bb03fb4992" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Beard" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -44,12 +44,7 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="1ec780c3-4204-4df4-a12d-15d102f3cb28" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Beard_G.AZER_M_NKD_Beard_G_VFX.1" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f8f4ad0c-dbc9-216a-4155-3164b2d704e0" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_M_NKD_Beard_G.AZER_M_NKD_Beard_G_Accessory.2" />
-						</node>						
+						</node>					
 					</children>
 				</node>
 			</children>
