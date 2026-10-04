@@ -410,6 +410,16 @@
 						<attribute id="UUID" type="guid" value="b94b97c1-7542-4d06-8620-fb3ff40a0310"/>
 						<attribute id="VisualResource" type="guid" value="18b4c211-bea4-4546-ab3b-ced7d67247d7"/>
 				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Hair_H
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="0"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="h2c05eb45ecd1445189e6b9f150bf5a785c0e" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Hair"/>
+						<attribute id="UUID" type="guid" value="5f8e4db1-e66f-47c5-84e5-e7ea63c78e12"/>
+						<attribute id="VisualResource" type="guid" value="da19bbb1-8d70-4388-9317-0dfe89527fe2"/>
+				</node>				
         <!--female-->
 				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_A
 						<attribute id="BodyShape" type="uint8" value="0"/>  
@@ -484,7 +494,7 @@
 				<node id="CharacterCreationAppearanceVisual"> Azer_F_Hair_H
 						<attribute id="BodyShape" type="uint8" value="0"/>  
 						<attribute id="BodyType" type="uint8" value="1"/>  
-			            <attribute id="DisplayName" type="TranslatedString" handle="hb045182b54f143759f23912e44aaa2ca8a5a" version="1"/> 
+			            <attribute id="DisplayName" type="TranslatedString" handle="he0289abadbf24a029e953bdc0a77c89bec96" version="1"/> 
 						<attribute id="IconIdOverride" type="FixedString" value=""/>
           				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
 						<attribute id="SlotName" type="FixedString" value="Hair"/>
