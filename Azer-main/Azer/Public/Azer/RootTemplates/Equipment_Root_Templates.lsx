@@ -4,6 +4,176 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>	
+				<node id="GameObjects"> <!--Smithy Starter Armor-->
+					<attribute id="Description" type="TranslatedString" handle="hde2e451319a044fd8778ede84128642d78cg" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h55da7fcc9e1942efb7f856081714a695bd73" version="1" />				
+					<attribute id="Icon" type="FixedString" value="SEM_Item_SEM_ARM_Enkindler_Smithy_Apron" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bb9f3ef8-7d6d-4537-aec8-170f61deffe4" />
+					<attribute id="Name" type="LSString" value="SEM_Item_SEM_ARM_Enkindler_Smithy_Apron" />
+					<attribute id="ParentTemplateId" type="FixedString" value="21f0dd84-6f02-4be9-8654-4cebd00dcbaf" />
+					<attribute id="Stats" type="FixedString" value="SEM_ARM_Enkindler_Smithy_Apron" />					
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="2" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace" />							
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="Body" />
+								</node>				
+								<node id="VisualSet">
+									<attribute id="BodySetVisual" type="FixedString" value="" />
+									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+									<children>
+										<node id="MaterialOverrides">
+											<attribute id="MaterialResource" type="FixedString" value="" />
+											<children>
+												<node id="MaterialPresets" />
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3" value="0.03 0.00 0.00" /> 
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3" value="0.01 0.00 0.00" />
+												</node>												
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3" value="0.09 0.00 0.00" />
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
+													<attribute id="Value" type="fvec3" value="0.05 0.00 0.00" />
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
+													<attribute id="Value" type="fvec3" value="0.08 0.04 0.04" />
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
+													<attribute id="Value" type="fvec3" value="0.0 0.0 0.0" />
+												</node>												
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
+													<attribute id="Value" type="fvec3" value="0.05 0.05 0.05" />
+												</node>		
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
+													<attribute id="Value" type="fvec3" value="0.05 0.05 0.05" />
+												</node>													
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
+													<attribute id="Value" type="fvec3" value="0.03 0.03 0.03" />
+												</node>	
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_1" />
+													<attribute id="Value" type="fvec3" value="0.0 0.0 0.0" />
+												</node>	
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Custom_2" />
+													<attribute id="Value" type="fvec3" value="0.0 0.0 0.0" />
+												</node>	
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Accent_Color" />
+													<attribute id="Value" type="fvec3" value="0.05 0.01 0.01" />
+												</node>	
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_01" />
+													<attribute id="Value" type="fvec3" value="0.0 0.0 0.0" />
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_02" />
+													<attribute id="Value" type="fvec3" value="0.0 0.0 0.0" />
+												</node>
+												<node id="Vector3Parameters">
+													<attribute id="Color" type="bool" value="True" />
+													<attribute id="Custom" type="bool" value="True" />
+													<attribute id="Enabled" type="bool" value="True" />
+													<attribute id="Parameter" type="FixedString" value="Color_03" />
+													<attribute id="Value" type="fvec3" value="0.0 0.0 0.0" />
+												</node>												
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Visuals">
+									<children>	
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" /> <!--Dwarf Male-->
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="8a55ff14-a40d-49c9-93f5-3f5070cfaeca" /> <!--BS Body-->
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a291ab88-e49e-4f0d-ffdb-a930232bee15" /> <!--BS Pants-->
+												</node>									
+											</children>
+										</node>																																												
+										<node id="Object">
+											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" /> <!--Dwarf Female-->
+											<children>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="cc6290bc-af5d-ee94-d1e1-75cef05bc45e" /> <!--BS Body-->
+												</node>
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="da0466d4-1d44-5901-cfaa-412da5ffbe37" /> <!--BS Pants-->
+												</node>												
+											</children>
+										</node>							
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>				
 				<node id="GameObjects"> <!--Conduit Starter Warhammer-->
 					<attribute id="Description" type="TranslatedString" handle="h778343bb26ac4e5bbe3cdbe7d6d9619efa03" version="2" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h8a54158de4d0475f9a58fd9e9f304a7a6b5a" version="2" />
