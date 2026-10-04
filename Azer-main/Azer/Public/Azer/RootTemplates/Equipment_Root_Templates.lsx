@@ -319,10 +319,10 @@
 											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" /> <!--Dwarf Male-->
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5ef1958f-476e-4396-8a0a-dbb72346358e" /> <!--BS Body-->
+													<attribute id="Object" type="FixedString" value="5ef1958f-476e-4396-8a0a-dbb72346358e" /> <!--CN Body-->
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="eb46004d-4997-c764-c8ec-923035e01b51" /> <!--BS Pants-->
+													<attribute id="Object" type="FixedString" value="eb46004d-4997-c764-c8ec-923035e01b51" /> <!--CN Pants-->
 												</node>									
 											</children>
 										</node>																																												
@@ -330,10 +330,10 @@
 											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" /> <!--Dwarf Female-->
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="" /> <!--BS Body-->
+													<attribute id="Object" type="FixedString" value="" /> <!--CN Body-->
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="" /> <!--BS Pants-->
+													<attribute id="Object" type="FixedString" value="" /> <!--CN Pants-->
 												</node>												
 											</children>
 										</node>							
