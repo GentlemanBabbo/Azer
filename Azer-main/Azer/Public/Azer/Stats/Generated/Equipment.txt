@@ -32,7 +32,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
-add equipment entry "ARM_Boots_Metal"
+add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
 add equipment entry "SEM_ARM_Enkindler_CrysKnight_Collar"
 add equipmentgroup
