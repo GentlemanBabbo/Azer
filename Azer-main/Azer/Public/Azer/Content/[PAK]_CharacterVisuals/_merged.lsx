@@ -76,6 +76,11 @@
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Horns" />
+							<attribute id="VisualResource" type="FixedString" value="ea288b32-afbc-4f29-82ec-2edb38340d1a" />
+						</node>								
 					</children>
 				</node>
 				<node id="Resource"> <!-- Azer Male Standard -->
