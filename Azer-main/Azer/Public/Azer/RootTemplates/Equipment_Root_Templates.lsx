@@ -251,21 +251,21 @@
 													<attribute id="Custom" type="bool" value="True" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
-													<attribute id="Value" type="fvec3" value="0.03 0.03 0.03" />
+													<attribute id="Value" type="fvec3" value="0.1 0.1 0.1" />
 												</node>		
 												<node id="Vector3Parameters">
 													<attribute id="Color" type="bool" value="True" />
 													<attribute id="Custom" type="bool" value="True" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
-													<attribute id="Value" type="fvec3" value="0.05 0.05 0.05" />
+													<attribute id="Value" type="fvec3" value="0.1 0.1 0.1" />
 												</node>													
 												<node id="Vector3Parameters">
 													<attribute id="Color" type="bool" value="True" />
 													<attribute id="Custom" type="bool" value="True" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
-													<attribute id="Value" type="fvec3" value="0.03 0.03 0.03" />
+													<attribute id="Value" type="fvec3" value="0.1 0.1 0.1" />
 												</node>	
 												<node id="Vector3Parameters">
 													<attribute id="Color" type="bool" value="True" />
