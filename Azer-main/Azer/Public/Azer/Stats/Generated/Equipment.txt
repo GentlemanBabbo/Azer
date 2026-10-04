@@ -15,10 +15,6 @@ add equipment entry "SEM_ARM_Enkindler_Smithy_Apron"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Of_ChooseYourStats"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Of_ChooseYourHomeBrew"
-add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
@@ -36,15 +32,11 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
-add equipment entry "ARM_Boots_Leather"
+add equipment entry "ARM_Boots_Metal"
 add equipmentgroup
-add equipment entry "ARM_StuddedLeather_Body"
+add equipment entry "SEM_ARM_Enkindler_CrysKnight_Collar"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Of_ChooseYourStats"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Of_ChooseYourHomeBrew"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
@@ -72,10 +64,6 @@ add equipmentgroup
 add equipment entry "SEM_ARM_Enkindler_Conduit_Harness"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Of_ChooseYourStats"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Of_ChooseYourHomeBrew"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup

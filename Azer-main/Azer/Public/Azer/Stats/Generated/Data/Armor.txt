@@ -17,6 +17,22 @@ data "Armor Class Ability" "Dexterity"
 data "Proficiency Group" "LightArmor"
 
 <!--Crystal Knight-->
+new entry "SEM_ARM_Enkindler_CrysKnight_Collar"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "RootTemplate" "5643fb69-1aec-49d1-81a6-db28430ee23f"
+data "ArmorClass" "14"
+data "ValueLevel" "3"
+data "Weight" "12"
+data "Boosts" "IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)"
+data "ArmorType" "ScaleMail"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+data "MinLevel" "1"
+data "Armor Class Ability" "Dexterity"
+data "Ability Modifier Cap" "2"
+data "Proficiency Group" "MediumArmor"
 
 <!--Conduit-->
 new entry "SEM_ARM_Enkindler_Conduit_Harness"
