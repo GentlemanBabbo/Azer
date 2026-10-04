@@ -532,7 +532,7 @@
 						<attribute id="SlotName" type="FixedString" value="Horns"/>
 						<attribute id="UUID" type="guid" value="93db1bb4-b428-40cc-9c21-7c7b777a9a97"/>
 						<attribute id="VisualResource" type="guid" value="6de7f5e1-26e3-4cb1-bf96-45f989dc5507"/>
-				</node>				
+				</node>
 				<node id="CharacterCreationAppearanceVisual"> Azer_M_Eyebrows_F
 						<attribute id="BodyShape" type="uint8" value="0"/>  
 						<attribute id="BodyType" type="uint8" value="0"/>  
@@ -542,8 +542,68 @@
 						<attribute id="SlotName" type="FixedString" value="Horns"/>
 						<attribute id="UUID" type="guid" value="dfe06c78-3926-42a6-8dd8-fd63411a2e08"/>
 						<attribute id="VisualResource" type="guid" value="519ce6e7-a0bd-4c34-b3bb-e0bd1e2b077c"/>
-				</node>																	
-		<!--female-->  
+				</node>
+			<!--female-->  
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Eyebrows_A
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="1"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="h397dc542dccb4fa79ad8204c0d15ad9dc617" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="821673e3-7805-42f5-84f4-29a9644640b1"/>
+						<attribute id="VisualResource" type="guid" value="ea288b32-afbc-4f29-82ec-2edb38340d1a"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Eyebrows_B
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="1"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="hceef95fee96d426d8712ef463f40829721ac" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="f9fa929c-6f48-4ffe-92d5-c5b7294dadf9"/>
+						<attribute id="VisualResource" type="guid" value="56586757-7ea6-4563-ac13-303d086fdff3"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Eyebrows_C
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="1"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="ha7eccf1638d548b9a748eaae4b51c550c83g" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="2f026af9-f80f-48c4-a9fc-570688a3639c"/>
+						<attribute id="VisualResource" type="guid" value="1adfd2f9-dbe6-4f89-bb62-7348523f2e8b"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Eyebrows_D
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="1"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="h86a4d8e7a2154402853127f7cdfa6a279fe4" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="e0b35029-2f75-4837-917e-e4f0e803ceec"/>
+						<attribute id="VisualResource" type="guid" value="9a9f4621-7462-4ef1-b70e-52ac195aed34"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_F_Eyebrows_E
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="1"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="hf3672b99814a423cb66e5f11f2fc938dgbg3" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="5be75312-e47c-4f27-8316-646239133cb9"/>
+						<attribute id="VisualResource" type="guid" value="fc0a3643-d888-465d-875d-226996808671"/>
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> Azer_M_Eyebrows_F
+						<attribute id="BodyShape" type="uint8" value="0"/>  
+						<attribute id="BodyType" type="uint8" value="1"/>  
+			            <attribute id="DisplayName" type="TranslatedString" handle="h7736980807024c4a8666246c29baece43a84" version="1"/> 
+						<attribute id="IconIdOverride" type="FixedString" value=""/>
+          				<attribute id="RaceUUID" type="guid" value="83601a5f-0583-43dc-99a0-9d2f58cee9d5"/>
+						<attribute id="SlotName" type="FixedString" value="Horns"/>
+						<attribute id="UUID" type="guid" value="71bb6653-95b3-4c23-962e-596a27b4e80d"/>
+						<attribute id="VisualResource" type="guid" value="94b6ad34-f263-45e9-8fba-76a196d47eac"/>
+				</node>
     <!--Genitals-->
         <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> M
