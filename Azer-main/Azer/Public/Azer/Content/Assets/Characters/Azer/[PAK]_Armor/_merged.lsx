@@ -1005,9 +1005,9 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_ARM_CRYSKNIGHT_Body_A.DWR_F_ARM_Bane_Robe_Body_A_Cloth_Mesh.1" />
-						</node>
+							<attribute id="MaterialID" type="FixedString" value="b1e51915-14c3-8430-a06a-b4ed0801ae02" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_F_ARM_CRYSKNIGHT_Body_A.AZER_F_CLT_Halforcs_Bra_Mesh.1" />
+						</node>		
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c5dc00bf-a873-7f25-85cf-785c6bba5c2f" />
@@ -1017,12 +1017,7 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f428604f-623a-ba25-412e-c697c09f217d" />
 							<attribute id="ObjectID" type="FixedString" value="AZER_F_ARM_CRYSKNIGHT_Body_A.DEC_GEN_Statue_Balduran_Gem_A_Mesh.3" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b1e51915-14c3-8430-a06a-b4ed0801ae02" />
-							<attribute id="ObjectID" type="FixedString" value="AZER_F_ARM_CRYSKNIGHT_Body_A.AZER_F_CLT_Halforcs_Bra_Mesh.4" />
-						</node>						
+						</node>				
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
 						</node>
