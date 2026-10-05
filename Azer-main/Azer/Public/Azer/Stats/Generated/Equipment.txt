@@ -11,7 +11,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "WPN_HUM_LightHammer_B_0"
+add equipment entry "WPN_HUM_LightHammer_B_1"
 add equipmentgroup
 add equipment entry "SEM_ARM_Enkindler_Smithy_Apron"
 add equipmentgroup
@@ -36,9 +36,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "WPN_HUM_Morningstar_A_0"
-add equipmentgroup
-add equipment entry "WPN_HUM_Shield_A_2"
+add equipment entry "WPN_HUM_Warhammer_A_0"
 add equipmentgroup
 add equipment entry "SEM_ARM_Enkindler_CrysKnight_Collar"
 add equipmentgroup
