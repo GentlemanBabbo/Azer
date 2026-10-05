@@ -330,10 +330,10 @@
 											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" /> <!--Dwarf Female-->
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="" /> <!--CN Body-->
+													<attribute id="Object" type="FixedString" value="35c99ee1-02a5-46f6-b4b9-bf6ac4578599" /> <!--CN Body-->
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="" /> <!--CN Pants-->
+													<attribute id="Object" type="FixedString" value="da0466d4-1d44-5901-cfaa-412da5ffbe37" /> <!--CN Pants-->
 												</node>												
 											</children>
 										</node>							
