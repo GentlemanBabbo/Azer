@@ -71,10 +71,10 @@
                   <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor)"/> Adds resource, proficiency, etc.
                   <attribute id="Level" type="uint8" value="1"/> Class Level for this entry
                   <attribute id="Name" type="LSString" value="Enkindler"/> Name of the class, keep it consistent with class description
-                  <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_FlameCalling"/> most class features usually can be done with passives
                   <attribute id="PassivesRemoved" type="LSString" value=""/>
                   <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                  <attribute id="Selectors" type="LSString" value=""/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+                  <attribute id="Selectors" type="LSString" value="SelectSkills(f3f9357b-eee3-4ed4-834f-0c44169b4a0d,2);AddSpells(17e21a8e-cf03-4469-bf14-077a4a7cc857)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
                   <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                   <attribute id="UUID" type="guid" value="0bffe73c-7dec-42e2-960e-5c954ff09ce6"/>
                   <children>
@@ -99,10 +99,10 @@
                   <attribute id="IsMulticlass" type="bool" value="true"/>
                   <attribute id="Level" type="uint8" value="1"/>
                   <attribute id="Name" type="LSString" value="Enkindler"/>
-                  <attribute id="PassivesAdded" type="LSString" value=""/>
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_FlameCalling"/>
                   <attribute id="PassivesRemoved" type="LSString" value=""/>
                   <attribute id="ProgressionType" type="uint8" value="0"/>
-                  <attribute id="Selectors" type="LSString" value=""/>
+                  <attribute id="Selectors" type="LSString" value="AddSpells(17e21a8e-cf03-4469-bf14-077a4a7cc857)"/>
                   <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/>
                   <attribute id="UUID" type="guid" value="a594d543-06a6-4b07-b330-a74243599002"/>
                   <children>

@@ -154,8 +154,8 @@
 	<!--Weapons-->
 	<content contentuid="h8a54158de4d0475f9a58fd9e9f304a7a6b5a" version="1">Conduit's Warhammer</content>
 	<content contentuid="h778343bb26ac4e5bbe3cdbe7d6d9619efa03" version="1">This mallet strikes with unbearable force.</content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h9e1d5850abb44edebb281d688dfc5223d4ec" version="1">Blacksmith's Trusty Hammer</content>
+	<content contentuid="hc3de6fa549024786bd4058e9662ffb5e9d84" version="1">Stories of countless weapons and armor forged are nestled in the imperfections of this hammer.</content>
 	<!--Armor-->
 	<content contentuid="h0d53203f99d44fffb08f989826a2df07cb9c" version="1">Conduit's Harness</content>
 	<content contentuid="hc36149ea514946c892c1177d3e65eeaa6082" version="1">It doesn't take much to prepare you for conflict.</content>	
@@ -190,8 +190,8 @@
 	<content contentuid="hefb0e13c417542819bff319338d6cd86cg19" version="1">Crystal infused with the living flame, utilized by the Crystal Knight.</content>
 	<!--Class Passives-->
 		<!--Base Class-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
+	<content contentuid="h2f1c8f442fec4b30886c9ea4b4375d084fbe" version="1">The Flame's Calling</content>
+	<content contentuid="h2b98b22ce204487b91f34c02d11a914761f3" version="1">Attunement to the Forge has augmented your form. Non-Azer Enkindlers are resistant to Fire damage; Azer Enkindlers are immune to Fire damage.</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -276,8 +276,8 @@
 	<content contentuid="" version="1"></content>
 	<!--Class Spells-->
 		<!--Base Class-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
+	<content contentuid="hd762220b903048bcb6aba9152869c256dbfa" version="1">Fever Pitch</content>
+	<content contentuid="h370ba45f296643b490d82358d15ac5223009" version="1">Overload the Forge, resulting in an explosion for [2] damage, with you at the epicenter. Non-Azer Enkindlers suffer damage as well as those caught in the blast. Targets within range must roll a  &lt;LSTag Tooltip="Dexterity"&gt;Dexerity&lt;/LSTag&gt; saving throw; succeeding the roll reduces the damage suffered by half.</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

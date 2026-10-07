@@ -5,9 +5,15 @@
         <node id="root">
             <children>
                 <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Azer Skill List"/>
                     <attribute id="Skills" type="LSString" value="Arcana, Deception, Investigation, Survival, Insight, Performance, Persuasion"/> The list of skills to pick from
                     <attribute id="UUID" type="guid" value="e8726c9e-6c6e-4a6d-8426-58fd67948cce"/> The UUID, needs to be unique
-                </node>		
+                </node>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Enkindler Skill List"/>
+                    <attribute id="Skills" type="LSString" value="Arcana, Athletics, Intimidation, Insight, Perception, Survival"/>
+                    <attribute id="UUID" type="guid" value="f3f9357b-eee3-4ed4-834f-0c44169b4a0d"/>
+                </node>                		
             </children>
         </node>
     </region>

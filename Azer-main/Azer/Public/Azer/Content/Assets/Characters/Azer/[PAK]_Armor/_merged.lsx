@@ -566,7 +566,44 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-			<node id="Resource"> <!--Smithy Starter Gear-->
+				<node id="Resource"> <!--Weapons-->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.12043958 0.05926178 0.26813382" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.12336931 -0.040189292 -0.48720938" />
+					<attribute id="Center" type="fvec3" value="-0.0014648624 0.009536244 -0.10953778" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="e85b9937-731d-4718-ac89-7b0ee3d814ee" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="4" />
+					<attribute id="Name" type="LSString" value="SEM_Enkindler_Smithy_Lighthammer_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.39996144" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/[PAK]_Azer_Weapons/AZER_WEP_SMITH_Mallet_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/[PAK]_Azer_Weapons/AZER_WEP_SMITH_Mallet_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241409" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="c60e4072-9c25-d291-b731-63311970fa75" />
+							<attribute id="ObjectID" type="FixedString" value="AZER_WEP_SMITH_Mallet_A.TOOL_Masonry_Hammer_A_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>			
+				<node id="Resource"> <!--Smithy Starter Gear-->
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -853,7 +890,7 @@
 						</node>
 					</children>
 				</node>
-<node id="Resource">
+				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />

@@ -17,9 +17,9 @@
                 </node>
                 <!--Enkindler Class Spells-->
                 <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="f6f53409-8802-4790-b1d2-d4182ca15c48"/> the UUID, needs to be unique
+                    <attribute id="Comment" type="LSString" value="Level 1 Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_Fever_Pitch"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="17e21a8e-cf03-4469-bf14-077a4a7cc857"/> the UUID, needs to be unique
                 </node>                
             </children>
         </node>

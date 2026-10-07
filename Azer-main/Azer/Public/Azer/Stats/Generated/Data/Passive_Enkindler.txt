@@ -14,6 +14,16 @@ data "SpellCastingAbility" "Wisdom"
 data "Class" "Enkindler"
 data "Progressions" "885c3a8a-72fb-42e9-826e-8f04fb461953"
 
+new entry "Passive_FlameCalling"
+type "PassiveData"
+data "DisplayName" "h2f1c8f442fec4b30886c9ea4b4375d084fbe;3"
+data "Description" "h2b98b22ce204487b91f34c02d11a914761f3;4"
+data "Icon" "PassiveFeature_NaturalExplorer_WastelandWanderer_Fire"
+data "Properties" "Highlighted"
+data "Boosts" "IF(Tagged('AZER', context.Source)):Resistance(Fire, IMMUNE);IF(not Tagged('AZER',context.Source)):Resistance(Fire,Resistant)"
+
+
+
 <!--Resources-->
 new entry "AnvilUnlocked"
 type "PassiveData"
@@ -30,3 +40,15 @@ data "Description" "hefb0e13c417542819bff319338d6cd86cg19;1"
 data "Properties" "IsHidden"
 data "Icon" "PassiveFeature_MartialAdept"
 data "Boosts" "ActionResource(Gemstone,2,0)
+
+<!--Smithy Passives-->
+
+
+
+<!--Crystal Knight Passives-->
+
+
+
+<!--Conduit Passives-->
+
+

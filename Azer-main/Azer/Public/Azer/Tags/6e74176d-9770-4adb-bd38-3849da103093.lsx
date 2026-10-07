@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h553b4ae44d8046b8a1fb255239ed0de139a9" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="h553b4ae44d8046b8a1fb255239ed0de139a9" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Azer" />
+			<attribute id="Name" type="FixedString" value="AZER" />
 			<attribute id="UUID" type="guid" value="6e74176d-9770-4adb-bd38-3849da103093" />
 			<children>
 				<node id="Categories">
