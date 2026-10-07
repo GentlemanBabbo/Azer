@@ -277,7 +277,7 @@
 	<!--Class Spells-->
 		<!--Base Class-->
 	<content contentuid="hd762220b903048bcb6aba9152869c256dbfa" version="1">Fever Pitch</content>
-	<content contentuid="h370ba45f296643b490d82358d15ac5223009" version="1">Overload the Forge, resulting in an explosion for [2] damage, with you at the epicenter. Non-Azer Enkindlers suffer damage as well as those caught in the blast. Targets within range must roll a  &lt;LSTag Tooltip="Dexterity"&gt;Dexerity&lt;/LSTag&gt; saving throw; succeeding the roll reduces the damage suffered by half.</content>	
+	<content contentuid="h370ba45f296643b490d82358d15ac5223009" version="1">Overload the Forge, resulting in an explosion for [2] damage, with you at the epicenter. Non-Azer Enkindlers suffer damage as well as those caught in the blast.</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
