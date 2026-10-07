@@ -10,9 +10,9 @@
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="Description" type="TranslatedString" handle="hd3c4049d943f44ed9af5d5453d4cf4844302" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb9774b8268344abbadf4c4a5b8d30c07ff37" version="1"/>
-                    <attribute id="HpPerLevel" type="int32" value="7"/>
+                    <attribute id="HpPerLevel" type="int32" value="6"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Enkindler"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/>

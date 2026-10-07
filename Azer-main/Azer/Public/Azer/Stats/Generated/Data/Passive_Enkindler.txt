@@ -20,7 +20,7 @@ data "DisplayName" "h2f1c8f442fec4b30886c9ea4b4375d084fbe;3"
 data "Description" "h2b98b22ce204487b91f34c02d11a914761f3;4"
 data "Icon" "PassiveFeature_NaturalExplorer_WastelandWanderer_Fire"
 data "Properties" "Highlighted"
-data "Boosts" "IF(Tagged('AZER', context.Source)):Resistance(Fire, IMMUNE);IF(not Tagged('AZER',context.Source)):Resistance(Fire,Resistant)"
+data "Boosts" "IF(Tagged('AZER', context.Source)):Resistance(Fire, Immune);IF(not Tagged('AZER',context.Source)):Resistance(Fire, Resistant)"
 
 
 
@@ -31,7 +31,6 @@ data "DisplayName" "h9a89916374464095b9885ae21802ebc7371b;1"
 data "Description" "hf4e9462c76de4fc29d84fdd395f19d22ga34;1"
 data "Properties" "IsHidden"
 data "Icon" "PassiveFeature_MartialAdept"
-data "Boosts" "ActionResource(Anvil,1,0)
 
 new entry "GemstoneUnlocked"
 type "PassiveData"

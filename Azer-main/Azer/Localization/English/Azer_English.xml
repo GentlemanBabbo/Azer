@@ -191,7 +191,7 @@
 	<!--Class Passives-->
 		<!--Base Class-->
 	<content contentuid="h2f1c8f442fec4b30886c9ea4b4375d084fbe" version="1">The Flame's Calling</content>
-	<content contentuid="h2b98b22ce204487b91f34c02d11a914761f3" version="1">Attunement to the Forge has augmented your form. Non-Azer Enkindlers are resistant to Fire damage; Azer Enkindlers are immune to Fire damage.</content>	
+	<content contentuid="h2b98b22ce204487b91f34c02d11a914761f3" version="1">Attunement to the Forge has augmented your form. Non-Azer Enkindlers are &lt;LSTag Tooltip="Resistance"&gt;resistant&lt;/LSTag&gt; to Fire damage; Azer Enkindlers are &lt;LSTag Tooltip="Immune"&gt;immune&lt;/LSTag&gt; to Fire damage.</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
