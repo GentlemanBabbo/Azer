@@ -253,99 +253,99 @@
                   <attribute id="TableUUID" type="guid" value="885c3a8a-72fb-42e9-826e-8f04fb461953"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                   <attribute id="UUID" type="guid" value="7de9bfff-f9b3-4ece-99f2-ce4f3247fa48"/>
             </node>	
-            <node id="Progression"> Smithy Lvl 1
+            <node id="Progression"> Lavasmith Lvl 1
                   <attribute id="Level" type="uint8" value="1"/>
                   <attribute id="Boosts" type="LSString" value="ActionResource(Anvil,1,0)"/> Adds resource, proficiency, etc.
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value="AnvilUnlocked"/>
                   <attribute id="Selectors" type="LSString" value="AddSpells(14f7ddc0-e4c0-4b55-b8b3-b7f820dab230)"/>                  
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="495f4a70-e94d-447d-beaa-4cc3d80a2b24"/>
             </node>
-            <node id="Progression"> Smithy Lvl 2
+            <node id="Progression"> Lavasmith Lvl 2
                   <attribute id="Level" type="uint8" value="2"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="920e55e1-e7ca-4330-b815-47423b070e3a"/>
             </node>
-            <node id="Progression"> Smithy Lvl 3
+            <node id="Progression"> Lavasmith Lvl 3
                   <attribute id="Level" type="uint8" value="3"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="7a208dc4-6b58-4daf-86db-99fa9283a73d"/>
             </node>
-            <node id="Progression"> Smithy Lvl 4
+            <node id="Progression"> Lavasmith Lvl 4
                   <attribute id="Level" type="uint8" value="4"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="cc387cad-7104-46bc-abb9-d67a2cd3fcc3"/>
             </node>
-            <node id="Progression"> Smithy Lvl 5
+            <node id="Progression"> Lavasmith Lvl 5
                   <attribute id="Level" type="uint8" value="5"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="f5531102-fb77-47ab-89fc-5eecc1660bdb"/>
             </node>
-            <node id="Progression"> Smithy Lvl 6
+            <node id="Progression"> Lavasmith Lvl 6
                   <attribute id="Level" type="uint8" value="6"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="f2e11e4d-ac37-418d-9ef5-636da03dc888"/>
             </node>
-            <node id="Progression"> Smithy Lvl 7
+            <node id="Progression"> Lavasmith Lvl 7
                   <attribute id="Level" type="uint8" value="7"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="7d7226b3-8764-495a-bea7-18ad4da08ab0"/>
             </node>
-            <node id="Progression"> Smithy Lvl 8
+            <node id="Progression"> Lavasmith Lvl 8
                   <attribute id="Level" type="uint8" value="8"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="e946d264-8ea0-410c-829f-5a03de541f3b"/>
             </node>
-            <node id="Progression"> Smithy Lvl 9
+            <node id="Progression"> Lavasmith Lvl 9
                   <attribute id="Level" type="uint8" value="9"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="79c188a4-4ec1-40b8-ae3f-dc4174bcdff8"/>
             </node>
-            <node id="Progression"> Smithy Lvl 10
+            <node id="Progression"> Lavasmith Lvl 10
                   <attribute id="Level" type="uint8" value="10"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="9bb1ca32-4ba5-4f50-9dd9-d21787ac2d96"/>
             </node>
-            <node id="Progression"> Smithy Lvl 11
+            <node id="Progression"> Lavasmith Lvl 11
                   <attribute id="Level" type="uint8" value="11"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="9d828667-82cd-4c6b-b127-93e1cf825f46"/>
             </node>
-            <node id="Progression"> Smithy Lvl 12
+            <node id="Progression"> Lavasmith Lvl 12
                   <attribute id="Level" type="uint8" value="12"/>
-                  <attribute id="Name" type="LSString" value="Smithy"/>
+                  <attribute id="Name" type="LSString" value="Lavasmith"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value=""/>
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
