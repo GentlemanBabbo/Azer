@@ -22,23 +22,33 @@ data "Icon" "PassiveFeature_NaturalExplorer_WastelandWanderer_Fire"
 data "Properties" "Highlighted"
 data "Boosts" "IF(Tagged('AZER', context.Source)):Resistance(Fire, Immune);IF(not Tagged('AZER',context.Source)):Resistance(Fire, Resistant)"
 
-
+new entry "Passive_Scorch_Strike"
+type "PassiveData"
+data "DisplayName" "h4cc453c790c4426a951b082c51b04ee69a2d;2"
+data "Description" "h6f7a650155e544fa8cf037d861c02009ffb2;2"
+data "DescriptionParams" "DealDamage(1d6,Fire,Magical)"
+data "Icon" "Item_CONS_Potion_FireBreath_A"
+data "PriorityOrder" "2"
+data "Properties" "Highlighted"
+data "Boosts" "IF(HasStatus('BURNING',context.Target,context.Source) and IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit)):CharacterWeaponDamage(1d6)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasStatus('BURNING',context.Target,context.Source) and IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and TotalAttackDamageDoneGreaterThan(0)"
+data "StatsFunctors" "ApplyStatus(BURNING,100,0)"
 
 <!--Resources-->
 new entry "AnvilUnlocked"
 type "PassiveData"
 data "DisplayName" "h9a89916374464095b9885ae21802ebc7371b;1"
 data "Description" "hf4e9462c76de4fc29d84fdd395f19d22ga34;1"
-data "Properties" "IsHidden"
+data "Properties" "Highlighted"
 data "Icon" "PassiveFeature_MartialAdept"
 
 new entry "GemstoneUnlocked"
 type "PassiveData"
 data "DisplayName" "h80f9e206748d411abedbb79a74a29d2fge40;1"
 data "Description" "hefb0e13c417542819bff319338d6cd86cg19;1"
-data "Properties" "IsHidden"
+data "Properties" "Highlighted"
 data "Icon" "PassiveFeature_MartialAdept"
-data "Boosts" "ActionResource(Gemstone,2,0)
 
 <!--Smithy Passives-->
 

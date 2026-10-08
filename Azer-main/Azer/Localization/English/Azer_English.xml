@@ -192,8 +192,8 @@
 		<!--Base Class-->
 	<content contentuid="h2f1c8f442fec4b30886c9ea4b4375d084fbe" version="1">The Flame's Calling</content>
 	<content contentuid="h2b98b22ce204487b91f34c02d11a914761f3" version="1">Attunement to the Forge has augmented your form. Non-Azer Enkindlers are &lt;LSTag Tooltip="Resistance"&gt;resistant&lt;/LSTag&gt; to Fire damage; Azer Enkindlers are &lt;LSTag Tooltip="Immune"&gt;immune&lt;/LSTag&gt; to Fire damage.</content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h4cc453c790c4426a951b082c51b04ee69a2d" version="1">Scorch Strike</content>
+	<content contentuid="h6f7a650155e544fa8cf037d861c02009ffb2" version="1">You are drawn to the light dancing off your foe's body; their charring frame driving you forward. Your weapon attacks deal 1d6 additional fire damage to &lt;LSTag Tooltip="Burning"&gt;burning&lt;/LSTag&gt; targets.</content>
 	<content contentuid="" version="1"></content>
 		<!--Smithy-->
 	<content contentuid="" version="1"></content>
@@ -282,8 +282,8 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 		<!--Smithy-->
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h312b86cb46e54c96ba265fdf6991aec84g46" version="1">Summon Anvil</content>
+	<content contentuid="hfb40c0eb541949d6bdc2ae41fb374809c3c4" version="1">Manifest a fully functioning Anvil for use on the battlefield.</content>
 	<content contentuid="" version="1"></content>	
 	<content contentuid="" version="1"></content>
 		<!--Crystal Knight-->

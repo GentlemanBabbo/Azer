@@ -190,7 +190,18 @@
 					<children>
 						<node id="GameMaster" />
 					</children>
-				</node>				
+				</node>	<!--Smithy Anvil-->
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="Item_ENK_SMITH_Anvil_Summon_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8faf8a12-5cd9-461f-a57b-464688a1dcb2" />
+					<attribute id="Name" type="LSString" value="ENK_SMITH_Anvil_Summon_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="84dc46a0-eb7e-43fb-b3cd-9200bd017a15" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="50b99018-ff7f-41e6-95c4-63aebe439fbb" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758165" />
+				</node>							
 				<node id="GameObjects"> <!--Crystal Knight Starter Armor-->
 					<attribute id="Description" type="TranslatedString" handle="hb39e735095fe4317907b34252a0c7a50deba" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h0fb81034f4f04ce189037e3692252eff1fea" version="1" />				

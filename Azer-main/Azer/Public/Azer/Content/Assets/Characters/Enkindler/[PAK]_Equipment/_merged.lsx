@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource"> <!--Smithy Anvil-->
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.33486718 1.0346358 0.68482625" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.33638006 -0.0005755885 -0.7648289" />
+					<attribute id="Center" type="fvec3" value="-0.00075644255 0.5170301 -0.040001333" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="50b99018-ff7f-41e6-95c4-63aebe439fbb" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="ENK_SMITH_Anvil_Summon_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.9518056" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Tools/Smith/TOOL_Smith_Anvil_ABC/Resources/INTERACT_TOOL_Smith_Anvil_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Tools/Smith/TOOL_Smith_Anvil_ABC/Resources/INTERACT_TOOL_Smith_Anvil_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665791066" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="Bones">
+							<attribute id="MapKey" type="FixedString" value="Dummy_LandingPoint" />
+							<children>
+								<node id="MapValue">
+									<attribute id="Position" type="fvec3" value="-0.75 0 0.38" />
+									<attribute id="Rotation" type="mat3x3" value=" 0.07 -0.00 -1.00 &#xD;&#xA; 0.00  1.00 -0.00 &#xD;&#xA; 1.00  0.00  0.07 &#xD;&#xA;" />
+								</node>
+							</children>
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="5114b4c3-394b-0198-e6fb-eb1eedd8c0e1" />
+							<attribute id="ObjectID" type="FixedString" value="INTERACT_TOOL_Smith_Anvil_B.INTERACT_TOOL_Smith_Anvil_B_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="5114b4c3-394b-0198-e6fb-eb1eedd8c0e1" />
+							<attribute id="ObjectID" type="FixedString" value="INTERACT_TOOL_Smith_Anvil_B.INTERACT_TOOL_Smith_Anvil_B_Mesh_LOD1.1" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="5114b4c3-394b-0198-e6fb-eb1eedd8c0e1" />
+							<attribute id="ObjectID" type="FixedString" value="INTERACT_TOOL_Smith_Anvil_B.INTERACT_TOOL_Smith_Anvil_B_Mesh_LOD2.2" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

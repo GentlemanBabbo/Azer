@@ -126,7 +126,7 @@
                   <attribute id="Boosts" type="LSString" value=""/> Adds resource, proficiency, etc.
                   <attribute id="Level" type="uint8" value="2"/> Class Level for this entry
                   <attribute id="Name" type="LSString" value="Enkindler"/> Name of the class, keep it consistent with class description
-                  <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Scorch_Strike"/> most class features usually can be done with passives
                   <attribute id="PassivesRemoved" type="LSString" value=""/>
                   <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                   <attribute id="Selectors" type="LSString" value="" />
@@ -259,6 +259,7 @@
                   <attribute id="Name" type="LSString" value="Smithy"/>
                   <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
                   <attribute id="PassivesAdded" type="LSString" value="AnvilUnlocked"/>
+                  <attribute id="Selectors" type="LSString" value="AddSpells(14f7ddc0-e4c0-4b55-b8b3-b7f820dab230)"/>                  
                   <attribute id="TableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                   <attribute id="UUID" type="guid" value="495f4a70-e94d-447d-beaa-4cc3d80a2b24"/>
             </node>
