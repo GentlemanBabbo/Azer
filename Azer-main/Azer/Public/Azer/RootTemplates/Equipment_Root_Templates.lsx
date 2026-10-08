@@ -4,15 +4,15 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>	
-				<node id="GameObjects"> <!--Smithy Starter Armor-->
+				<node id="GameObjects"> <!--Lavasmith Starter Armor-->
 					<attribute id="Description" type="TranslatedString" handle="hde2e451319a044fd8778ede84128642d78cg" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h55da7fcc9e1942efb7f856081714a695bd73" version="1" />				
-					<attribute id="Icon" type="FixedString" value="SEM_Item_SEM_ARM_Enkindler_Smithy_Apron" />
+					<attribute id="Icon" type="FixedString" value="SEM_Item_SEM_ARM_Enkindler_Lavasmith_Apron" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="bb9f3ef8-7d6d-4537-aec8-170f61deffe4" />
-					<attribute id="Name" type="LSString" value="SEM_Item_SEM_ARM_Enkindler_Smithy_Apron" />
+					<attribute id="Name" type="LSString" value="SEM_Item_SEM_ARM_Enkindler_Lavasmith_Apron" />
 					<attribute id="ParentTemplateId" type="FixedString" value="21f0dd84-6f02-4be9-8654-4cebd00dcbaf" />
-					<attribute id="Stats" type="FixedString" value="SEM_ARM_Enkindler_Smithy_Apron" />					
+					<attribute id="Stats" type="FixedString" value="SEM_ARM_Enkindler_Lavasmith_Apron" />					
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 					<children>
@@ -174,23 +174,23 @@
 						<node id="GameMaster" />
 					</children>
 				</node>
-			<node id="GameObjects"> <!--Smithy Starer Lighthammer-->
+			<node id="GameObjects"> <!--Lavasmith Starter Lighthammer-->
 					<attribute id="Description" type="TranslatedString" handle="h9e1d5850abb44edebb281d688dfc5223d4ec" version="2" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hc3de6fa549024786bd4058e9662ffb5e9d84" version="2" />
 					<attribute id="EquipmentTypeID" type="guid" value="2fc3e6f9-120c-4adf-b7c3-7890aed7c312" />
 					<attribute id="Icon" type="FixedString" value="Item_TOOL_Masonry_Hammer_A" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="846db68d-547e-4502-a45c-131e8c92c8d4" />
-					<attribute id="Name" type="LSString" value="SEM_Enkindler_Smithy_Lighthammer_A" />
+					<attribute id="Name" type="LSString" value="SEM_Enkindler_Lavasmith_Lighthammer_A" />
 					<attribute id="ParentTemplateId" type="FixedString" value="c3bf6216-310c-4b71-ab7e-9997d8c8d251" />
-					<attribute id="Stats" type="FixedString" value="SEM_Enkindler_Smithy_Lighthammer_A" />
+					<attribute id="Stats" type="FixedString" value="SEM_Enkindler_Lavasmith_Lighthammer_A" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="e85b9937-731d-4718-ac89-7b0ee3d814ee" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 					<children>
 						<node id="GameMaster" />
 					</children>
-				</node>	<!--Smithy Anvil-->
+				</node>	<!--Lavasmith Anvil-->
 				<node id="GameObjects">
 					<attribute id="CanShootThrough" type="bool" value="True" />
 					<attribute id="Icon" type="FixedString" value="Item_ENK_SMITH_Anvil_Summon_A" />
