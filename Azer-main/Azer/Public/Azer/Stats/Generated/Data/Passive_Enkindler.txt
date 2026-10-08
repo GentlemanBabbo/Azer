@@ -50,7 +50,7 @@ data "Description" "hefb0e13c417542819bff319338d6cd86cg19;1"
 data "Properties" "IsHidden"
 data "Icon" "PassiveFeature_MartialAdept"
 
-<!--Smithy Passives-->
+<!--Lavasmith Passives-->
 
 
 
