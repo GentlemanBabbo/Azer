@@ -2,7 +2,7 @@
 
 
 <!--Enkindler Class Equipment-->
-new equipment "EQP_CC_SMITHY"
+new equipment "EQP_CC_LAVASMITH"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
