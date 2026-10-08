@@ -580,7 +580,7 @@
 					<attribute id="Initialized" type="bool" value="True" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="MaterialType" type="uint8" value="4" />
-					<attribute id="Name" type="LSString" value="SEM_Enkindler_Smithy_Lighthammer_A" />
+					<attribute id="Name" type="LSString" value="SEM_Enkindler_Lavasmith_Lighthammer_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="Radius" type="float" value="0.39996144" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -614,7 +614,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="8a55ff14-a40d-49c9-93f5-3f5070cfaeca" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_M_Enkindler_Smithy_Body" />
+					<attribute id="Name" type="LSString" value="AZER_M_Enkindler_Lavasmith_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -671,7 +671,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="cf81e625-7845-451e-a2dd-ebae717112e3" />
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="AZER_F_Enkindler_Smithy_Body" />
+					<attribute id="Name" type="LSString" value="AZER_F_Enkindler_Lavasmith_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
