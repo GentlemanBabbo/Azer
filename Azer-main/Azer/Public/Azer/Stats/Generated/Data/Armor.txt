@@ -1,7 +1,7 @@
 <!--Enkindler Armor-->
 
-<!--Smithy-->
-new entry "SEM_ARM_Enkindler_Smithy_Apron"
+<!--Lavasmith-->
+new entry "SEM_ARM_Enkindler_Lavasmith_Apron"
 type "Armor"
 using "ARM_StuddedLeather_Body"
 data "RootTemplate" "bb9f3ef8-7d6d-4537-aec8-170f61deffe4"
