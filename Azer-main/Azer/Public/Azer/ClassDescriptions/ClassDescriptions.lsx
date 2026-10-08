@@ -32,7 +32,7 @@
 		            <attribute id="Description" type="TranslatedString" handle="h35a2e1e4805d464ab57bec37e09bb33243e9" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h515c5f9fcd6f484cb97e5f411b894dd54c79" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Smithy"/>
                     <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
@@ -48,7 +48,7 @@
 	                <attribute id="Description" type="TranslatedString" handle="hd2e1cd0ec4514eed9a11602f78468370af4g" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h35fbe96df56148c18a77ec85c60308750c44" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Crystal Knight"/>
                     <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
@@ -64,7 +64,7 @@
 		            <attribute id="Description" type="TranslatedString" handle="he9ac150e13634aadbf4f289ad46c9c7ad44a" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4f6649ba92484447b3abbbbdca55b18f7052" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Conduit"/>
                     <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
