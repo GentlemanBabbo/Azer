@@ -22,7 +22,7 @@
                     <attribute id="UUID" type="guid" value="17e21a8e-cf03-4469-bf14-077a4a7cc857"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value="Smithy Level 1 Spell"/> 
+                    <attribute id="Comment" type="LSString" value="Lavasmith Level 1 Spell"/> 
                     <attribute id="Spells" type="LSString" value="Target_SummonAnvil"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="14f7ddc0-e4c0-4b55-b8b3-b7f820dab230"/> the UUID, needs to be unique
                 </node>                           
