@@ -12,7 +12,7 @@ data "VersatileDamage" "1d10"
 data "Weapon Properties" "Melee;Dippable;Versatile"
 data "Proficiency Group" "Warhammers;MartialWeapons"
 
-new entry "SEM_Enkindler_Smithy_Lighthammer_A"
+new entry "SEM_Enkindler_Lavasmith_Lighthammer_A"
 type "Weapon"
 using "WPN_LightHammer"
 data "RootTemplate" "846db68d-547e-4502-a45c-131e8c92c8d4"
