@@ -10,7 +10,7 @@
                     <attribute id="UUID" type="guid" value="f367dbdb-b3d3-4cd4-8770-481d4aff2d9c"/>
                 </node>
                 <!--Enkindler Class Passives-->
-                <node id="PassiveList"> Smithy
+                <node id="PassiveList"> Lavasmith
                     <attribute id="Passives" type="LSString" value="AnvilUnlocked"/>
                     <attribute id="UUID" type="guid" value="fb375f24-13ae-4b3b-91e8-94cff1538911"/>
                 </node>
