@@ -25,15 +25,15 @@
                         </node>
                     </children>
                 </node>
-				    <node id="ClassDescription"> <!--Smithy Subclass-->
+				    <node id="ClassDescription"> <!--Lavasmith Subclass-->
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SMITHY"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_LAVASMITH"/>
 		            <attribute id="Description" type="TranslatedString" handle="h35a2e1e4805d464ab57bec37e09bb33243e9" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h515c5f9fcd6f484cb97e5f411b894dd54c79" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
-                    <attribute id="Name" type="FixedString" value="Smithy"/>
+                    <attribute id="Name" type="FixedString" value="Lavasmith"/>
                     <attribute id="ParentGuid" type="guid" value="e191a788-9cc2-4c93-ba98-23161f6588e1"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="59bcaf87-f2cc-411e-aba9-0d70e4bd655b"/>
