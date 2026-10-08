@@ -25,7 +25,7 @@ data "PrepareEffect" "54d12e90-23ce-4f2b-af51-c50be6e9c6a9"
 data "CastEffect" "2550e2bb-c9f9-4440-9cd4-146a03f2e9bc"
 data "SpellFlags" "IsTrap;CanAreaDamageEvade"
 
-<!--Smithy Spells-->
+<!--Lavasmith Spells-->
 
 new entry "Target_SummonAnvil"
 type "SpellData"
