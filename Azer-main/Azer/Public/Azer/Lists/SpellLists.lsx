@@ -7,13 +7,8 @@
                 <!--Azer Race Spells-->
                 <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value="Azer Level 3 Spell"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_Fireblood"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="03b51c09-ddcb-4411-8987-ee5f4180d5f2"/> the UUID, needs to be unique
-                </node>
-                <node id="SpellList">Spelllist
-                    <attribute id="Comment" type="LSString" value="Azer Level 9 Spell"/> 
                     <attribute id="Spells" type="LSString" value="Target_IronboundPursuit_Azer"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="55041c15-257a-48dc-b99b-6f21555dc7d5"/> the UUID, needs to be unique
+                    <attribute id="UUID" type="guid" value="03b51c09-ddcb-4411-8987-ee5f4180d5f2"/> the UUID, needs to be unique
                 </node>
                 <!--Enkindler Class Spells-->
                 <node id="SpellList">Spelllist

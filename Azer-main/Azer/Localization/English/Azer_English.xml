@@ -142,7 +142,7 @@
 	<content contentuid="h81176a0937cc44a2bf2a5ff412e1036e6652" version="1">Cold Vulnerability</content>
 	<content contentuid="h007d6814d2e94f098a9b8a1feb988ac6g5b6" version="1">You are vulnerable to Cold damage.</content>	
 	<content contentuid="hccb8b6724c7047719a6aab6691cc4381de4a" version="1">Molten Core</content>
-	<content contentuid="hf3b14a0d69764c8f88d49ad9e9c5e4741d47" version="1">The rage of the elemental plane burns within your core. As a fire elemental, you are resistant to Fire damage and immune to all forms of burning. You are also immune to diseases.</content>
+	<content contentuid="hf3b14a0d69764c8f88d49ad9e9c5e4741d47" version="1">The rage of the elemental plane burns within your core. As a fire elemental, you are resistant to Fire damage and immune to all forms of burning. You are also immune to poison damage and status ailments.</content>
 	<content contentuid="haeea8afd976149b09bdf88bdc43c50a3g4b8" version="1">Forged in Flame</content>
 	<content contentuid="h82810c27035340cd97325f4618f3d6b9e4bc" version="1">Your true form has become exposed; you are immune to lava surfaces. Your comfortability in heat is so great, that lava surfaces heal you.</content>
 	<content contentuid="hc882c4b8c0ec475d9f00c49e23c22854dab6" version="1">Conductive Weaponry</content>
